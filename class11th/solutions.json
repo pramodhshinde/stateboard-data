@@ -1,1 +1,1666 @@
-solutions.json
+{
+  "solutions": [
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_001",
+      "title": "Introduction to Book-Keeping and Accountancy",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OYP0aoZEk1i3I4oxv9xWn_lk79GGQGIY"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_002",
+      "title": "Meaning & Fundamentals of Double Entry Book-Keeping",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=14q1NrzpenX5ShXFgWrrT3j6UmuOlX7TM"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_003",
+      "title": "Journal",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1qtl20s-Qy9I5sHOCxDuDUxG8rOaDnGH7"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_004",
+      "title": "Ledger",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NsE82a2-U9MybnsFngjzWljy6Uwu7ZIo"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_005",
+      "title": "Subsidiary Books",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1o9BHulQWPpwK2f9JMQWpmpteQoihuz8l"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_006",
+      "title": "Bank Reconciliation Statement",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vMHqP6aOIPk-KVQEC5BY8OC5HiSfo3hB"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_007",
+      "title": "Depreciation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OaZKdijmiC4YXQKsgf0eoOd2Z7C_x_im"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_008",
+      "title": "Rectification of Errors",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IiuPIGa9vR_kScEuZOBNa6_X6xhY3jTz"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_009",
+      "title": "Final Accounts of a Proprietary Concern",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nRNHdg3ufqAroLaX7hSgCWipzR9Rr5h0"
+    },
+    {
+      "bookUid": "eng_accountancy_11",
+      "uid": "sol_eng_accountancy_010",
+      "title": "Single Entry System",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1w8Ll2PhF0QvRc33_dIpB2_Vc_tb-8OUn"
+    },
+
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_001",
+      "title": "मामू",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1D9IRxabAoGKEXCEju2CKT4RAPqRIkk58"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_002",
+      "title": "प्राणसई",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NeJYSJ7Oh4jMDlBgunL-vp5KhPpc_xT8"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_003",
+      "title": "अशी पुस्तकं",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KKh-I7cTkoTi8oEu5_EgH2hRjcl3CntE"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_004",
+      "title": "झाडांच्या मनात जाऊ",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17-od94gYg6oR4fFxKZFOw2-qvgQICouX"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_005",
+      "title": "परिमळ",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zaW_G9544kYgJIMShJdyEGI1_4YXUm-r"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_006",
+      "title": "दवांत आलिस भल्या पहाटी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1L_tPYpQ_WxO8DXF9SYXynoSjkbtOG5-Y"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_007",
+      "title": "'माणूस' बांधूया !",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1yhWHX-jijlfwHxltblU4y3SGJU1hKAlj"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_008",
+      "title": "ऐसीं अक्षरें रसिके",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LZ2nGAEmA3LPkUBjfotYBd9m9pascyfz"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_009",
+      "title": "वहीनीचा ‘सुसाट’ सल्ला",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1amnIkUy92ARwuhzAYeL4XrWTq_DsmKMJ"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_010",
+      "title": "शब्द",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17nTiATHobRV5aYoAUBhIn_C9Qo8e77-_"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_011",
+      "title": "वाङ् मयीन लेण्याचा शिल्पकार",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pJvzjTgd5vqMQi3cFagI7sacANcZen-Q"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_012",
+      "title": "पैंजण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KtQvQSgKNN7dnSBske53oSrs8Em2aq3F"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_013",
+      "title": "नाटक-साहित्यप्रकार-परिचय",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H1oBtUN9_A6epgEZRzLfSUEuVMX0u-56"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_014",
+      "title": "हसवाफसवी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vHYiG-PX_wlKslCkrGdxJjehulBz3UTd"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_015",
+      "title": "ध्यानीमनी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sGGWTbbQ753MjLCQbbBDTsq5Z_c2Nijk"
+    },
+    {
+      "bookUid": "marathi_textbook_11",
+      "uid": "sol_marathi_text_016",
+      "title": "सुंदर मी होणार",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PbEfJr8bU6H--9RQ9RwVaAV7LR80WBB1"
+    },
+
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_001",
+      "title": "Some Basic Concepts of Chemistry",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iKDHZy9JzB5sUsSlWfpR7eRSp7w9y2wU"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_002",
+      "title": "Introduction to Analytical Chemistry",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1G-rzjKmUkuaWd1yzJZe3ig_kjjJ4biVD"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_003",
+      "title": "Some Analytical Techniques",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gyT_rAGN33EoS3ofz34ZvSiJf2IsBSVl"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_004",
+      "title": "Structure of Atom",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12CBgdneDAvwpHb5bATGZA2EVnu8-Wt5G"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_005",
+      "title": "Chemical Bonding",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15GySSpqrjHRymQqrIMdb4WKN2Vanhl8j"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_006",
+      "title": "Redox Reactions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1RhZLjSTHrU2OdJTw2KJAbxDMYE7yuaWV"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_007",
+      "title": "Modern Periodic Table",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xe9_lWJ4GVQNb88kC7TsMBq203YD_cHU"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_008",
+      "title": "Elements of Group 1 and 2",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1aiI_RwEn6lJwz-ivta8OJu1h6ikNtT3C"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_009",
+      "title": "Elements of Group 13, 14, and 15",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LM24zpZYksXmiH2oFakzvLTgogiKnIIZ"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_010",
+      "title": "States of Matter",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gilGu_SaCxYR1_tA6hokKMN19Y-p5GjQ"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_011",
+      "title": "Adsorption and Colloids",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ns0GEr80lfKUJF4qRFphWPQGjwmrnujo"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_012",
+      "title": "Foundational Principles of Chemical Equilibrium",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fuOwYbpJZ_W-EeNhzMpXsiq8fcEUUwVb"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_013",
+      "title": "Nuclear Chemistry and Radioactivity",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1jN7aGx0-0Ie6sQ5rQ_yLtpJiwQr8fBDn"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_014",
+      "title": "Basic Principles of Organic Chemistry",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OwXMJ93_F2ClN3iQC6Fj6m5Qu_iAXjXn"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_015",
+      "title": "Hydrocarbons",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Az5JG727gz0qmHvc5_n3ECBfpQuEXQYx"
+    },
+    {
+      "bookUid": "eng_chemistry_11",
+      "uid": "sol_eng_chemistry_016",
+      "title": "Chemistry in Everyday Life",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uo4SsYOai4u7KkA7SzkIhPjoaxzIpOBx"
+    },
+
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_001",
+      "title": "समाजशास्त्राची ओळख",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=10Qfm0QGmVA1GnOc6Pfo5mQDCPTko2vOM"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_002",
+      "title": "पाश्चिमात्य आणि भारतीय समाजशास्त्रज्ञांचे योगदान",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=13-uNW217w_mpu42rcUFesQym8p_pr-cA"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_003",
+      "title": "समाजशास्त्रातील मूलभूत संकल्पना",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1yah1mrxM6Efr8z3z-G8N32wl9kB1eRLR"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_004",
+      "title": "सामाजिक संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JnVtdYSr8gjm4mtlZrrNbTtg1gVa6Q-_"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_005",
+      "title": "संस्कृती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1hsL4fl0sHLBD5pdMBy8S7SBv-hcYEid3"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_006",
+      "title": "सामाजीकरण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1cesZJnOv4Buym1-T_HedQDkPM5yHLqBj"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_007",
+      "title": "सामाजिक स्तरीकरण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uW-RNX6SAUlKZly6NBe2Ox_NvdHbPEK0"
+    },
+    {
+      "bookUid": "marathi_sociology_11",
+      "uid": "sol_marathi_sociology_008",
+      "title": "सामाजिक परिवर्तन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18Tjp9t4oh-w47UwMMRazF-gGRtbzoGDT"
+    },
+
+
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_001",
+      "title": "आद्य शेतकरी (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1r974SpXet_LoEkEsfUTB9avnZUk6MUZi"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_002",
+      "title": "भारतातील आद्य नगरे (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BS7k-JrMgXc82tcA_fOZFMLVqOSfgbtk"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_003",
+      "title": "भारतातील ताम्रपाषाणयुगीन गाव-वसाहती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Oimb7a39ZPuzEEWcONrH0xQ0Akn_-_tc"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_004",
+      "title": "वैदिक काळ (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1352cT_LAtQKG5y9lkMTvhWkpmdgUUGY_"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_005",
+      "title": "जनपदे आणि गणराज्ये (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LfRkRCmmlIW-b3GxWD5DMkP4ApQJ2D7c"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_006",
+      "title": "भारतातील दुसरे नागरीकरण (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CnmfmEotoQ2UiiXN_bX8eN5uRbL57FUB"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_007",
+      "title": "भारत आणि इराण (पर्शिया) (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WNHZjcDHUNgEE5Uq2mp1uXDxJBiIFklA"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_008",
+      "title": "मौर्यकालीन भारत (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=19IUZ2nLsm0oG-smilbvOxX7l4JbBCzvX"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_009",
+      "title": "मौर्योत्तर काळातील भारत (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WgJVLqJYrEu9AJd6KDVShCqrzvUsVT18"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_010",
+      "title": "भारतीय इतिहासातील नवे पर्व (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lacZjHFeEw-XOZuIR_NybwW8jpQGw2QB"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_011",
+      "title": "दक्षिण भारतातील राजसत्ता (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18Hzq0cJtfsuk7aKGD64pvNtc-OVkzuHy"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_012",
+      "title": "भारत, वायव्येकडील देश आणि चीन (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1cIe_RD3YWuMPq-3AdrKnG6ZfQrJt9jIH"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_013",
+      "title": "भारत, श्रीलंका आणि आग्नेय आशिया (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_83cMuVCA5QCDR4P8jzRLDJNiG4v372B"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_014",
+      "title": "दिल्लीची सुलतानशाही, विजयनगर आणि बहमनी राज्य (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1V9eRAf3XcfSCq3idTj4n0npCXje6yDUU"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_015",
+      "title": "मुघलकालीन भारत (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SYcOemRWQ3vj4y_gBEskqpsdaXI2gDm8"
+    },
+    {
+      "bookUid": "marathi_history_11",
+      "uid": "sol_marathi_history_016",
+      "title": "स्वराज्य ते साम्राज्य (स्वाध्याय)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18lINXlvKtMSU72YdQz-N27YLsS_HUSwH"
+    },
+
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_001",
+      "title": "Sets and Relations",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XyDD_mP3O60UH5L4D9FgGtyuowz6z_pT"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_002",
+      "title": "Functions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Xm7IZd_VP0Bxf8iNEyQ9ljA8u203CFrG"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_003",
+      "title": "Complex Numbers",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1oMJxNvGmfKprk1xWeAgC1VR7FA1bo9DG"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_004",
+      "title": "Sequences and Series",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1EDvJQaYC2mE1y0hkU7OK9g9HM9bLbn9w"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_005",
+      "title": "Locus and Straight Line",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=13vDp9DnGdRCT6hA1OG6kbM6SyvNRvQPi"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_006",
+      "title": "Determinants",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZmpnEGib98X1ux7vxfUSZmdUy5uVC7rB"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_007",
+      "title": "Limits",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjRuQpTJjErR6yb0OKWfF2PVKtc3CJcs"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_008",
+      "title": "Continuity",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17I-wTi02Il97y7cMUgnlHDQ8Awuuono8"
+    },
+    {
+      "bookUid": "eng_math_com_11",
+      "uid": "sol_eng_mathcom_009",
+      "title": "Differentiation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17IzjdGuDKvUkiGvRcmscesrrclN1e2O7"
+    },
+
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_001",
+      "title": "सहकार_ अर्थ, इतिहास, वैशिष्ट्ये आणि महत्त्व",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FawePStV9Tl5SK53N6bYRHd0BDIXW73o"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_002",
+      "title": "विविध व्यवसाय संघटन प्रकारांचा तुलनात्मक अभ्यास",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1f9mBFdkOcPvHzgK1Xbbdl5kIrEGsAdV6"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_003",
+      "title": "सहकाराची तत्त्वे",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GtngAjUhgGRi550hIgy_jco-huZzLbqV"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_004",
+      "title": "सहकारी संस्थेची स्थापना",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WGrc0TQ5_u8LYyOFi0SFU2UgLVGyHWwK"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_005",
+      "title": "सहकारी पतपुरवठा संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fJhL6d0L7Or0Jfk4GAMmQnz3h8nbJl0T"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_006",
+      "title": "सेवा सहकारी संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wiaDxK442EX5uSPabAo0jkPXKScwEyue"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_007",
+      "title": "प्रक्रिया सहकारी संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Hfh72BZPETZ-gdt9AehCBTX2ZH7KxJln"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_008",
+      "title": "सहकारी विपणन संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QcDZRgtKYPDQIJYR7PB3piP1vHJeYSWF"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_009",
+      "title": "सहकारी गृहनिर्माण संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FfiHB9WaOY3c8rQgzKGsgW4RL17o4PsM"
+    },
+    {
+      "bookUid": "marathi_coop_11",
+      "uid": "sol_marathi_coop_010",
+      "title": "ग्राहक सहकारी संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kOqYcuUstfvKVWEAipvT_Y8RSQQJKUuP"
+    },
+
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_001",
+      "title": "Partition Values",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WamEPhNtcWsfS-gr9oiCu_44Bbsk18Vj"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_002",
+      "title": "Measures of Dispersion",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BGCIHDCm2JYb3VrL41wiy2XlUYCoP0wb"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_003",
+      "title": "Skewness",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BYe2JuPmziKw4QQNDDNfwWxzVdNUD8Bx"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_004",
+      "title": "Bivariate Frequency Distribution & Chi Square Statistic",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15NAB4ho0VvaHXmDv0-mGHwJcr9YZKDbp"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_005",
+      "title": "Correlation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XFTUyab7bFZuJm5q4tT_yfsHel7Gqw0A"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_006",
+      "title": "Permutations and Combinations",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kn5vVo1IrfsnGUC-pTQJitdyk2dg4dYz"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_007",
+      "title": "Probability",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-aLiXLIwxhcJAlmk08Fmz5GQGOfW-PGL"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_008",
+      "title": "Linear Inequations",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1V6wpdh358OKKViW_pXugBDRJzTUjm856"
+    },
+    {
+      "bookUid": "eng_math2com_11",
+      "uid": "sol_eng_math2com_009",
+      "title": "Commercial Mathematics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18omBicdXziMCPTLxQwQZu-V8AFYsBt7I"
+    },
+
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_001",
+      "title": "राज्य",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NIHZB9j7UN6Pp5GVO2wifrGuejvXi3CX"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_002",
+      "title": "स्वातंत्र्य आणि हक्क",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zui0o3e2cViKb-aQavi16YPFxVDY6ok0"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_003",
+      "title": "समता व न्याय",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dCEDNA0eo5avKy73KZGlLBDIr-i1QVW9"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_004",
+      "title": "संविधानिक शासन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=19FofUukuww3HWvfqfszDtOWasIZE2nqQ"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_005",
+      "title": "प्रतिनिधित्वाची संकल्पना (1)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1b_hSHKZnIyOJU1fVSrMAnZu6mMi_8UyQ"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_006",
+      "title": "न्यायमंडळाची भूमिका",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FaILGq_0gklgwU9BzVZkv1O6pKe4lQAk"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_007",
+      "title": "लोकप्रशासन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xW4_6ICFmdZ5ccAsNxUBLzxurBcbekWl"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_008",
+      "title": "विकास प्रशासन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dh98gn7Xw4C-1BU11AV8IEZiPUEG6kvo"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_009",
+      "title": "१९४५ नंतरचे जग (I)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pl9sp2OJpk8FZig7Ss0AKJVk5ugn8JAO"
+    },
+    {
+      "bookUid": "marathi_political_science_11",
+      "uid": "sol_marathi_polsci_010",
+      "title": "१९४५ नंतरचे जग (II)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=10X9bQ9KeJjrWYQtEevmyr8eNldqOda4L"
+    },
+
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_001",
+      "title": "Introduction of Commerce and Business",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UTZ22a4RbB8ObUr0u9hKPwe9QVDcUaQH"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_002",
+      "title": "Trade",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MeJoYXFV-ZI7JOYsZAapOjMi-qRH_LxL"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_003",
+      "title": "Small Scale Industry and Business",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DmqUo_WkgUwp96wag07yoTt4J_EvTlwd"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_004",
+      "title": "Forms of Business Organisation - 1",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vAxY6QoCxIi6fn2DY-w0z1xmXU97SE_W"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_005",
+      "title": "Forms of Business Organisation - 2",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TE1nAIENtTa_leq7YNx7vY9lCz7mgYCG"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_006",
+      "title": "Institutes Supporting Business",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15AQEYcI5Url05Lr2Xl4nnPR48oL-A40o"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_007",
+      "title": "Business Environment",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=16l3pluVKnh3zxtA6EQLutSdU5CuZp8kP"
+    },
+    {
+      "bookUid": "eng_org_commerce_11",
+      "uid": "sol_eng_org_008",
+      "title": "Introduction to Management",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KpS6hy9HkmAQ9vjVJgabzm2qybek-egA"
+    },
+
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_001",
+      "title": "भू-हालचाली",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12Sw877Xxvs3-DsD1_MqIJhTHlWHoSP5f"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_002",
+      "title": "विदारण आणि विस्तृत झीज",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1EZZOo2R672ZRI72BcZDxiahss1MCVK18"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_003",
+      "title": "अपक्षरणाची कारके",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Z-q7GNnQMlG0W9Cv-Ok1M_OcBo0xoAKJ"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_004",
+      "title": "हवामान प्रदेश",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XZSsvEEPEn5IPy22tY8-tav74Er7oGBA"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_005",
+      "title": "जागतिक हवामान बदल",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18MDkvezG1ECUtIYeToX1KnmMzMIOEwJ7"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_006",
+      "title": "महासागर साधनसंपत्ती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vlmtq2ICgTLfz7BPrVx_MiBIzxrVWLfK"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_007",
+      "title": "हिंदी महासागर - तळरचना आणि सामरिक महत्त्व",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JCleuh4_LfpEbFXxAUxun4FaC0MmGYEV"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_008",
+      "title": "जीवसंहती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18K4Hqy-PlOz5H1GnkIJ4zQZ5WH3fkvHz"
+    },
+    {
+      "bookUid": "marathi_geography_11",
+      "uid": "sol_marathi_geo_009",
+      "title": "आपत्ती व्यवस्थापन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kh_jv4qkay_8ingKwWcMS-t2U3h_Ah1A"
+    },
+
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_001",
+      "title": "Basic Concepts in Economics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=10qxtcj5ktqH348DOm7nMLDeqrTyxYeLG"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_002",
+      "title": "Money",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1yICmVgO2wyGebSHJT-wMz98ENn2O7LQW"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_003",
+      "title": "Partition Values",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TEICGUDZvLcXVrP8bHIl8_DfAwvPNkJv"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_004",
+      "title": "The Economy of Maharashtra",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KZg4ZraeJyVHWIEf52KHlI9Qs9qCqaYm"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_005",
+      "title": "Rural Development in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lqNnC8Ly-Ek7jsiy91-ceMbpRknuFIqM"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_006",
+      "title": "Population in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IgntoHK-fql7k4PKj-oeMnVrCrDauapn"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_007",
+      "title": "Unemployment in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1j0OitW_uYcvNF344n43gWOvNZD8uL4RT"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_008",
+      "title": "Poverty in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1d6TGLKWZEOOAirb-7pYtJmQrPgKZJU3N"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_009",
+      "title": "Economic Policy of India since",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PittenX5FXgrIAtDIeuU6jclJNhZ9D_m"
+    },
+    {
+      "bookUid": "eng_economics_11",
+      "uid": "sol_eng_economics_010",
+      "title": "Economic Planning in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=16qQn35wApH6RdcZu9M8iPbEUafCEg7ov"
+    },
+
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_001",
+      "title": "अर्थशास्त्रातील मूलभूत संकल्पना",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Pf_5xOM1BWKqUO-p8LbVbVwe65BHKKgP"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_002",
+      "title": "पैसा",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uSH7dDpNFJtz6KxZgzPvJ_2TcAh60W0L"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_003",
+      "title": "विभाजन मूल्य",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=10_as9nb9HivlWuG9S_1PY0ybyvS09lP6"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_004",
+      "title": "महाराष्ट्राची अर्थव्यवस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1K-8Vn5eqRy2Dtb7_GXvRbH58uOU54kaa"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_005",
+      "title": "भारतातील ग्रामीण विकास",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JE4u2N_lAdjcvOqnyibMPlnZPUuyRqpG"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_006",
+      "title": "भारतातील लोकसंख्या",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1yC8bZYoFEE_6O8ksE00JK2Kow81UFuKE"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_007",
+      "title": "भारतातील बेरोजगारी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KzN_AUwWcIqcY3QppSiBw9cLKzxa-749"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_008",
+      "title": "भारतातील दारिद्र्य",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nR6zDx2EzgvcKGo4jRy1N6h4ADJ3iuID"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_009",
+      "title": "भारताचे १९९१ पासूनचे आर्थिक धोरण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vhjUOB4J4AiWe3wGxNq8eedvYJia5hyd"
+    },
+    {
+      "bookUid": "marathi_economics_11",
+      "uid": "sol_marathi_econ_010",
+      "title": "भारतातील आर्थिक नियोजन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XJ92Yz29Sg7fu_oHOwJXd4ILYoSUgeXf"
+    },
+
+    {
+      "bookUid": "eng_it_11",
+      "uid": "sol_eng_it_001",
+      "title": "Basics of Information Technology",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=16N09313JDBWK1vCCjXRPlS4y72AR49P9"
+    },
+    {
+      "bookUid": "eng_it_11",
+      "uid": "sol_eng_it_002",
+      "title": "Introduction to DBMS",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1hc_6EMUIZov7tq7ORi7AyTp3QpLLWXV_"
+    },
+    {
+      "bookUid": "eng_it_11",
+      "uid": "sol_eng_it_003",
+      "title": "Impressive Web Designing",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1r8dZNEHP103bybS08663LnpKny7ibogM"
+    },
+    {
+      "bookUid": "eng_it_11",
+      "uid": "sol_eng_it_004",
+      "title": "Cyber Law",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1D0-bgNtHyQZ43vTs5FBZitudm4ujf2P9"
+    },
+
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_001",
+      "title": "Units and Measurements",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vrVKhaRke63qRedLJfJDQy2fb5fH5jds"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_002",
+      "title": "Mathematical Methods",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1h4yJJlD3iYjrt7QryvKwzX9sRteuj7sf"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_003",
+      "title": "Motion in a Plane",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=14E8YE4ZXrw46EK74RndD8ysaJVTJoRdo"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_004",
+      "title": "Laws of Motion",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HhBD-Bv7hnvzGaZk1D7fgwOxkVpDtkI-"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_005",
+      "title": "Gravitation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OQVfc8f15IVuWdr3mJdxTFr0AjhabJoN"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_006",
+      "title": "Mechanical Properties of Solids",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IXrj2NKb4iWl-KFs-pVBe1QWCgKGhPA6"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_007",
+      "title": "Thermal Properties of Matter",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kb0Nm7o8yTNiz-ARVCNm2tIEPMyM6s9n"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_008",
+      "title": "Sound",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Gl8VL8W0nwzKA9OH2b1u_qX80GaARE9h"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_009",
+      "title": "Optics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1apwSVofH083WeaEswtRRjICKFZYWcgMg"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_010",
+      "title": "Electrostatics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UykDmUxyrZcH6NbfyWxwNmusenRIKpIC"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_011",
+      "title": "Electric Current Through Conductors",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uoov2IWxX6_pJ25--v1AChCmoaV37jdH"
+    },
+    {
+      "bookUid": "eng_physics_11",
+      "uid": "sol_eng_physics_012",
+      "title": "Magnetism",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vqyZxx1vNo_5nwt0htGdsD717Ze4hQgz"
+    },
+
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_001",
+      "title": "Being Neighborly",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fCM0n9AOeyuPIdq7cv7sg12_LK2j3glB"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_002",
+      "title": "On To The Summit : We Reach The Top",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1urcqkZGk694X-cz-xmlHwtWKvHTZzSjl"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_003",
+      "title": "The Call of the Soil",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xi1yCld-WBCNcle6QopnZhNMnKeFh2HR"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_004",
+      "title": "Pillars of Democracy",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pUHV_FpD2Uh0a_keJ2-Ycs0LukzXJX4Z"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_005",
+      "title": "Mrs. Adis",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=102wEc9KdoiPxiNfGVtRdeemp4irqJv8R"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_006",
+      "title": "Tiger Hills",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MPMvp5n59kVGPUP-wLTox4FTfk7QiPO7"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_007",
+      "title": "Cherry Tree",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SLR_TT9JsA8N8K-tkPqu-Sa393JKniJo"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_008",
+      "title": "The Sower",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-no3wYsDvi60hbFp7KKKbvfj0brXHhx1"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_009",
+      "title": "There is Another Sky",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wpECwVyxd1yuU4wdPLJPsfGVyl74t9Pt"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_010",
+      "title": "Upon Westminster Bridge",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FCIBXxFu55kYRHS_5Y5xtZp8ZdEGr3d8"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_011",
+      "title": "Nose versus Eyes",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17hsClTW_qXU-X9qN3dClpklFZ5auPAWC"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_012",
+      "title": "The Planners",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1v9tRw3Gl69jtw56MPStC3W3S7NNknuss"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_013",
+      "title": "Expansion of Ideas",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1U08lxDb9wdoVMJ-WM4He5r7SuP6XWB3k"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_014",
+      "title": "Blog Writing",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ruVQmNi6GddOcA2zSJhd6bhBpv791RPw"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_015",
+      "title": "E-mails",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11WwtPmBCK0I46V1EJLJqpFzApkvV_087"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_016",
+      "title": "Interview",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_QEo1gXlv_mO5_hH_Y-C6KCHmal9YFei"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_017",
+      "title": "Film Review",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Atj_90n0wmQaGSdz-u8f78sUPhdlsslA"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_018",
+      "title": "The Art of Compering",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_WiLLe00ib3XBerBQZWJgfAripp662fG"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_019",
+      "title": "History of English Drama",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1K9d457SmhvdjvvqwOhAbgKvjU-aaAolb"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_020",
+      "title": "The Rising of the Moon",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OTYQlN-AlWLtFStZu_DTGfy1bHzhLOkl"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_021",
+      "title": "Extracts of Drama - (A) A Midsummer - Night's Dream",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1awH3QO05BWBTPDsnk0NsTDF2nviVaJ9C"
+    },
+    {
+      "bookUid": "eng_english_11",
+      "uid": "sol_eng_english_022",
+      "title": "Extracts of Drama - (B) An Enemy of the People",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dBhnSVeO9ejHENQ189mTv-7gvBSttfnZ"
+    },
+
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_001",
+      "title": "The State",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H-mr9UN6VlK-YOR6qvytIgzWz8H1s82O"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_002",
+      "title": "Liberty and Rights",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DhaMjP0_ZKC0f1rmIDf8WjmEoZLzELUZ"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_003",
+      "title": "Equality and Justice",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1O4iJDzBQOHByKYqjX9QuHF1LTXjDeOPv"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_004",
+      "title": "Constitutional Government",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UGudEsgQ_AVhABkysdMSYz9o8kB4y8az"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_005",
+      "title": "Concept of Representation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BfnQipi-KtKltpngR1_q-Rfkch9RqKuS"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_006",
+      "title": "Role of the Judiciary",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xjk4xE0QCiA9Y0uPEjJQK9h5Ig22ETQH"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_007",
+      "title": "Public Administration",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1YRBgieaBhXSrq_6H8MkAjYSPSNbYATto"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_008",
+      "title": "Development Administration",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JRxPd0puZiM0Qy_XqGHCRB0Q9qf3txnq"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_009",
+      "title": "The world since 1945 – 1",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12ggXb1_W6tN2Cez1thQJ9CN3M6z6Tc_0"
+    },
+    {
+      "bookUid": "eng_political_science_11",
+      "uid": "sol_eng_polsci_010",
+      "title": "The world since 1945 – 2",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KhygkexaSjbeCX8o-TFNJsVv73RNeSJY"
+    },
+
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_001",
+      "title": "First Farmers",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1icQFxIGxmoMdJAe-sXbFT19jwLsdX-Kf"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_002",
+      "title": "First Cities of India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1d_OohP1iSqwj3OdgThrKiL-cyPxE2100"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_003",
+      "title": "Chalcolithic Villages in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1f3Q_zcOK6AlObLY_wMaRhUWk3MylJHJZ"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_004",
+      "title": "Vedic Period",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15oQ48X94QPE0xoWnSdxoFm2xiPqGPpSV"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_005",
+      "title": "Janapadas and Republics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1e07OxpztyEmQpwR81s8LbkDwbVptKsl4"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_006",
+      "title": "Second Urbanisation in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1soflswv42suUyJcRQUboaChtzR7CffJU"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_007",
+      "title": "India and Iran (Persia)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pklEBIATbbQ1TmUSxiembq_qlnVKq8MB"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_008",
+      "title": "India during Mauryan period",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZHTq59foThTBxyEOzv551oLg3CTtacbu"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_009",
+      "title": "Post Mauryan India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pf-By6_2TM1SxwVS35A_P0J5_sJtH_RS"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_010",
+      "title": "Changing Times",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1U_h9th51XMwAnEDUgboGnAGNNB0bN4zJ"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_011",
+      "title": "Kingdoms in South India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zxYpJO8MER0p4DfPuFFe9lKPL1tvozr"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_012",
+      "title": "India, Nations in the northwest of the Indian Subcontinent & China",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1K301c1hn7cRQcnbANBq2UBOXIuErguMD"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_013",
+      "title": "India, Shri Lanka & Southeast Asia",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wNGFzPedGsO5DGbEbUWbfzyQgHFii-Xp"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_014",
+      "title": "Delhi Sultanate, Vijayanagar & Bahamani Kingdom",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dTqeauTSw4sju67oGmmv-wJfjf4aiCif"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_015",
+      "title": "India during Mughal period",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZtFfLdc0-LcMKPSfhzP9SaUcMSEa-gAM"
+    },
+    {
+      "bookUid": "eng_history_11",
+      "uid": "sol_eng_history_016",
+      "title": "Swarajya to Empire (Maratha period)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gZNE-jyNwCZIC4rehWV86agyalnsXNZT"
+    },
+
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_001",
+      "title": "चिटणीस",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OEwECWmYUG2geGzwGKO6Lf0jg0fOGovp"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_002",
+      "title": "संयुक्त भांडवली संस्था",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17_9iabx8fYy6KQGxEaz6Ck0N_vlZ4YNn"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_003",
+      "title": "कंपनीची स्थापना स्वाध्याय पूर्णता",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xcauRPh_tfJMSgs1JchIDvkJsaIU49Si"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_004",
+      "title": "कंपनी स्थापनेसंबंधित दस्तऐवज",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1I8Qu4gllla2WM4yIscMI7PX29yZwgLNd"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_005",
+      "title": "कंपनीचे सभासद",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=183LAXn5xrcmrYWozs4Ma_TUKqAvdJ5-7"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_006",
+      "title": "कंपनीचे संचालक व मुख्य व्यवस्थापकीय कर्मचारी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11S_Ob218Tsz50SZClvF-zHvIEWKB3EaX"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_007",
+      "title": "कंपनीच्या सभा - भाग १",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1v_kDUktTmgOpIVXiW_l5tvhPgi8tkpJv"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_008",
+      "title": "कंपनीच्या सभा- भाग २",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1d3AnwNanS18cxbnD4dE5zIurGBWsm-l7"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_009",
+      "title": "चिटणिसाचे व्यावसायिक संप्रेषण कौशल्य",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CqF0b2R8vgq6D1ZJQG2qEbr28jl8yEX4"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_010",
+      "title": "संचालकांशी पत्रव्यवहार",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xZC25W14hQh_3qBYTZQt1ryhmUqzFwSt"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_011",
+      "title": "बँकांशी पत्रव्यवहार",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fFS8Erq558XDZQLehovp6Qj2FJklr3WV"
+    },
+    {
+      "bookUid": "marathi_secretarial_11",
+      "uid": "sol_marathi_secretarial_012",
+      "title": "वैधानिक अधिकाऱ्यांशी पत्रव्यवहार",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QtHZ9XTtXN3tGCYT7ov-bYjoX1cj5TVw"
+    },
+
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_001",
+      "title": "Living World",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=13gA3kHzAnyBgsnMu5YQV-vpHSMJ1TZcM"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_002",
+      "title": "Systematics of Living Organisms",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1bxpsGKdOOVmIBtzy3A9JBKceVSUhh8Sx"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_003",
+      "title": "Kingdom Plantae",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1bz6kc3KheLPzhJdsgRTn9lEAwZkoIScO"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_004",
+      "title": "Kingdom Animalia",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=133mEWsbL7OwKmxMvr8Hze1DKoHpXWqZA"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_005",
+      "title": "Cell Structure and Organization",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=130mSfffWscRxRo7xh_-QQeu78m9rpzKD"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_006",
+      "title": "Biomolecules",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AJde4k4xc84SQKd-YiSr0yNQlBeY3PfV"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_007",
+      "title": "Cell Division",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17TqW4BagQx_wMnUCPdAeEMkCD7DTLJvw"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_008",
+      "title": "Plant Tissues and Anatomy",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZV2_SS8SSzXr4Nsk03ixyTDLFrMiqAa2"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_009",
+      "title": "Morphology of Flowering Plants",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GL7h7HbxGSHk2mk4SgnnanaJ1LIXBXHR"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_010",
+      "title": "Animal Tissue",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ePd7dzvhbxZtrO9n1cHqQMP_pwbbv8kF"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_011",
+      "title": "Study of Animal Type : Cockroach",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=113vMChUpf2d_yRwtsytwAo6hKW6rGSAt"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_012",
+      "title": "Photosynthesis",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LvRV2yrX0sa0G0QWXxPxJdGYJt1Cvyvl"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_013",
+      "title": "Respiration & Energy Transfer",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ys1O5QK7khjFHeN8faOm3tapPxGZk6sk"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_014",
+      "title": "Human Nutrition",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=13etVzclCXrn5mDAdsdywSdCsYPdeZpcr"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_015",
+      "title": "Excretion and Osmoregulation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xFHEHtVi0tKR9EBu4JdJWoSNtYhViUzr"
+    },
+    {
+      "bookUid": "eng_biology_11",
+      "uid": "sol_eng_biology_016",
+      "title": "Skeleton and Movement",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Y0twlNJoyX-ZgbWcJaUka1sQS5TCouAc"
+    },
+
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_001",
+      "title": "Introduction to Sociology",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NJAfNzkN3coFWexBwCh_Kd2TOsFwTQXu"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_002",
+      "title": "Contribution of Western and Indian Sociologists",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11r0G3X0yZcgfHgvpsDIpubpeHzyRfkcr"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_003",
+      "title": "Basic Concepts in Sociology",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1aURw1XhNpVlin1NgWYUZ_WkZ2tYKPOf5"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_004",
+      "title": "Social Institutions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=19PlcdqAOkCcnTpng17NdY48It9PvdDK2"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_005",
+      "title": "Culture",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QAh-Fj3mQIGMIvK9EtgK-SsQH3OGzttl"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_006",
+      "title": "Socialization",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1P9Je6AexynphjQ33H4-OiDyCRM_Ap1uE"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_007",
+      "title": "Social Stratification",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1I_zdTFkYQuzbe9EXm8dGSUc-_hQq839U"
+    },
+    {
+      "bookUid": "eng_sociology_11",
+      "uid": "sol_eng_sociology_008",
+      "title": "Social Change",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=192D6zsJEyNBudDOZWuskle9cODFZp2Dw"
+    },
+
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_001",
+      "title": "Secretary",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_si6HWJyTW_25EZGO3keqeG-ZVvk8T1n"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_002",
+      "title": "Joint Stock Company",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xpGBqOnWouJZVNHwOWp1SCtN67swMvla"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_003",
+      "title": "Formation of a company",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QEvsSSQJsV5_7S6kcBiJjKEtzpnTR9VG"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_004",
+      "title": "Documents related to formation of a company",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12tJYJ83_5SNyHoS-tQledYP64tnmgfT9"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_005",
+      "title": "Members of a company",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1imGG5XB-SdRnuitTXBsgMH8InabT7uuy"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_006",
+      "title": "Directors & Key Managerial personnel of a company",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XX8iTSX1nStAAG_3rbEdoG-fv9VTfG0d"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_007",
+      "title": "Company Meetings - 1",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dtp0M3yywJLuGhcvoJq7rQFVlwuoPX2G"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_008",
+      "title": "Company Meetings - 2",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15t15WmvhLoY1Uy7aKKpSP1WQXvOOeNWb"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_009",
+      "title": "Business Communication Skills of Secretary",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IcZZUBakF9v41pTvK148pccRb-ycnaPj"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_010",
+      "title": "Correspondence with Directors",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1EwhSiB1Y-fiX-fcfgt-GQNlBd5hBqhGb"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_011",
+      "title": "Correspondence with Banks",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sHtGb4QVijYc_XDYi24j90aAYlHQ0Z4u"
+    },
+    {
+      "bookUid": "eng_secretarial_11",
+      "uid": "sol_eng_secretarial_012",
+      "title": "Correspondence with Statutory Authorities",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Xjd7BAM-XzaA2rbcbLpuS83ywjikvfOp"
+    },
+
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_001",
+      "title": "प्रेरणा",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Od4CIq2HNRFh-XZF8tDrydSoTbWWXFy6"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_002",
+      "title": "लघुकथाये (उषा की दीपावली, मुस्कु राती चोट",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1jraMPygDueCOX6yla0T2dM-w5_StlJ8n"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_003",
+      "title": "पंद्रह अगस्त",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1B0XXRJB8OJ8yWYmhyiIdYTEblCQCPGJK"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_004",
+      "title": "मेरा भला करने वालों से बचाएँ",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Q0Cl1Ytcy0iQ1ean96CneI9ikMphmh4n"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_005",
+      "title": "मध्ययुगीन काव्य - भक्ति महिमा",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1R49-LfCrAfV6x9JAIbxCXAeoqJgedCVq"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_006",
+      "title": "मध्ययुगीन काव्य - बाल लीला",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZMY7CRfL2oAY3A3FIYERFvfWc5y9HZP3"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_007",
+      "title": "कलम का सिपाही",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TQQAe2Tp73NYDm88E_OsZDqwmGp9uG14"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_008",
+      "title": "स्वागत है !",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15YEP3diFJfSERD_FI-pEk-NhCoe4fsIL"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_009",
+      "title": "तत्सत",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Woj6nAxy41mGalSo5SERAeZTdo8IdfdF"
+    },
+    {
+      "bookUid": "hindi_yuvakbharti_11",
+      "uid": "sol_hindi_yuvak_010",
+      "title": "गजलें (दोस्ती, मौजूद)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xRfAjrcA4sijq40Zw3BbtfkLGEFryLmx"
+    },
+
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_001",
+      "title": "पुस्तपालन व लेखाकर्माची ओळख",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mKTN18QdMqRUO3_FNsogImaJP9gF6dlt"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_002",
+      "title": "पुस्तपालनाची द्विनोंद पद्धती, अर्थ आणि मूलतत्वे",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Od1alFhQ4PtiumA4nFBB_8PM0SbKgcvg"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_003",
+      "title": "रोजबिर्द_पंजी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1N3XuRtRa-NPtJi3iAedM0zjpvniU2u1x"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_004",
+      "title": "खातेवही _ प्रपंजीयन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=19QEL23oqhW4nR5RpbhqWws56yfJ20ZwM"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_005",
+      "title": "सहाय्यक पुस्तके",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IuAz-5EdieJfRyoOnpeSx5sr_v6RTUbW"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_006",
+      "title": "बँक मेळपत्रक _ बँक जुळवणी पत्रक",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1YNqzchAY5W3T6DOx0dZoGFzOt-Aqy_25"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_007",
+      "title": "घसारा _ अवक्षयन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ImU0cv8AVQsSo8UaQU3rj0RyijXcefkb"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_008",
+      "title": "चुका व त्यांची दुरुस्ती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1V2mn4tk91NdmwDpK4-QxIFWgqt_eW-2c"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_009",
+      "title": "स्वामित्व संस्थेची अंतिम खाती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PxbkaezlZ5E17tN40q40uT-Up6YjcQRu"
+    },
+    {
+      "bookUid": "marathi_pustpal_11",
+      "uid": "sol_marathi_pustpal_010",
+      "title": "एकेरी नोंद पद्धती",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ds0wHtHMo4hUp2Tk7DtNoO_fl2VJELv9"
+    }
+  ]
+}
