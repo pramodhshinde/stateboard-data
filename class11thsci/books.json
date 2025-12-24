@@ -7,52 +7,59 @@
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=111JddijQNw8SqAf9DiiyQ3q1du5Y_Y5w"
     },
     {
-      "uid": "eng_economics_11",
-      "name": "Economics",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1Y3w-C57v3DP26YJxt06Y8vgKh54VwE3B",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1jBhyfJ7XlNri07N3iLABXM2Ta5ZcSwIN"
+      "uid": "eng_math_11",
+      "name": "Math & Stat 1 ",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17Vxw_UYVxWY3BGreOKkHt-Wa2N6bphL7",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1NW-7c7j3SGksAAa6FoLyPyCYEZ373VWN"
     },
     {
-      "uid": "eng_math_com_11",
-      "name": "Math & Stat 1 Com",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1O3594KC4qTYXsxds-mn2fmPFw6Efm8qR",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1skB13_w0p-USh834UdXvUVJiybM_coGF"
+      "uid": "eng_math2_11",
+      "name": "Math and Stat 2 ",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1PfDm0TzQbvXISlE_pVLpKGZK5DAqm_z0",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1l0claFu2wxlt960lDn6uIl3Qp7I0AXFf"
     },
     {
-      "uid": "eng_math2com_11",
-      "name": "Math & Stat 2 Commerce",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1b3-oHu73nr_6Or7H1YAEuusdqJxJ8SGV",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TBSKERaB1CQp5tBqCwWrS92_-jZTxpWr"
+      "uid": "eng_physics_11",
+      "name": "Physics",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1TUPKpNWYv6p8Nmhh9civvbghMew6odgl",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1CvxgSUpvMJoDE0Ae6jtVFjk_ymS7DLqx"
     },
     {
-      "uid": "eng_accountancy_11",
-      "name": "Book keeping and Accountcy",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1sCGvX2nyD4_Q5zEKYrFiQP80OyRlOQpQ",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=10WHHfMnuyiwaAmYjDGR-dNbGL65bUOgz"
+      "uid": "eng_chemistry_11",
+      "name": "Chemistry",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1oF7mpYcWH4Gf2bVK5WCmPZW9y5ZZm2kt",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1jTgHznpY0dCnna6JNJ2WDb2gZ8QSAb6U"
     },
     {
-      "uid": "eng_org_commerce_11",
-      "name": "Organisation of Commerce & Management",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1xUoipzntmaeSak5Ck5H4rCPR78q-0PqN",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=11Huny6FUbHHpYUwhayVmbUR5mkzNioBw"
-    },
-    {
-      "uid": "eng_secretarial_11",
-      "name": "Secretarial Practice Book",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1qis_Lr3gvAuYyrNUZbhf39Fkabbatqea",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1soMQTzjgB7ckZ_IIBcNgLarPIElv6-NX"
-    },
-    {
-      "uid": "eng_other_11",
-      "name": "Co Operation",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1KetXBu075mPk9NwM8d2-uy_hjHOt5Wgy",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1G3LahRcFa2TZBY9r46ktSq4fhoq4LU9o"
+      "uid": "eng_biology_11",
+      "name": "Biology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1wOWzbH6q404zoS0jFL6qTR7wnN2-h0Xx",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1BkGzqUPvn-tsT6RLK_Tg_N-q0JoqudMa"
     },
     {
       "uid": "eng_it_11",
-      "name": "Information Technology",
+      "name": "Information Technology ",
       "imageUrl": "https://drive.google.com/uc?export=download&id=1NMVJmVJVk3PCp_gOOyTLBaIPKS_ldfmn",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1mqp8aiIxWDjEFzK1Dumbdili18R8CnWt"
+    },
+    {
+      "uid": "eng_geography_11",
+      "name": "Geography",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1YvHkcOvsS35qcpbgqYloksAMpOTc-zGs",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1o1oScbvZQFxVE9tjB39ujovb-PzDikn1"
+    },
+   
+    {
+      "uid": "eng_food_science_11",
+      "name": "Food Science and Technology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1uhPb9pQg6a0px6pjoFOh3lDJiKUtUPde",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1-bdKxe7FTYzckcHQG8aVpeeZkVt9TZyq"
+    },
+    {
+      "uid": "eng_earth_11",
+      "name": "Geology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1HADG47u8mVjPZaS9nNW8S1wdY2B4V8sJ",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1XDoJAWjjLizkxf2LJV-gPOC2xX9d6zAc"
     }
   ],
   "marathi": [
@@ -63,29 +70,23 @@
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1r_DWiJQMVk4Au9KL1n1QefBk2DJ-pz9T"
     },
     {
-      "uid": "marathi_economics_11",
-      "name": "अर्थशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1gOzgevobalfmrriB7T-1Ldai_il1rc67",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1UO_qUO_Cjr0TqP_8ecNkLuBYPmvciVuw"
+      "uid": "marathi_geography_11",
+      "name": "भूगोल Book",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=140ZScUGOOhxBYGDRvmeUY3dxluaQloAf",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1926TI7QFBzApbo9VBvBhH4NMeKyC47Ix"
     },
     {
-      "uid": "marathi_pustpal_11",
-      "name": "पुस्तपालन आणि लेखाकर्म",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1pV90inHFa8JcIQhF1YAupOe8C3ALrMZm",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1BnYZGYj0i9PA6EiI-GwfPnB6CvzGVkMF"
+      "uid": "marathi_logic_11",
+      "name": "तर्कशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1fuaSy7Hqt09y0XewSDoSqEhpRiLZ42iF",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1jEBPs60ZhV2267RyM8zclFHmyXyAxTvQ"
     },
     {
-      "uid": "marathi_secretarial_11",
-      "name": "चिटणीसाची कार्यपद्धती",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17WR-tG_RbXxDQSOGhsaB6JmW-S-8DQzf",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Z1Qt-07wt5oiWK-0i0ODhaIxVdcm8efU"
+      "uid": "marathi_psychology_11",
+      "name": "मानसशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1PefZs-4abeH01YCGz4htnDy_5kwKcVkg",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1a7_jcbhcFcuP-BHxg5PcngT2bUflhbua"
     },
-    {
-      "uid": "marathi_coop_11",
-      "name": "सहकार",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1JhGY4qLAfAXjdSuGtaU2Xr_zwduSuOFZ",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1lBRj4ACHlX6bO9ZblRP2lM2gsBXG5QId"
-    }
   ],
   "hindi": [
     {
