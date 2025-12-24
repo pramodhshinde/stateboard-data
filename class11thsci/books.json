@@ -80,54 +80,21 @@
       "imageUrl": "https://drive.google.com/uc?export=download&id=1Wzym2-mL1yp6l8isR49fCE94Zm_8DtVg",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1r_DWiJQMVk4Au9KL1n1QefBk2DJ-pz9T"
     },
-    {
-      "uid": "marathi_history_11",
-      "name": "इतिहास",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1pNNHzw8HZUAr0bEMfFUUgKpeIbAGPYwk",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1zJYbyxvuTsihO59bzteSWMczhP_KjK2g"
-    },
+
     {
       "uid": "marathi_geography_11",
       "name": "भूगोल Book",
       "imageUrl": "https://drive.google.com/uc?export=download&id=140ZScUGOOhxBYGDRvmeUY3dxluaQloAf",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1926TI7QFBzApbo9VBvBhH4NMeKyC47Ix"
     },
-    {
-      "uid": "marathi_political_science_11",
-      "name": "राज्यशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1BRz9tsPwUFzfk7upPBSN1AIFJDRETwBg",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1fYkm1cRcFjQltURg_B885vuQm2SyiVUk"
-    },
-    {
-      "uid": "marathi_philosophy_11",
-      "name": "तत्त्वज्ञान",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1rVZn6c0ieeVlt2iDMO-GReGGQfkAHk3u",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=13wuGiqwMrJzcFk-RLehotsNZQoOb68A9"
-    },
+  
     {
       "uid": "marathi_logic_11",
       "name": "तर्कशास्त्र",
       "imageUrl": "https://drive.google.com/uc?export=download&id=1fuaSy7Hqt09y0XewSDoSqEhpRiLZ42iF",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1jEBPs60ZhV2267RyM8zclFHmyXyAxTvQ"
-    },
-    {
-      "uid": "marathi_psychology_11",
-      "name": "मानसशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1PefZs-4abeH01YCGz4htnDy_5kwKcVkg",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1a7_jcbhcFcuP-BHxg5PcngT2bUflhbua"
-    },
-    {
-      "uid": "marathi_sociology_11",
-      "name": "समाजशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1IEV9Wmj093ZTqkpkhRaBE9TzPzefqBr0",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1XwThOmsg-QybX1_KlRHj6HFrw5uzv2oR"
-    },
-    {
-      "uid": "marathi_conservation_11",
-      "name": "संरक्षणशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=1qdmxAew9D4eOJkN5c972FNTtQ9ONMnol",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1SPgDDWPZq2s5qZzsidt6kFMEF8JuYNvd"
     }
+ 
   ],
   "hindi": [
     {
