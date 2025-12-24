@@ -1,1 +1,104 @@
-
+{
+  "english": [
+    {
+      "uid": "eng_english_11",
+      "name": "English Yuvakbharti",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=15mSa9J65nNX9q9wChgUSvQPDDHqQVYbI",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=111JddijQNw8SqAf9DiiyQ3q1du5Y_Y5w"
+    },
+    {
+      "uid": "eng_economics_11",
+      "name": "Economics",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1Y3w-C57v3DP26YJxt06Y8vgKh54VwE3B",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1jBhyfJ7XlNri07N3iLABXM2Ta5ZcSwIN"
+    },
+    {
+      "uid": "eng_math_com_11",
+      "name": "Math & Stat 1 Com",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1O3594KC4qTYXsxds-mn2fmPFw6Efm8qR",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1skB13_w0p-USh834UdXvUVJiybM_coGF"
+    },
+    {
+      "uid": "eng_math2com_11",
+      "name": "Math & Stat 2 Commerce",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1b3-oHu73nr_6Or7H1YAEuusdqJxJ8SGV",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TBSKERaB1CQp5tBqCwWrS92_-jZTxpWr"
+    },
+    {
+      "uid": "eng_accountancy_11",
+      "name": "Book keeping and Accountcy",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1sCGvX2nyD4_Q5zEKYrFiQP80OyRlOQpQ",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=10WHHfMnuyiwaAmYjDGR-dNbGL65bUOgz"
+    },
+    {
+      "uid": "eng_org_commerce_11",
+      "name": "Organisation of Commerce & Management",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1xUoipzntmaeSak5Ck5H4rCPR78q-0PqN",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=11Huny6FUbHHpYUwhayVmbUR5mkzNioBw"
+    },
+    {
+      "uid": "eng_secretarial_11",
+      "name": "Secretarial Practice Book",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1qis_Lr3gvAuYyrNUZbhf39Fkabbatqea",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1soMQTzjgB7ckZ_IIBcNgLarPIElv6-NX"
+    },
+    {
+      "uid": "eng_other_11",
+      "name": "Co Operation",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1KetXBu075mPk9NwM8d2-uy_hjHOt5Wgy",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1G3LahRcFa2TZBY9r46ktSq4fhoq4LU9o"
+    },
+    {
+      "uid": "eng_it_11",
+      "name": "Information Technology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1NMVJmVJVk3PCp_gOOyTLBaIPKS_ldfmn",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1mqp8aiIxWDjEFzK1Dumbdili18R8CnWt"
+    }
+  ],
+  "marathi": [
+    {
+      "uid": "marathi_textbook_11",
+      "name": "मराठी युवकभारती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1Wzym2-mL1yp6l8isR49fCE94Zm_8DtVg",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1r_DWiJQMVk4Au9KL1n1QefBk2DJ-pz9T"
+    },
+    {
+      "uid": "marathi_economics_11",
+      "name": "अर्थशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1gOzgevobalfmrriB7T-1Ldai_il1rc67",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1UO_qUO_Cjr0TqP_8ecNkLuBYPmvciVuw"
+    },
+    {
+      "uid": "marathi_pustpal_11",
+      "name": "पुस्तपालन आणि लेखाकर्म",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1pV90inHFa8JcIQhF1YAupOe8C3ALrMZm",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1BnYZGYj0i9PA6EiI-GwfPnB6CvzGVkMF"
+    },
+    {
+      "uid": "marathi_secretarial_11",
+      "name": "चिटणीसाची कार्यपद्धती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17WR-tG_RbXxDQSOGhsaB6JmW-S-8DQzf",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Z1Qt-07wt5oiWK-0i0ODhaIxVdcm8efU"
+    },
+    {
+      "uid": "marathi_coop_11",
+      "name": "सहकार",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1JhGY4qLAfAXjdSuGtaU2Xr_zwduSuOFZ",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1lBRj4ACHlX6bO9ZblRP2lM2gsBXG5QId"
+    }
+  ],
+  "hindi": [
+    {
+      "uid": "hindi_yuvakbharti_11",
+      "name": "हिंदी युवकभारती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1BkZH7O9JRPjp8unRwanhXMTba4LYWydS",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1j7wMKb1FdAjD_Eyju20_NMvNiSFNPk34"
+    },
+    {
+      "uid": "marathi_sanskrit_11",
+      "name": "संस्कृतम",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=10P2-JHuEcJkFFKpMfZD66GAF8JhWfmoj",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1zMU-0slsiENmn_2Xuq3zatJhqh75x4l3"
+    }
+  ]
+}
