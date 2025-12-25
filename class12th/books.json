@@ -1,315 +1,117 @@
 {
   "english": [
     {
-      "uid": "english_geography_11",
+      "uid": "geo_11",
       "name": "Geography",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1BOVeJvoKtOtjpx9OX5zGKKZSxgWvydWF"
     },
     {
-      "uid": "english_food_science_technology_11",
+      "uid": "fst_11",
       "name": "Food Science and Technology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1geFjLWWve9wKjY7Q8Blx2_x-Zdw95F79"
     },
     {
-      "uid": "english_home_management_11",
+      "uid": "hm_11",
       "name": "Home Management",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1E4udcotCoxmK_t9l5m1r5-XMYhJZHAnb"
     },
     {
-      "uid": "english_information_technology_arts_11",
+      "uid": "it_arts_11",
       "name": "Information Technology (Arts)",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1m5WgVnerk0wWD8nDaG98e6ON1egHkGR9"
     },
     {
-      "uid": "english_information_technology_science_11",
+      "uid": "it_sci_11",
       "name": "Information Technology (Science)",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1efv0p0Zxgj9qjX2-nxsR3VDiA-rD58DN"
     },
     {
-      "uid": "english_geology_11",
+      "uid": "geology_11",
       "name": "Geology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1dh83peI4cGuukzkM0WpQ5Zz229Gjlkle"
     },
     {
-      "uid": "english_sociology_11",
+      "uid": "socio_11",
       "name": "Sociology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=17Ac2_kMLapIVOx1GpAyXwXWQUlLppGg_"
     },
     {
-      "uid": "english_psychology_11",
+      "uid": "psy_11",
       "name": "Psychology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1m6gyHwFDl2PFjBP2QqMmcXYLm-Q7I3UR"
     },
     {
-      "uid": "english_philosophy_11",
+      "uid": "philo_11",
       "name": "Philosophy",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1xbr7gjseTQuSC7rX_YTH9TLoL7yojIoP"
     },
     {
-      "uid": "english_logic_11",
+      "uid": "logic_11",
       "name": "Logic",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=10WVUQkk24ne4y27fRBg8zDe5nh-VFfBn"
     },
     {
-      "uid": "english_animal_science_technology_11",
+      "uid": "ast_11",
       "name": "Animal Science and Technology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Fj1drR5LPDoDINzDpCyTouf9KIkZVgoC"
     },
     {
-      "uid": "english_textiles_11",
+      "uid": "textile_11",
       "name": "Textiles",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1tyFHBNz2ldaVjbvRmu2f0xObpaaPFwyQ"
     },
     {
-      "uid": "english_history_11",
+      "uid": "history_11",
       "name": "History",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rQc_jAWR_lby8B2UD9zLUbaNK-E6sqZM"
     },
     {
-      "uid": "english_agriculture_science_technology_11",
+      "uid": "agri_11",
       "name": "Agriculture Science and Technology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=13zYnj5LRPufaKrs1p-oqfEMHdvKQiHdJ"
     },
     {
-      "uid": "english_chemistry_11",
+      "uid": "chem_11",
       "name": "Chemistry",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HwwIvuOHopmHvrL79y0kH2kGdzAvHpcd"
     },
     {
-      "uid": "english_english_yuvakbharti_11",
+      "uid": "eng_11",
       "name": "English Yuvakbharti",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1NIzarRqcgEvXAw5eBJpYfy4S0TXlYbhu"
     },
     {
-      "uid": "english_bookkeeping_accountancy_11",
+      "uid": "acc_11",
       "name": "Bookkeeping and Accountancy",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1ftgNuPOXO8A5m3lnpj5nahu7YUNiT18-"
     },
     {
-      "uid": "english_biology_11",
+      "uid": "bio_11",
       "name": "Biology",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1pzEIl2SawBIP_pzqp-zY_THT-KfG6txH"
-    },
-    {
-      "uid": "english_child_development_11",
-      "name": "Child Development",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TIb5NdUJdcokN-X9BfABYE3zokrdH1P_"
-    },
-    {
-      "uid": "english_cooperation_11",
-      "name": "Co-operation",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=14suXJtL9Jp2nwA4UpLfgyLZbLblO06AY"
-    },
-    {
-      "uid": "english_economics_11",
-      "name": "Economics",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18YN1tXriVg74CVhCNl-fmLelRxKNatq8"
-    },
-    {
-      "uid": "english_education_11",
-      "name": "Education",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=131w8aovpHW4JPSa6jlQjzLGBiYIQWqZR"
-    },
-    {
-      "uid": "english_environment_water_security_11",
-      "name": "Environment Education & Water Security",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Fft4gUIfQ-rQGbYNfHmI74R2zc7pDxun"
-    },
-    {
-      "uid": "english_math_stat1_arts_science_11",
-      "name": "Math & Stat 1 (Arts Science)",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18LOz2iNIri2rIf0rlGqHOO0wTdXTx8h6"
-    },
-    {
-      "uid": "english_math_stat1_commerce_11",
-      "name": "Math & Stat 1 (Commerce)",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15hNB1kN4okBwthFRt2rQ0kNy_zAjxszy"
-    },
-    {
-      "uid": "english_math_stat2_arts_science_11",
-      "name": "Math & Stat 2 (Arts Science)",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1u7fFsLFmUv0XWlEYRcfRiubDDHOg1FNm"
-    },
-    {
-      "uid": "english_math_stat2_commerce_11",
-      "name": "Math & Stat 2 (Commerce)",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rBH221PNaVDm4puXc7cjGU7Lts2KODSH"
-    },
-    {
-      "uid": "english_organisation_commerce_management_11",
-      "name": "Organisation of Commerce & Management",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Sl28QH5-B2p6UeqHdMy58Ofzddx_iT1k"
-    },
-    {
-      "uid": "english_physics_11",
-      "name": "Physics",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=13a08isCw066mCUO9OQNtc-LA-rfuEwdX"
-    },
-    {
-      "uid": "english_political_science_11",
-      "name": "Political Science",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1MttclqjNr0h0MngIRyNd1AAHvLagHM6b"
-    },
-    {
-      "uid": "english_secretarial_practice_11",
-      "name": "Secretarial Practice",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15WvFu3scCfrBRsvG6pCMyBoEf7hm0v4w"
     }
   ],
   "marathi": [
     {
-      "uid": "marathi_maharashtra_pakrit_11",
-      "name": "महाराष्ट्र पाकृत",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1s5BwZmXO5U20c_2YnhXA2NmJ97Qh6GgG"
-    },
-    {
-      "uid": "marathi_sanskritam_ahad_11",
-      "name": "संस्कृतम आहाद",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rVqjJDcilX6osjvjFB2pAyvUwVUZQZVx"
-    },
-    {
-      "uid": "marathi_ardhamagdhi_pakrit_11",
-      "name": "अर्धमागधी पाकृत",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Nqltybj2Gd4JIe_tNFjikxi7fbxFRilQ"
-    },
-    {
-      "uid": "marathi_library_informatics_11",
-      "name": "ग्रंथालय आणि माहितीशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1_fXen7TmNFBV6unyUmWbgBQ5UTySS16b"
-    },
-    {
-      "uid": "marathi_environment_water_security_11",
-      "name": "पर्यावरण शिक्षण व जलसुरक्षा",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1lfVh-d_eA-2LOK5UY9gFv6c6C1uv3_q7"
-    },
-    {
-      "uid": "marathi_geography_11",
-      "name": "भूगोल",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1qgu2Hl4mFQtZvEv-JnqNglYABo47xfj1"
-    },
-    {
-      "uid": "marathi_home_management_11",
-      "name": "गृहव्यवस्थापन",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=14fnKvA7qYmew_wf9_FF2oHYh0RAKspAP"
-    },
-    {
-      "uid": "marathi_political_science_11",
-      "name": "राज्यशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1uZIFWL8znXunpDBTacOnEc4tzrapnH4F"
-    },
-    {
-      "uid": "marathi_sociology_11",
-      "name": "समाजशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1A4ag3yd8W2SFT7fYwX1gEMUd5EPFRiXH"
-    },
-    {
-      "uid": "marathi_psychology_11",
-      "name": "मानसशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TP8J2nEBTKDCVJ2zmo3tHxZ8T8tw0Vnv"
-    },
-    {
-      "uid": "marathi_education_11",
-      "name": "शिक्षणशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=169pPWDGLpck_VeY6rjdR1EhY8NObNLDO"
-    },
-    {
-      "uid": "marathi_philosophy_11",
-      "name": "तत्त्वज्ञान",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=14NbnumEFwoltGfol8UbYlQT2STVc27mY"
-    },
-    {
-      "uid": "marathi_logic_11",
-      "name": "तर्कशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1hcUZXzSo3g1p7Lukjjzp2grUWaMnEFf7"
-    },
-    {
-      "uid": "marathi_child_development_11",
-      "name": "बालविकास",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1IOKxl_V1hFFbx7kOvyQMRrZF-Z_7RyaU"
-    },
-    {
-      "uid": "marathi_textiles_11",
-      "name": "वस्त्रशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1XfEVvZTnRwXq-t4FDqjA4hyPmmuIcNpT"
-    },
-    {
-      "uid": "marathi_history_11",
-      "name": "इतिहास",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HH3u931uNrQgXPz2Okt3Gg2aSBdRX7gr"
-    },
-    {
-      "uid": "marathi_economics_11",
-      "name": "अर्थशास्त्र",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1hvu_bcl-iT4QtO0hFFoHE1yj9jcrY14R"
-    },
-    {
-      "uid": "marathi_organisation_commerce_management_11",
-      "name": "वाणिज्य संघटन व व्यवस्थापन",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1xGJbkBEddjmmPuLMqTanM3FCgxm4LC8B"
-    },
-    {
-      "uid": "marathi_secretarial_practice_11",
-      "name": "चिटणीसाची कार्यपद्धती",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1KOAiXY16Wx054gR7f6ICZAukZ9TbrOHG"
-    },
-    {
-      "uid": "marathi_accountancy_11",
-      "name": "पुस्तपालन आणि लेखाकर्म",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1I4n0qBaNvfY3Pday_ssucgQEKWOOG2H8"
-    },
-    {
-      "uid": "marathi_yuvakbharti_11",
+      "uid": "mar_yuvakbharti_11",
       "name": "युवकभारती",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=12_Fe8S-HJ-zLm7KTfkI-W4DxPTfOlObb"
@@ -317,7 +119,7 @@
   ],
   "hindi": [
     {
-      "uid": "hindi_yuvakbharti_11",
+      "uid": "hin_yuvakbharti_11",
       "name": "युवकभारती",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1J1Ltq1gqrGVECQ1Nsves1oAYzWKq8jeF"
