@@ -19,12 +19,6 @@
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1u7fFsLFmUv0XWlEYRcfRiubDDHOg1FNm"
     },
     {
-      "uid": "mmaths",
-      "name": "Math & Stat 1 (Commerce)",
-      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
-      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15hNB1kN4okBwthFRt2rQ0kNy_zAjxszy"
-    },
-    {
       "uid": "com_maths2",
       "name": "Math & Stat 2 (Commerce)",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
@@ -181,6 +175,12 @@
       "name": "पुस्तपालन आणि लेखाकर्म",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1I4n0qBaNvfY3Pday_ssucgQEKWOOG2H8"
+    },
+    {
+      "uid": "mmaths",
+      "name": "गणित आणि सांख्यिकी (वाणिज्य) भाग १",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15hNB1kN4okBwthFRt2rQ0kNy_zAjxszy"
     },
     {
       "uid": "myuvk",
