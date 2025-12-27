@@ -13,19 +13,19 @@
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18LOz2iNIri2rIf0rlGqHOO0wTdXTx8h6"
     },
     {
-      "uid": "ems2a",
+      "uid": "math2",
       "name": "Math & Stat 2 (Arts Science)",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1u7fFsLFmUv0XWlEYRcfRiubDDHOg1FNm"
     },
     {
-      "uid": "ems1c",
+      "uid": "mmaths",
       "name": "Math & Stat 1 (Commerce)",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15hNB1kN4okBwthFRt2rQ0kNy_zAjxszy"
     },
     {
-      "uid": "ems2c",
+      "uid": "com_maths2",
       "name": "Math & Stat 2 (Commerce)",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rBH221PNaVDm4puXc7cjGU7Lts2KODSH"
@@ -177,7 +177,7 @@
   ],
   "marathi": [
     {
-      "uid": "macct",
+      "uid": "accounting",
       "name": "पुस्तपालन आणि लेखाकर्म",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1I4n0qBaNvfY3Pday_ssucgQEKWOOG2H8"
@@ -219,7 +219,7 @@
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1A4ag3yd8W2SFT7fYwX1gEMUd5EPFRiXH"
     },
     {
-      "uid": "msecp",
+      "uid": "com_finproc",
       "name": "चिटणीसाची कार्यपद्धती",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1KOAiXY16Wx054gR7f6ICZAukZ9TbrOHG"
@@ -263,7 +263,7 @@
   ],
   "hindi": [
     {
-      "uid": "hyuvk",
+      "uid": "ehin",
       "name": "युवकभारती",
       "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
       "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1J1Ltq1gqrGVECQ1Nsves1oAYzWKq8jeF"
