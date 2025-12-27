@@ -1,125 +1,394 @@
 {
-  "solutions":[
+  "solutions": [
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_001",
+      "title": "Introduction to Book - Keeping and Accountancy",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OYP0aoZEk1i3I4oxv9xWn_lk79GGQGIY"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_002",
+      "title": "Meaning & Fundamentals of Double Entry Book-Keeping",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=14q1NrzpenX5ShXFgWrrT3j6UmuOlX7TM"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_003",
+      "title": "Journal",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1qtl20s-Qy9I5sHOCxDuDUxG8rOaDnGH7"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_004",
+      "title": "Ledger",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NsE82a2-U9MybnsFngjzWljy6Uwu7ZIo"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_005",
+      "title": "Subsidiary Books",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1o9BHulQWPpwK2f9JMQWpmpteQoihuz8l"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_006",
+      "title": "Bank Reconciliation Statement",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vMHqP6aOIPk-KVQEC5BY8OC5HiSfo3hB"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_007",
+      "title": "Depreciation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OaZKdijmiC4YXQKsgf0eoOd2Z7C_x_im"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_008",
+      "title": "Rectification of Errors",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IiuPIGa9vR_kScEuZOBNa6_X6xhY3jTz"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_009",
+      "title": "Final Accounts of a Proprietary Concern",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nRNHdg3ufqAroLaX7hSgCWipzR9Rr5h0"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_010",
+      "title": "Single Entry System",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1w8Ll2PhF0QvRc33_dIpB2_Vc_tb-8OUn"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_011",
+      "title": "Introduction to Partnership and Partnership Final Accounts",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NodL85wGyxHqd5GhfZ8ai-DGSHIXEB6E"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_012",
+      "title": "Accounts of 'Not for Profit' Concerns",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mc0Mm0RL3ka0vZwEBSBa0ObCD7okYQMY"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_013",
+      "title": "Reconstitution of Partnership (Admission of Partner)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mbmrV9FkgujbiuJswXYmQFKM6ABNnyXQ"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_014",
+      "title": "Reconstitution of Partnership (Retirement of Partner)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pejzqI2kAYrbo9nn16YBKOLW-4vN4rmT"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_015",
+      "title": "Reconstitution of Partnership (Death of Partner)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sA4T5NgBqeZsgwC0PZf1vptZBLBFDMji"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_016",
+      "title": "Dissolution of Partnership Firm",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18N_oqv1KtS8yuOpL4cB3zLhhYc0RSTSD"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_017",
+      "title": "Bills of Exchange",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iNwKvzRavp5S0hhIY9kR6mP6Lecdcj7e"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_018",
+      "title": "Company Accounts - Issue of Shares",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fSyIZb43pbAOCGqcUgvtA01cDXrmE3x9"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_019",
+      "title": "Analysis of Financial Statements",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MhJXm-Ku_XZLc23dCRS2WPLWnOwc9MEJ"
+    },
+    {
+      "bookUid": "ebkac",
+      "uid": "sol_bka_020",
+      "title": "Computer In Accounting",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17d_yKdfrCF7eiQMiQWUVIfvRW5IAzz5e"
+    },
     
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_01",
-    "name": "Introduction to Book - Keeping and Accountancy",
-    "url": "https://drive.google.com/uc?export=download&id=1OYP0aoZEk1i3I4oxv9xWn_lk79GGQGIY"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_02",
-    "name": "Meaning & Fundamentals of Double Entry Book-Keeping",
-    "url": "https://drive.google.com/uc?export=download&id=14q1NrzpenX5ShXFgWrrT3j6UmuOlX7TM"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_03",
-    "name": "Journal",
-    "url": "https://drive.google.com/uc?export=download&id=1qtl20s-Qy9I5sHOCxDuDUxG8rOaDnGH7"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_04",
-    "name": "Ledger",
-    "url": "https://drive.google.com/uc?export=download&id=1NsE82a2-U9MybnsFngjzWljy6Uwu7ZIo"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_05",
-    "name": "Subsidiary Books",
-    "url": "https://drive.google.com/uc?export=download&id=1o9BHulQWPpwK2f9JMQWpmpteQoihuz8l"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_06",
-    "name": "Bank Reconciliation Statement",
-    "url": "https://drive.google.com/uc?export=download&id=1vMHqP6aOIPk-KVQEC5BY8OC5HiSfo3hB"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_07",
-    "name": "Depreciation",
-    "url": "https://drive.google.com/uc?export=download&id=1OaZKdijmiC4YXQKsgf0eoOd2Z7C_x_im"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_08",
-    "name": "Rectification of Errors",
-    "url": "https://drive.google.com/uc?export=download&id=1IiuPIGa9vR_kScEuZOBNa6_X6xhY3jTz"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_09",
-    "name": "Final Accounts of a Proprietary Concern",
-    "url": "https://drive.google.com/uc?export=download&id=1nRNHdg3ufqAroLaX7hSgCWipzR9Rr5h0"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_10",
-    "name": "Single Entry System",
-    "url": "https://drive.google.com/uc?export=download&id=1w8Ll2PhF0QvRc33_dIpB2_Vc_tb-8OUn"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_11",
-    "name": "Introduction to Partnership and Partnership Final Accounts",
-    "url": "https://drive.google.com/uc?export=download&id=1NodL85wGyxHqd5GhfZ8ai-DGSHIXEB6E"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_12",
-    "name": "Accounts of ‘Not for Profit’ Concerns",
-    "url": "https://drive.google.com/uc?export=download&id=1mc0Mm0RL3ka0vZwEBSBa0ObCD7okYQMY"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_13",
-    "name": "Reconstitution of Partnership (Admission of Partner)",
-    "url": "https://drive.google.com/uc?export=download&id=1mbmrV9FkgujbiuJswXYmQFKM6ABNnyXQ"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_14",
-    "name": "Reconstitution of Partnership (Retirement of Partner)",
-    "url": "https://drive.google.com/uc?export=download&id=1pejzqI2kAYrbo9nn16YBKOLW-4vN4rmT"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_15",
-    "name": "Reconstitution of Partnership (Death of Partner)",
-    "url": "https://drive.google.com/uc?export=download&id=1sA4T5NgBqeZsgwC0PZf1vptZBLBFDMji"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_16",
-    "name": "Dissolution of Partnership Firm",
-    "url": "https://drive.google.com/uc?export=download&id=18N_oqv1KtS8yuOpL4cB3zLhhYc0RSTSD"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_17",
-    "name": "Bills of Exchange",
-    "url": "https://drive.google.com/uc?export=download&id=1iNwKvzRavp5S0hhIY9kR6mP6Lecdcj7e"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_18",
-    "name": "Company Accounts - Issue of Shares",
-    "url": "https://drive.google.com/uc?export=download&id=1fSyIZb43pbAOCGqcUgvtA01cDXrmE3x9"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_19",
-    "name": "Analysis of Financial Statements",
-    "url": "https://drive.google.com/uc?export=download&id=1MhJXm-Ku_XZLc23dCRS2WPLWnOwc9MEJ"
-  },
-  {
-    "bookUid": "english_bookkeeping_accountancy_12",
-    "uid": "bk_acc_12_20",
-    "name": "Computer In Accounting",
-    "url": "https://drive.google.com/uc?export=download&id=17d_yKdfrCF7eiQMiQWUVIfvRW5IAzz5e"
-  }
-]
+    
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_001",
+      "title": "Angle and its Measurement",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1j0Wu4VeosPYxR3azZbJej_AQOKTjSGU8"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_002",
+      "title": "Trigonometry - I",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1edBgwhUfUPWBAxtMLt9jwjlF6IjA19-3"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_003",
+      "title": "Trigonometry II",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GXlshV8b5FZv_-uuN-QM8U2Os4ENYcYi"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_004",
+      "title": "Determinants and Matrices",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KCGerrchDz9MefxyyiifbD3H99vxA09Q"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_005",
+      "title": "Mathematical Logic",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sSRHBAx3UNACtbjbTzA5N-BWNx7PN7K2"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_006",
+      "title": "Straight Line",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H_wqc6Z-X7nS2Ka3p2HDaad2Yse_vt1r"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_007",
+      "title": "Pair of Straight Lines",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1VjNPUdJBbmRJ1hBd95t-XJqttn7DzPDI"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_008",
+      "title": "Circle",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IP7CnvXUa6MXOv1iZjGJirEzsHC6n1KT"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_009",
+      "title": "Conic Sections",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=16Bz7oUwdg3VzAKC5AEo508dYCidQSB08"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_010",
+      "title": "Line and Plane",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IM9rzcI8nLTIXs9xwzAm6lY-klJKxD69"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_011",
+      "title": "Vectors",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11Rhc40RZT5LsMa_rL6fS4p5GZe9aFHpl"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_012",
+      "title": "Trigonometric Functions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1u5L36wzb2LSlofYlmPl40O8Uau5gkL5C"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_013",
+      "title": "Measures of Dispersion",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1YAVOE5TEGvpnqV9jfh6G8FW2zSeIIP4Y"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_014",
+      "title": "Probability",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1x2s1iVRDuDOn3YP1tNJU6gM_CnsxJzud"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_015",
+      "title": "Linear Programming",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_7992rNuW8IA0zJMwzSgQqDX-pofmK9j"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_016",
+      "title": "Matrics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1N9sWHcow7rA0yoimgPP49Owrpl8SpA1T"
+    },
+    
+    
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_001",
+      "title": "प्रकरण १_ युरोपातील प्रबोधन आणि विज्ञानाचा विकास",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OqJOLLzBjcViayEkcnbw4ujbXTbecaKW"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_002",
+      "title": "प्रकरण २_ युरोपीय वसाहतवाद",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kztt9rTn1vRQ8AwtI5PZdymJxAb9cRl8"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_003",
+      "title": "प्रकरण ३_ भारत आणि युरोपीय वसाहतवाद",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=13dxCOVHIVcryE1oUKb6DNQdDqfzziogg"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_004",
+      "title": "प्रकरण 4_ वसाहतवाद आणि मराठे",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Nq7cUg4gc6piDLOQfjZQ1YbaT39-QdCi"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_005",
+      "title": "प्रकरण ५_ भारत - सामाजिक व धार्मिक सुधारणा",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=16GcNZVilq4jt3k5c5UgE9E0xMaTA5NXG"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_006",
+      "title": "प्रकरण ६_ वसाहतवादाविरुद्ध भारतीयांचा संघर्ष",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TfJqjNpdDR2bxrE5QW9L6PxfsEa7oVY1"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_007",
+      "title": "प्रकरण 7_ भारत _ निर्वसाहतीकरण ते एकीकरण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nGSLF2WXU4L9maeio-zn2FsPQBWgy3xL"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_008",
+      "title": "प्रकरण ८_ जागतिक महायुद्धे आणि भारत",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lCg6qG8a6tHDcMtPIYM-lT_PXXHf5nch"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_009",
+      "title": "प्रकरण ९_  जग _ निर्वसाहतीकरण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kajTbVaYmgT1SOSk78IM31IjyZ9oze9A"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_010",
+      "title": "प्रकरण १०_ शीतयुद्ध",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mq_dwflC01WKVqGeLyHYpCLmL3pu8RIP"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_011",
+      "title": "प्रकरण ११_ बदलता भारत - भाग १",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zofQB03E0UhGLa1WFStfgpFFUwpwZq3x"
+    },
+    {
+      "bookUid": "mhist",
+      "uid": "sol_mhst_012",
+      "title": "प्रकरण १२ _ बदलता भारत-भाग २",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DBP15cXg9GSSvNmm6dftwcwfhf9XojX_"
+    },
+    
+    
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_001",
+      "title": "Complex Numbers",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UDDkwUCpHemRqbFGqQo4hF6PsbJeCRmB"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_002",
+      "title": "Sequences and Series",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1B895gqVNp0vuX6R7fRJgKYSEzb2h_qM_"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_003",
+      "title": "Permutations and Combinations",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kJTcNqYCPsdkXz8GmIyJLTjVnbPK1UAU"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_004",
+      "title": "Methods of Induction and Binomial Theorem",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=10ZJA-yMQ3Ze32wuy1nUJX5aI9WfpbcSv"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_005",
+      "title": "Sets and Relations",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BhXZcu4t4WmF1zg6rn1aHYYr_xTekzxC"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_006",
+      "title": "Functions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wwCcst2biAK3rJ7D8x03txjOmjMraUbR"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_007",
+      "title": "Limits",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZSgeBM9B5nWCc2c5_C-IdL2pGcS6hJ9d"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_008",
+      "title": "Continuity",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1c6zIOowtu-kmYoyhSUFSbbK8keKmRvvA"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_009",
+      "title": "Differentiation",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DwZhd9ub7U3nh9gkPnU-umJF8rZa8PvZ"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_010",
+      "title": "Applications of Derivatives",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iMPhWjlJGIAQyL7q1MdpXwXZKXMReltY"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_011",
+      "title": "Indefinite Integration",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LriogxcIqneeaK6F24vz4LILAjzYN4gv"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_012",
+      "title": "Definite Integration",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Cpjq5VX2IAVPMwcQlGD4he2I5cDKXwR3"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_013",
+      "title": "Application of Definite Integration",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GOBq5eiW6wlq92HSak8MYR0K3gXp-zjf"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_014",
+      "title": "Differential Equations",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=165hQEmCjAxWHzhvQ5lk4pSyIWM1n4_yh"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_015",
+      "title": "Probability Distributions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1q7SpDaZ8JKJg5MJH4F19pIn3vvAoyrhI"
+    },
+    {
+      "bookUid": "ems2a",
+      "uid": "sol_ms2a_016",
+      "title": "Binomial Distribution",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CrBent9fPMOGpAY7sJkjNzzj_x6zXdwF"
+    }
+  ]
 }
