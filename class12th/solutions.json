@@ -954,6 +954,7 @@
       "title": "प्रकाश उत्पन्न करने वाले जीव",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=17TDTohB9TQmcELcg6R2Sctm4FyFg1JTR"
     },
+
     {
       "bookUid": "ehis",
       "uid": "his_sol_001",
@@ -1207,176 +1208,174 @@
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1F8AYsJdkLX2axo620uJPcqgAYWLDX84K"
     },
 
-
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_001",
+      "bookUid": "chemistry",
+      "uid": "chem_001",
       "title": "Some Basic Concepts of Chemistry",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1iKDHZy9JzB5sUsSlWfpR7eRSp7w9y2wU"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_002",
+      "bookUid": "chemistry",
+      "uid": "chem_002",
       "title": "Introduction to Analytical Chemistry",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1G-rzjKmUkuaWd1yzJZe3ig_kjjJ4biVD"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_003",
+      "bookUid": "chemistry",
+      "uid": "chem_003",
       "title": "Some Analytical Techniques",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1gyT_rAGN33EoS3ofz34ZvSiJf2IsBSVl"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_004",
+      "bookUid": "chemistry",
+      "uid": "chem_004",
       "title": "Structure of Atom",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=12CBgdneDAvwpHb5bATGZA2EVnu8-Wt5G"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_005",
+      "bookUid": "chemistry",
+      "uid": "chem_005",
       "title": "Chemical Bonding",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=15GySSpqrjHRymQqrIMdb4WKN2Vanhl8j"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_006",
+      "bookUid": "chemistry",
+      "uid": "chem_006",
       "title": "Redox Reactions",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1RhZLjSTHrU2OdJTw2KJAbxDMYE7yuaWV"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_007",
+      "bookUid": "chemistry",
+      "uid": "chem_007",
       "title": "Modern Periodic Table",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1xe9_lWJ4GVQNb88kC7TsMBq203YD_cHU"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_008",
+      "bookUid": "chemistry",
+      "uid": "chem_008",
       "title": "Elements of Group 1 and 2",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1aiI_RwEn6lJwz-ivta8OJu1h6ikNtT3C"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_009",
+      "bookUid": "chemistry",
+      "uid": "chem_009",
       "title": "Elements of Group 13, 14, and 15",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1LM24zpZYksXmiH2oFakzvLTgogiKnIIZ"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_010",
+      "bookUid": "chemistry",
+      "uid": "chem_010",
       "title": "Elements of Groups 16, 17 and 18",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjsdEp_SjqcHYs7sWsaPRUh5TmojA45o"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_011",
+      "bookUid": "chemistry",
+      "uid": "chem_011",
       "title": "Transition and Inner Transition Elements",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ak3XNE5BB6z41TrSeyFGZ0fGuQeTcY6i"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_012",
+      "bookUid": "chemistry",
+      "uid": "chem_012",
       "title": "States of Matter",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1gilGu_SaCxYR1_tA6hokKMN19Y-p5GjQ"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_013",
+      "bookUid": "chemistry",
+      "uid": "chem_013",
       "title": "Solid State",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1X9YzF5HSPbIGnzyX3pwtZUPIAn1GFJq4"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_014",
+      "bookUid": "chemistry",
+      "uid": "chem_014",
       "title": "Foundational Principles of Chemical Equilibrium",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1fuOwYbpJZ_W-EeNhzMpXsiq8fcEUUwVb"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_015",
+      "bookUid": "chemistry",
+      "uid": "chem_015",
       "title": "Ionic Equilibria",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1dNAflIGlGBNvBUeqWiKy3BeyceTNSNL9"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_016",
+      "bookUid": "chemistry",
+      "uid": "chem_016",
       "title": "Chemical Themodynamics",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1t3U2pHJzK4naklRmK_-a3NPXafFB0T7X"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_017",
+      "bookUid": "chemistry",
+      "uid": "chem_017",
       "title": "Electrochemistry",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1Xx_paOXhXlTNYRUJOatjK5AWA5qKPTbM"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_018",
+      "bookUid": "chemistry",
+      "uid": "chem_018",
       "title": "Chemical Kinetics",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1GtmbRhoPO97JT0kkg4npX79bmIx5VO7u"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_019",
+      "bookUid": "chemistry",
+      "uid": "chem_019",
       "title": "Coordination Compounds",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1ncSf0u3pmup9c2FSh-UvE3yK5whpbt4-"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_020",
+      "bookUid": "chemistry",
+      "uid": "chem_020",
       "title": "Halogen Derivatives",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1oG7yP_-dmmDj3zvbqpW6vp5iVKbGJL42"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_021",
+      "bookUid": "chemistry",
+      "uid": "chem_021",
       "title": "Alcohols, Phenols and Ethers",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=176Jns0_OTTJBVC5YfcBDlLceiFQbGRKY"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_022",
+      "bookUid": "chemistry",
+      "uid": "chem_022",
       "title": "Aldehydes, Ketones and Carboxylic acids",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=19KpiJnpiwXXWjQ34W1nyqlxMOjgv7_v6"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_023",
+      "bookUid": "chemistry",
+      "uid": "chem_023",
       "title": "Amines",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1I_sRFVSBWebqPJOZtZPJqHTsyOe_dR6H"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_024",
+      "bookUid": "chemistry",
+      "uid": "chem_024",
       "title": "Biomolecules",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1JxbqxKDW5piD5n6FludnbKrmAy_cFPjr"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_025",
+      "bookUid": "chemistry",
+      "uid": "chem_025",
       "title": "Introduction to Polymer Chemistry",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1BHyBgHsulOytjIF37dsb09X_jwCS8eFI"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_026",
+      "bookUid": "chemistry",
+      "uid": "chem_026",
       "title": "Green Chemistry and Nanochemistry",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1ySzFdeVDVSkQpmaZ1ULGxA4BxhPQisNj"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_027",
+      "bookUid": "chemistry",
+      "uid": "chem_027",
       "title": "Solutions",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1AU7vHNTU2IpyOVwHcAkaoneN2Gh_e91Q"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_028",
+      "bookUid": "chemistry",
+      "uid": "chem_028",
       "title": "Chemistry in Everyday Life",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1uo4SsYOai4u7KkA7SzkIhPjoaxzIpOBx"
     },
-
 
     {
       "bookUid": "ephy",
