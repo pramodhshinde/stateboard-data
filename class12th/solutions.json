@@ -843,137 +843,117 @@
     {
       "bookUid": "hindi_literature",
       "uid": "hl_001",
-      "name": "नवनिर्माण",
-      "url": "https://drive.google.com/uc?export=download&id=14OjzhuaJg0ZUKSZJrInLEKyxO3HdRpiG",
-      "timestamp": 1735634101001
+      "title": "नवनिर्माण",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=14OjzhuaJg0ZUKSZJrInLEKyxO3HdRpiG"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_002",
-      "name": "निराला भाई",
-      "url": "https://drive.google.com/uc?export=download&id=1_nwzYytWX0ItZLb3Ari3Yg_7DKiewD4_",
-      "timestamp": 1735634101002
+      "title": "निराला भाई",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_nwzYytWX0ItZLb3Ari3Yg_7DKiewD4_"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_003",
-      "name": "सच हम नहीं; सच तुम नहीं",
-      "url": "https://drive.google.com/uc?export=download&id=1WKCR4PlAsmkIxADRckcnSSPugrAKbTkk",
-      "timestamp": 1735634101003
+      "title": "सच हम नहीं; सच तुम नहीं",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WKCR4PlAsmkIxADRckcnSSPugrAKbTkk"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_004",
-      "name": "आदर्शबदला",
-      "url": "https://drive.google.com/uc?export=download&id=1xUVCJJu2cZgpGDBcqU2WrOW8darEpCEN",
-      "timestamp": 1735634101004
+      "title": "आदर्शबदला",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xUVCJJu2cZgpGDBcqU2WrOW8darEpCEN"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_005",
-      "name": "गुरुबानी",
-      "url": "https://drive.google.com/uc?export=download&id=1z026VGkEOa7BnG0bPYHGbXmew4UHqwNq",
-      "timestamp": 1735634101005
+      "title": "गुरुबानी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1z026VGkEOa7BnG0bPYHGbXmew4UHqwNq"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_006",
-      "name": "वृंद के दोहे",
-      "url": "https://drive.google.com/uc?export=download&id=1NJ3ce0bdAfD-sa0wWQaMQwjB0HfNaXcp",
-      "timestamp": 1735634101006
+      "title": "वृंद के दोहे",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NJ3ce0bdAfD-sa0wWQaMQwjB0HfNaXcp"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_007",
-      "name": "पाप के चार हथि यार",
-      "url": "https://drive.google.com/uc?export=download&id=1NXjYypP43zYBJ7Doe_t5BsS6Apu2PyEX",
-      "timestamp": 1735634101007
+      "title": "पाप के चार हथि यार",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NXjYypP43zYBJ7Doe_t5BsS6Apu2PyEX"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_008",
-      "name": "पेड़ होने का अर्थ",
-      "url": "https://drive.google.com/uc?export=download&id=1HXXO9oIC05NFg9jRTkI3T1fOWzuJt_LL",
-      "timestamp": 1735634101008
+      "title": "पेड़ होने का अर्थ",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HXXO9oIC05NFg9jRTkI3T1fOWzuJt_LL"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_009",
-      "name": "सुनो किशोरी",
-      "url": "https://drive.google.com/uc?export=download&id=1EPaFF9N4m4WZ03w5jNNshR9zsWO2-yvz",
-      "timestamp": 1735634101009
+      "title": "सुनो किशोरी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1EPaFF9N4m4WZ03w5jNNshR9zsWO2-yvz"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_010",
-      "name": "चुनिंदा शेर",
-      "url": "https://drive.google.com/uc?export=download&id=1fw4l-2yflyV1SWKkSIYAj8HbddeNtIPQ",
-      "timestamp": 1735634101010
+      "title": "चुनिंदा शेर",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fw4l-2yflyV1SWKkSIYAj8HbddeNtIPQ"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_011",
-      "name": "ओजोन विघटन का संकट",
-      "url": "https://drive.google.com/uc?export=download&id=12n4yxzE_tYkMxUAtrbJDXsjrxnfTk3dn",
-      "timestamp": 1735634101011
+      "title": "ओजोन विघटन का संकट",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12n4yxzE_tYkMxUAtrbJDXsjrxnfTk3dn"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_012",
-      "name": "कोखजाया",
-      "url": "https://drive.google.com/uc?export=download&id=1G25xliHSL6wnJCac5W0oy_8RBAdvt0Jy",
-      "timestamp": 1735634101012
+      "title": "कोखजाया",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1G25xliHSL6wnJCac5W0oy_8RBAdvt0Jy"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_013",
-      "name": "सुनुरेसखिया, कजरी",
-      "url": "https://drive.google.com/uc?export=download&id=1lPROqCDIxrxCiaPcqQpJFajVbKCGOXE8",
-      "timestamp": 1735634101013
+      "title": "सुनुरेसखिया, कजरी",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lPROqCDIxrxCiaPcqQpJFajVbKCGOXE8"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_014",
-      "name": "कनुप्रिया",
-      "url": "https://drive.google.com/uc?export=download&id=18SW74h7Kqqtj-brhvSVDV3a0mZH5A21J",
-      "timestamp": 1735634101014
+      "title": "कनुप्रिया",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18SW74h7Kqqtj-brhvSVDV3a0mZH5A21J"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_015",
-      "name": "पल्लवन",
-      "url": "https://drive.google.com/uc?export=download&id=17UmzAzYrElzoNcSPa7cF7TozTqusY-Ee",
-      "timestamp": 1735634101015
+      "title": "पल्लवन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17UmzAzYrElzoNcSPa7cF7TozTqusY-Ee"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_016",
-      "name": "फीचर लेखन",
-      "url": "https://drive.google.com/uc?export=download&id=1Y6X648nXdxRQoGXcGNQzPl0iaTWN04XR",
-      "timestamp": 1735634101016
+      "title": "फीचर लेखन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Y6X648nXdxRQoGXcGNQzPl0iaTWN04XR"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_017",
-      "name": "मैं उद्घोषक",
-      "url": "https://drive.google.com/uc?export=download&id=11mEKDh51qbAS_bv5tNZDqIl21egJG9ol",
-      "timestamp": 1735634101017
+      "title": "मैं उद्घोषक",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11mEKDh51qbAS_bv5tNZDqIl21egJG9ol"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_018",
-      "name": "ब्लॉग लेखन",
-      "url": "https://drive.google.com/uc?export=download&id=12fdH3mWFgyk6fCBcu-NaP9JeTySgzr0D",
-      "timestamp": 1735634101018
+      "title": "ब्लॉग लेखन",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12fdH3mWFgyk6fCBcu-NaP9JeTySgzr0D"
     },
     {
       "bookUid": "hindi_literature",
       "uid": "hl_019",
-      "name": "प्रकाश उत्पन्न करने वाले जीव",
-      "url": "https://drive.google.com/uc?export=download&id=17TDTohB9TQmcELcg6R2Sctm4FyFg1JTR",
-      "timestamp": 1735634101019
+      "title": "प्रकाश उत्पन्न करने वाले जीव",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=17TDTohB9TQmcELcg6R2Sctm4FyFg1JTR"
     },
-
     {
       "bookUid": "ehis",
       "uid": "his_sol_001",
