@@ -1,2141 +1,278 @@
 {
-  "solutions": [
+  "english": [
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_001",
-      "title": "Introduction to Book - Keeping and Accountancy",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OYP0aoZEk1i3I4oxv9xWn_lk79GGQGIY"
+      "uid": "ebkac",
+      "name": "Book keeping and Accountancy",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1ftgNuPOXO8A5m3lnpj5nahu7YUNiT18-"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_002",
-      "title": "Meaning & Fundamentals of Double Entry Book-Keeping",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14q1NrzpenX5ShXFgWrrT3j6UmuOlX7TM"
+      "uid": "ems1a",
+      "name": "Math & Stat 1 (Arts Science)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18LOz2iNIri2rIf0rlGqHOO0wTdXTx8h6"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_003",
-      "title": "Journal",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1qtl20s-Qy9I5sHOCxDuDUxG8rOaDnGH7"
+      "uid": "ems2a",
+      "name": "Math & Stat 2 (Arts Science)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1u7fFsLFmUv0XWlEYRcfRiubDDHOg1FNm"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_004",
-      "title": "Ledger",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NsE82a2-U9MybnsFngjzWljy6Uwu7ZIo"
+      "uid": "mmaths",
+      "name": "Math & Stat 1 (Commerce)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15hNB1kN4okBwthFRt2rQ0kNy_zAjxszy"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_005",
-      "title": "Subsidiary Books",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1o9BHulQWPpwK2f9JMQWpmpteQoihuz8l"
+      "uid": "com_maths2",
+      "name": "Math & Stat 2 (Commerce)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rBH221PNaVDm4puXc7cjGU7Lts2KODSH"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_006",
-      "title": "Bank Reconciliation Statement",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vMHqP6aOIPk-KVQEC5BY8OC5HiSfo3hB"
+      "uid": "eengl",
+      "name": "English Yuvakbharti",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1NIzarRqcgEvXAw5eBJpYfy4S0TXlYbhu"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_007",
-      "title": "Depreciation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OaZKdijmiC4YXQKsgf0eoOd2Z7C_x_im"
+      "uid": "ephy",
+      "name": "Physics",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=13a08isCw066mCUO9OQNtc-LA-rfuEwdX"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_008",
-      "title": "Rectification of Errors",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IiuPIGa9vR_kScEuZOBNa6_X6xhY3jTz"
+      "uid": "echem",
+      "name": "Chemistry",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HwwIvuOHopmHvrL79y0kH2kGdzAvHpcd"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_009",
-      "title": "Final Accounts of a Proprietary Concern",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nRNHdg3ufqAroLaX7hSgCWipzR9Rr5h0"
+      "uid": "ebio",
+      "name": "Biology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1pzEIl2SawBIP_pzqp-zY_THT-KfG6txH"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_010",
-      "title": "Single Entry System",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1w8Ll2PhF0QvRc33_dIpB2_Vc_tb-8OUn"
+      "uid": "eecon",
+      "name": "Economics",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18YN1tXriVg74CVhCNl-fmLelRxKNatq8"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_011",
-      "title": "Introduction to Partnership and Partnership Final Accounts",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NodL85wGyxHqd5GhfZ8ai-DGSHIXEB6E"
+      "uid": "ehis",
+      "name": "History",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rQc_jAWR_lby8B2UD9zLUbaNK-E6sqZM"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_012",
-      "title": "Accounts of 'Not for Profit' Concerns",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mc0Mm0RL3ka0vZwEBSBa0ObCD7okYQMY"
+      "uid": "geography",
+      "name": "Geography",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1BOVeJvoKtOtjpx9OX5zGKKZSxgWvydWF"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_013",
-      "title": "Reconstitution of Partnership (Admission of Partner)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mbmrV9FkgujbiuJswXYmQFKM6ABNnyXQ"
+      "uid": "political_science",
+      "name": "Political Science",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1MttclqjNr0h0MngIRyNd1AAHvLagHM6b"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_014",
-      "title": "Reconstitution of Partnership (Retirement of Partner)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pejzqI2kAYrbo9nn16YBKOLW-4vN4rmT"
+      "uid": "eocmg",
+      "name": "Organisation of Commerce & Management",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Sl28QH5-B2p6UeqHdMy58Ofzddx_iT1k"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_015",
-      "title": "Reconstitution of Partnership (Death of Partner)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sA4T5NgBqeZsgwC0PZf1vptZBLBFDMji"
+      "uid": "esecp",
+      "name": "Secretarial Practice",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=15WvFu3scCfrBRsvG6pCBYBoEf7hm0v4w"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_016",
-      "title": "Dissolution of Partnership Firm",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=18N_oqv1KtS8yuOpL4cB3zLhhYc0RSTSD"
+      "uid": "efood",
+      "name": "Food Science and Technology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1geFjLWWve9wKjY7Q8Blx2_x-Zdw95F79"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_017",
-      "title": "Bills of Exchange",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iNwKvzRavp5S0hhIY9kR6mP6Lecdcj7e"
+      "uid": "eita",
+      "name": "Information Technology (Arts)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1m5WgVnerk0wWD8nDaG98e6ON1egHkGR9"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_018",
-      "title": "Company Accounts - Issue of Shares",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fSyIZb43pbAOCGqcUgvtA01cDXrmE3x9"
+      "uid": "eits",
+      "name": "Information Technology (Science)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1efv0p0Zxgj9qjX2-nxsR3VDiA-rD58DN"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_019",
-      "title": "Analysis of Financial Statements",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MhJXm-Ku_XZLc23dCRS2WPLWnOwc9MEJ"
+      "uid": "egeol",
+      "name": "Geology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1dh83peI4cGuukzkM0WpQ5Zz229Gjlkle"
     },
     {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_020",
-      "title": "Computer In Accounting",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17d_yKdfrCF7eiQMiQWUVIfvRW5IAzz5e"
+      "uid": "esoci",
+      "name": "Sociology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=17Ac2_kMLapIVOx1GpAyXwXWQUlLppGg_"
     },
-
-
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_001",
-      "title": "Angle and its Measurement",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1j0Wu4VeosPYxR3azZbJej_AQOKTjSGU8"
+      "uid": "epsyc",
+      "name": "Psychology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1m6gyHwFDl2PFjBP2QqMmcXYLm-Q7I3UR"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_002",
-      "title": "Trigonometry - I",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1edBgwhUfUPWBAxtMLt9jwjlF6IjA19-3"
+      "uid": "ephil",
+      "name": "Philosophy",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1xbr7gjseTQuSC7rX_YTH9TLoL7yojIoP"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_003",
-      "title": "Trigonometry II",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GXlshV8b5FZv_-uuN-QM8U2Os4ENYcYi"
+      "uid": "elogi",
+      "name": "Logic",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=10WVUQkk24ne4y27fRBg8zDe5nh-VFfBn"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_004",
-      "title": "Determinants and Matrices",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KCGerrchDz9MefxyyiifbD3H99vxA09Q"
+      "uid": "eanim",
+      "name": "Animal Science and Technology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Fj1drR5LPDoDINzDpCyTouf9KIkZVgoC"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_005",
-      "title": "Mathematical Logic",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sSRHBAx3UNACtbjbTzA5N-BWNx7PN7K2"
+      "uid": "eagri",
+      "name": "Agriculture Science and Technology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=13zYnj5LRPufaKrs1p-oqfEMHdvKQiHdJ"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_006",
-      "title": "Straight Line",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H_wqc6Z-X7nS2Ka3p2HDaad2Yse_vt1r"
+      "uid": "echld",
+      "name": "Child Development",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TIb5NdUJdcokN-X9BfABYE3zokrdH1P_"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_007",
-      "title": "Pair of Straight Lines",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1VjNPUdJBbmRJ1hBd95t-XJqttn7DzPDI"
+      "uid": "ecoop",
+      "name": "Co-operation",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=14suXJtL9Jp2nwA4UpLfgyLZbLblO06AY"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_008",
-      "title": "Circle",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IP7CnvXUa6MXOv1iZjGJirEzsHC6n1KT"
+      "uid": "eedu",
+      "name": "Education",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=131w8aovpHW4JPSa6jlQjzLGBiYIQWqZR"
     },
     {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_009",
-      "title": "Conic Sections",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=16Bz7oUwdg3VzAKC5AEo508dYCidQSB08"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_010",
-      "title": "Line and Plane",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IM9rzcI8nLTIXs9xwzAm6lY-klJKxD69"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_011",
-      "title": "Vectors",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=11Rhc40RZT5LsMa_rL6fS4p5GZe9aFHpl"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_012",
-      "title": "Trigonometric Functions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1u5L36wzb2LSlofYlmPl40O8Uau5gkL5C"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_013",
-      "title": "Measures of Dispersion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1YAVOE5TEGvpnqV9jfh6G8FW2zSeIIP4Y"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_014",
-      "title": "Probability",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1x2s1iVRDuDOn3YP1tNJU6gM_CnsxJzud"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_015",
-      "title": "Linear Programming",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_7992rNuW8IA0zJMwzSgQqDX-pofmK9j"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_016",
-      "title": "Matrics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1N9sWHcow7rA0yoimgPP49Owrpl8SpA1T"
-    },
-
-
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_001",
-      "title": "प्रकरण १_ युरोपातील प्रबोधन आणि विज्ञानाचा विकास",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OqJOLLzBjcViayEkcnbw4ujbXTbecaKW"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_002",
-      "title": "प्रकरण २_ युरोपीय वसाहतवाद",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kztt9rTn1vRQ8AwtI5PZdymJxAb9cRl8"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_003",
-      "title": "प्रकरण ३_ भारत आणि युरोपीय वसाहतवाद",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13dxCOVHIVcryE1oUKb6DNQdDqfzziogg"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_004",
-      "title": "प्रकरण 4_ वसाहतवाद आणि मराठे",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Nq7cUg4gc6piDLOQfjZQ1YbaT39-QdCi"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_005",
-      "title": "प्रकरण ५_ भारत - सामाजिक व धार्मिक सुधारणा",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=16GcNZVilq4jt3k5c5UgE9E0xMaTA5NXG"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_006",
-      "title": "प्रकरण ६_ वसाहतवादाविरुद्ध भारतीयांचा संघर्ष",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TfJqjNpdDR2bxrE5QW9L6PxfsEa7oVY1"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_007",
-      "title": "प्रकरण 7_ भारत _ निर्वसाहतीकरण ते एकीकरण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nGSLF2WXU4L9maeio-zn2FsPQBWgy3xL"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_008",
-      "title": "प्रकरण ८_ जागतिक महायुद्धे आणि भारत",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lCg6qG8a6tHDcMtPIYM-lT_PXXHf5nch"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_009",
-      "title": "प्रकरण ९_  जग _ निर्वसाहतीकरण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kajTbVaYmgT1SOSk78IM31IjyZ9oze9A"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_010",
-      "title": "प्रकरण १०_ शीतयुद्ध",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mq_dwflC01WKVqGeLyHYpCLmL3pu8RIP"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_011",
-      "title": "प्रकरण ११_ बदलता भारत - भाग १",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zofQB03E0UhGLa1WFStfgpFFUwpwZq3x"
-    },
-    {
-      "bookUid": "mhist",
-      "uid": "sol_mhst_012",
-      "title": "प्रकरण १२ _ बदलता भारत-भाग २",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DBP15cXg9GSSvNmm6dftwcwfhf9XojX_"
-    },
-
-
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_001",
-      "title": "Complex Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UDDkwUCpHemRqbFGqQo4hF6PsbJeCRmB"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_002",
-      "title": "Sequences and Series",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1B895gqVNp0vuX6R7fRJgKYSEzb2h_qM_"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_003",
-      "title": "Permutations and Combinations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kJTcNqYCPsdkXz8GmIyJLTjVnbPK1UAU"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_004",
-      "title": "Methods of Induction and Binomial Theorem",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=10ZJA-yMQ3Ze32wuy1nUJX5aI9WfpbcSv"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_005",
-      "title": "Sets and Relations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BhXZcu4t4WmF1zg6rn1aHYYr_xTekzxC"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_006",
-      "title": "Functions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wwCcst2biAK3rJ7D8x03txjOmjMraUbR"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_007",
-      "title": "Limits",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZSgeBM9B5nWCc2c5_C-IdL2pGcS6hJ9d"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_008",
-      "title": "Continuity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1c6zIOowtu-kmYoyhSUFSbbK8keKmRvvA"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_009",
-      "title": "Differentiation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DwZhd9ub7U3nh9gkPnU-umJF8rZa8PvZ"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_010",
-      "title": "Applications of Derivatives",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iMPhWjlJGIAQyL7q1MdpXwXZKXMReltY"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_011",
-      "title": "Indefinite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LriogxcIqneeaK6F24vz4LILAjzYN4gv"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_012",
-      "title": "Definite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Cpjq5VX2IAVPMwcQlGD4he2I5cDKXwR3"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_013",
-      "title": "Application of Definite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GOBq5eiW6wlq92HSak8MYR0K3gXp-zjf"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_014",
-      "title": "Differential Equations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=165hQEmCjAxWHzhvQ5lk4pSyIWM1n4_yh"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_015",
-      "title": "Probability Distributions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1q7SpDaZ8JKJg5MJH4F19pIn3vvAoyrhI"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_016",
-      "title": "Binomial Distribution",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CrBent9fPMOGpAY7sJkjNzzj_x6zXdwF"
-    },
-
-
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_001",
-      "title": "वेगवशता",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1cXMOlrxA1AjdtEzrXAkvqYGUUKY7P1QS"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_002",
-      "title": "रोज मातीत",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1RYJq9-_4gbDPk2fYzSxmYE0Y1muhjPVK"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_003",
-      "title": "आयुष्य... आनंदाचा उत्सव",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xUAFO1W1vWXGEcaps1abXBZQKzSCZvb-"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_004",
-      "title": "रे थांब जरा आषाढघना",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FNyuS4bEr_xg5T08dRTetNW95xLh_6U5"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_005",
-      "title": "वीराांना सलामी",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mhjClkZ_G93jRjYgbheJ0V_Ogi7dOmK_"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_006",
-      "title": "आत्मविश्वासासारखी शक्ती नाही",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lA5PSlyxc4_QSTZ7pUz8yZl-OsjRKOdy"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_007",
-      "title": "रंग मा झा वेगळा",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1o2QIFvCo4XfXc_gBdyY9AlxrPS0u4muY"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_008",
-      "title": "विंचू चावला....",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1W2S3n8DopxVRT-gfPWgbbwk8NMUdDsjj"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_009",
-      "title": "रेशीमबंध",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1hCp0caoAuqrwMpxy4tEBXF01tiuPpqxp"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_010",
-      "title": "समुद्र कोंडून पडलाय",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IQ7cuT2RMMbQY-uQGkm-1qraFvEHHyQP"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_011",
-      "title": "दंतकथा",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Qzelme5J59gYq4NUXktvDfvfXgteMrrI"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_012",
-      "title": "आरशातली स्त्री",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1rBFHWnLTBhlQXgqUBUpqOb_egzdsA-Op"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_013",
-      "title": "रंगरेषा व्यंगरेषा",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mTAVbgZzEOl7-3IwHp0nK_TmfgtQ186j"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_014",
-      "title": "जयपूर फूटचे जनक",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ROmP5jIf9sQwcfMUCOd9BoKAFjtRFP1n"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_015",
-      "title": "कथा-साहि त्यप्र कार-पररचय",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=158eynodEzZMILchciz-u-MIIs-g_WhPb"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_016",
-      "title": "शोध",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1jeMNyzuZlt25lvaW8N4fh0YNPGfksrja"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_017",
-      "title": "गढी",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1X5a5T7J_8LQcULzYVpUDap1anoGnHrp-"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_018",
-      "title": "मुलाखत",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=19_Tm5iS93T45nOWJrjWMb0wY5Mg9fQJD"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_019",
-      "title": "माहितीपत्रक",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H2seOoQYQiwjcHpCihz9fcvK8dy-tyHZ"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_020",
-      "title": "अहवाल",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=10wpBVZ1tBjHuIHzUDnZ4TvbgAfmcOs01"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_021",
-      "title": "वृत्तलेख",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SMEgDwDGEqebYrb1tMYftztnAVdCIm-R"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_022",
-      "title": "व्याकरण-वाक्यप्रकार व वाक्यरूपाांतर, समास, प्रयोग, अलांकार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HOcwxUkxZROE_Dq4JgFDepx5Mx3D0kQK"
-    },
-    {
-      "bookUid": "myuvk",
-      "uid": "sol_myuvk_023",
-      "title": "लेखन : ननबंधलेखन",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CuiGlghckujjSj1ap4mjyoJtvgIX1GAJ"
-    },
-
-
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_001",
-      "title": "An Astrologer’s Day",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=156gOi2yiZCYTB7NylhXMAtg0slFwIkQY"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_002",
-      "title": "On Saying “Please”",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FMBJ2pfPSSPCcvMsk3MgW6oDQK_5w8EW"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_003",
-      "title": "The Cop and the Anthem",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iywa9slQQHFtFxfI5Fqezzq5rf5WjiQZ"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_004",
-      "title": "Big Data-Big Insights",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zk0yUDPmuDRLjmCBdp0fRHivL-fJ9uW6"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_005",
-      "title": "The New Dress",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1prpur-o9Toi-9KDqnj0sml0NwIjAv3CC"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_006",
-      "title": "Into the Wild",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xattxepxpuJH8I6vauGowXHbPzmq6LUi"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_007",
-      "title": "Why we Travel",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1d0MixW_8zAxOVP2P5LFU7tvSWlfF9QcC"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_008",
-      "title": "Voyaging Towards Excellence",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1eoDsNLQkNOn6ax8eCTI_GUFgdDrBL2vn"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_009",
-      "title": "Song of the Open Road",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NhA2jmkOMqXSgXp9Q0IlS5InBk53FZ5X"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_010",
-      "title": "Indian Weavers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1waXl9sZsRjqcUInefe3C-KbJlKFjXqxT"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_011",
-      "title": "The Inchcape Rock",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NrSs7g6f6Znpa2wt7k0nTKb1ipbdPZcV"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_012",
-      "title": "Have you Earned your Tomorrow",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pWkcK4TuFotmrkmTi6yFE7sTdKswIeoi"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_013",
-      "title": "Father Returning Home",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SXqkZjM9qkrH_8JNQmeBUMpAukr0sZyu"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_014",
-      "title": "Money",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1b7HVQdfBOJRg_MVPqL48XHhd7dU-8kwn"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_015",
-      "title": "She Walks in Beauty",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=102ryXAxp6B8K3POuokdFmli6XD-bJvpC"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_016",
-      "title": "Small Towns and Rivers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=12cq1BdRhBWb-YXXC10yJlN9OVZFxPjg7"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_017",
-      "title": "Summary Writing",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZI0XJyr0sCMnnaryhtnZtHybyEuGqiCd"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_018",
-      "title": "Do Schools Really Kill Creativity? (Mind-Mapping)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uk1T0qGLc5wfccA4HDEibR9xXe5HXoBF"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_019",
-      "title": "Note–Making",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XAM8iie-et7v0Ae2iQPyItXtLwvpbRFy"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_020",
-      "title": "Statement of Purpose",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1_phPR_iddhpwETg5kNSNCcgpq_S3_BcJ"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_021",
-      "title": "Drafting a Virtual Message",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=15tYXXDGOCRrVsKRjFUaMHxJksOdwoUnr"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_022",
-      "title": "Group Discussion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QArFmAKQBlWqnCoyT_GR_2t7iJGD_j4K"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_023",
-      "title": "History of Novel",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QXnsRf62AzEw_ExwGBe5FUFkEKwLKSjS"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_024",
-      "title": "To Sir, with Love",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=16SRXZ2i3NwScUTsgoWmL-DflXoUx020n"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_025",
-      "title": "Around the World in Eighty Days",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1jsxIw1DrlI6jo3jLyeKACMVaFtQ2Q9Ec"
-    },
-    {
-      "bookUid": "eengl",
-      "uid": "sol_eengl_026",
-      "title": "The Sign of Four",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XFgnF28postXXoaN9gVKMjCuwUuABfpc"
-    },
-
-
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_001",
-      "name": "नवनिर्माण",
-      "url": "https://drive.google.com/uc?export=download&id=14OjzhuaJg0ZUKSZJrInLEKyxO3HdRpiG",
-      "timestamp": 1735634101001
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_002",
-      "name": "निराला भाई",
-      "url": "https://drive.google.com/uc?export=download&id=1_nwzYytWX0ItZLb3Ari3Yg_7DKiewD4_",
-      "timestamp": 1735634101002
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_003",
-      "name": "सच हम नहीं; सच तुम नहीं",
-      "url": "https://drive.google.com/uc?export=download&id=1WKCR4PlAsmkIxADRckcnSSPugrAKbTkk",
-      "timestamp": 1735634101003
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_004",
-      "name": "आदर्शबदला",
-      "url": "https://drive.google.com/uc?export=download&id=1xUVCJJu2cZgpGDBcqU2WrOW8darEpCEN",
-      "timestamp": 1735634101004
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_005",
-      "name": "गुरुबानी",
-      "url": "https://drive.google.com/uc?export=download&id=1z026VGkEOa7BnG0bPYHGbXmew4UHqwNq",
-      "timestamp": 1735634101005
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_006",
-      "name": "वृंद के दोहे",
-      "url": "https://drive.google.com/uc?export=download&id=1NJ3ce0bdAfD-sa0wWQaMQwjB0HfNaXcp",
-      "timestamp": 1735634101006
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_007",
-      "name": "पाप के चार हथि यार",
-      "url": "https://drive.google.com/uc?export=download&id=1NXjYypP43zYBJ7Doe_t5BsS6Apu2PyEX",
-      "timestamp": 1735634101007
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_008",
-      "name": "पेड़ होने का अर्थ",
-      "url": "https://drive.google.com/uc?export=download&id=1HXXO9oIC05NFg9jRTkI3T1fOWzuJt_LL",
-      "timestamp": 1735634101008
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_009",
-      "name": "सुनो किशोरी",
-      "url": "https://drive.google.com/uc?export=download&id=1EPaFF9N4m4WZ03w5jNNshR9zsWO2-yvz",
-      "timestamp": 1735634101009
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_010",
-      "name": "चुनिंदा शेर",
-      "url": "https://drive.google.com/uc?export=download&id=1fw4l-2yflyV1SWKkSIYAj8HbddeNtIPQ",
-      "timestamp": 1735634101010
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_011",
-      "name": "ओजोन विघटन का संकट",
-      "url": "https://drive.google.com/uc?export=download&id=12n4yxzE_tYkMxUAtrbJDXsjrxnfTk3dn",
-      "timestamp": 1735634101011
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_012",
-      "name": "कोखजाया",
-      "url": "https://drive.google.com/uc?export=download&id=1G25xliHSL6wnJCac5W0oy_8RBAdvt0Jy",
-      "timestamp": 1735634101012
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_013",
-      "name": "सुनुरेसखिया, कजरी",
-      "url": "https://drive.google.com/uc?export=download&id=1lPROqCDIxrxCiaPcqQpJFajVbKCGOXE8",
-      "timestamp": 1735634101013
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_014",
-      "name": "कनुप्रिया",
-      "url": "https://drive.google.com/uc?export=download&id=18SW74h7Kqqtj-brhvSVDV3a0mZH5A21J",
-      "timestamp": 1735634101014
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_015",
-      "name": "पल्लवन",
-      "url": "https://drive.google.com/uc?export=download&id=17UmzAzYrElzoNcSPa7cF7TozTqusY-Ee",
-      "timestamp": 1735634101015
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_016",
-      "name": "फीचर लेखन",
-      "url": "https://drive.google.com/uc?export=download&id=1Y6X648nXdxRQoGXcGNQzPl0iaTWN04XR",
-      "timestamp": 1735634101016
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_017",
-      "name": "मैं उद्घोषक",
-      "url": "https://drive.google.com/uc?export=download&id=11mEKDh51qbAS_bv5tNZDqIl21egJG9ol",
-      "timestamp": 1735634101017
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_018",
-      "name": "ब्लॉग लेखन",
-      "url": "https://drive.google.com/uc?export=download&id=12fdH3mWFgyk6fCBcu-NaP9JeTySgzr0D",
-      "timestamp": 1735634101018
-    },
-    {
-      "bookUid": "ehin",
-      "uid": "hin_sol_019",
-      "name": "प्रकाश उत्पन्न करने वाले जीव",
-      "url": "https://drive.google.com/uc?export=download&id=17TDTohB9TQmcELcg6R2Sctm4FyFg1JTR",
-      "timestamp": 1735634101019
-    },
-
-
-    {
-      "bookUid": "epol",
-      "uid": "pol_sol_001",
-      "title": "The World since 1991",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IL4kiMugIi9nH-2FQZL5iuZiOIiHf_9b"
-    },
-    {
-      "bookUid": "epol",
-      "uid": "pol_sol_002",
-      "title": "Key Concepts and Issues since 1991: Globalisation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1z0xHAhLmrXybYd_2I40puS4Wzpv3o7v6"
-    },
-    {
-      "bookUid": "epol",
-      "uid": "pol_sol_003",
-      "title": "Key Concepts and Issues since 1991: Humanitarian Issues",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NbEJEquyVuk9zCpkKV5_JwVhTQDeES19"
-    },
-    {
-      "bookUid": "epol",
-      "uid": "pol_sol_004",
-      "title": "Contemporary India: Challenges to Peace, Stability & National Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NPj_cwtSyM3tQv2WisWsjeCRmox_uo30"
-    },
-    {
-      "bookUid": "epol",
-      "uid": "pol_sol_005",
-      "title": "Contemporary India: Good Governance",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13urmUw5xy9lTLbEt1cezyXGzxnJrdUJw"
-    },
-    {
-      "bookUid": "epol",
-      "uid": "pol_sol_006",
-      "title": "India and the World",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1tIspix5eS3BmloBbfzalSI1c2BxQ2Nxs"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_001",
-      "title": "Population : Part – 1",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QJHJgu7F3CaeYerSRTJlDkUK2fUfmRaq"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_002",
-      "title": "Population Part – 2",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zDJsJnk4BdtiDM8Nx0OuuzxsY669cB9X"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_003",
-      "title": "Human Settlements and Land Use",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ip8W1Hl4lUwMnnrCOoZgEWJNIPjgzXDW"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_004",
-      "title": "Primary Economic Activities",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14wq2NR2wGxYVD3yIs-0dX8fH2mDtHqcC"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_005",
-      "title": "Secondary Economic Activities",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17qwYENAsewyxwURcO76det3-8VRFXaBW"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_006",
-      "title": "Tertiary Economic Activities",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1chmPgIz-X0ByqxP3ZITp20RESNfqIuZL"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_007",
-      "title": "Region and Regional Development",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PWIoKJI9X6NMtiJH5aGK4btv7_3nOhhz"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_008",
-      "title": "Geography : Nature and Scope",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AWpoiVNZ48E0BYNDAypjKnLdY1rYlGw_"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_001",
-      "title": "Population : Part – 1",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1QJHJgu7F3CaeYerSRTJlDkUK2fUfmRaq"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_002",
-      "title": "Population Part – 2",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zDJsJnk4BdtiDM8Nx0OuuzxsY669cB9X"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_003",
-      "title": "Human Settlements and Land Use",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ip8W1Hl4lUwMnnrCOoZgEWJNIPjgzXDW"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_004",
-      "title": "Primary Economic Activities",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14wq2NR2wGxYVD3yIs-0dX8fH2mDtHqcC"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_005",
-      "title": "Secondary Economic Activities",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17qwYENAsewyxwURcO76det3-8VRFXaBW"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_006",
-      "title": "Tertiary Economic Activities",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1chmPgIz-X0ByqxP3ZITp20RESNfqIuZL"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_007",
-      "title": "Region and Regional Development",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PWIoKJI9X6NMtiJH5aGK4btv7_3nOhhz"
-    },
-    {
-      "bookUid": "egeo",
-      "uid": "geo_sol_008",
-      "title": "Geography : Nature and Scope",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AWpoiVNZ48E0BYNDAypjKnLdY1rYlGw_"
-    },
-
-
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_001",
-      "title": "Introduction to Micro and Macro Economics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JRldU3N1hRpVaBvOKynZ3PAwXHYpfA-K"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_002",
-      "title": "Utility Analysis",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1j5KeSAhjI9FHh7_yHJ9i-amX6kZ9Xw05"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_003",
-      "title": "Demand Analysis",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=12nHfiBTC2B8OSh2_U9a9rLRW_MHJoy5-"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_004",
-      "title": "Elasticity of Demand",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1orpKJLJHrhmj6-yuWSdNpq8PUYoOtLbU"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_005",
-      "title": "Supply Analysis",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1VSTfzD_psypvzR9GrY6fXyTFrPfX-rYv"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_006",
-      "title": "Forms of Market",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1P_z05DXAcixYfCuwtHPwuGDUKowtCsCU"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_007",
-      "title": "Index Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OL-EzK4EjBMd1J5RueNnp42F5UdaP3jG"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_008",
-      "title": "National Income",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ewmPzJKxPRxcgGQj3wLTnU6jfH6Vhw06"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_009",
-      "title": "Public Finance in India",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=173OgjjsxLEMf1oqasw3ghc3RTfqxnLjf"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_010",
-      "title": "Money Market and Capital Market in India",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iIisDyLDxGiZhJuS6jO9-5M-NfYxoSIJ"
-    },
-    {
-      "bookUid": "eecon",
-      "uid": "econ_sol_011",
-      "title": "Foreign Trade of India",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ejh1KmlddH-aJeTAv1sGnlecm9ucdJuY"
-    },
-
-
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_001",
-      "title": "Renaissance in Europe and Development of Science",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FYxS22XnvoGYStBJ-sBShadzfFtyAi6j"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_002",
-      "title": "European Colonialism",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1N_28TNx3PlMszaiUSCsXU9zw5COixQEP"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_003",
-      "title": "India and European Colonialism",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=19Fozc1j0iRUN1rhRPYFYhcSLkAKF7m8M"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_004",
-      "title": "Colonialism and the Marathas",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SdBfuMIR95qniFrCI1s3j2AhMwxS1tte"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_005",
-      "title": "India: Social and Religious Reforms (Part 1)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MW340CKFdOvobTXhBKdiFYfUOJjoHnqu"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_006",
-      "title": "India: Social and Religious Reforms (Part 2)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1baNmBGuWCiJIGUPdiHWmtWYyrNJZK42V"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_007",
-      "title": "Decolonisation to Political Integration of India",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pxjJvVZE09qN1qO5p-N3tshQB6TnLnc2"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_008",
-      "title": "World Wars and India",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pUp325RLiJkT-mYWZ3s6_KQQovNeM4Nt"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_009",
-      "title": "World: Decolonisation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1d9GdS-DE5L2JGxvBi7L7SYBNAy0MT6M1"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_010",
-      "title": "Cold War",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LVByVoD-B-9wvSi2AIhuHrrjYry54ctx"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_011",
-      "title": "India Transformed - Part 1",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fURlyGS81b2Rh3VFt-sfN323NbZ37QNh"
-    },
-    {
-      "bookUid": "ehis",
-      "uid": "his_sol_012",
-      "title": "India Transformed - Part 2",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1cWCuPxscjWyjeiZMCOv4-aiIN1Lnqq_y"
-    },
-
-
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_001",
-      "title": "प्रकरण १_ लोकसंख्या भाग १",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ANzTb7aIvU0XVb2wmokIICdwbvHpHEst"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_002",
-      "title": "प्रकरण २- लोकसंख्या_ भाग २",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14_38-kWuMH7rL9BcjVXd_yx896W8WiiF"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_003",
-      "title": "प्रकरण ३ - मानवी वस्ती आणि भूमी उपयोजन",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wBAKKiEuQ9PDX6hIuCml0t9TCR0gaWTQ"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_004",
-      "title": "प्रकरण ४ - प्राथमिक आर्थिक क्रिया",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SeRIy0lytciaWdpCa5YwsPzQ2RsMfwZT"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_005",
-      "title": "प्रकरण ५_ द्वितीयक आर्थिक क्रिया",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XejODdDfYaM2gjGA3VvCk8V1yyHcNJxA"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_006",
-      "title": "प्रकरण ६_ तृतीयक आर्थिक क्रिया",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1e2pU6oIGo19n2Pb8ozpjHVJxi5Vt3Nsx"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_007",
-      "title": "प्रकरण ७_ प्रदेश आणि प्रादेशिक विकास",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BK2RdAVV6wTP-nZTMflxjbuyf3k1mNVW"
-    },
-    {
-      "bookUid": "mgeo",
-      "uid": "geo_sol_008",
-      "title": "प्रकरण ८_ भूगोल_ स्वरूप व व्याप्ती",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iXyF_nICV-ckXqCJkr3kmW04rX8KKMtm"
-    },
-
-
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_001",
-      "title": "Reproduction in Lower and Higher Plants",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1th_ZB-hMmRHc1KYlPcNtLSm74QNdSuLw"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_002",
-      "title": "Reproduction in Lower and Higher Animals",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UalkI1Xoig32mokFhw8QKG6iXU3IkJ4V"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_003",
-      "title": "Inheritance and Variation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1rh3eqMrdm_DhrQiM-_In5oKFO7FFOCv3"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_004",
-      "title": "Molecular Basis of Inheritance",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Zk3drIr5n-F7MsKa0Cs2byt54ogYiXys"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_005",
-      "title": "Origin and Evolution of Life",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xQDrTgFzvI50I51aX2rizGZnenEAErB3"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_006",
-      "title": "Plant Water Relation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=18jzbdlcL-pF3NAp6y1Lcc9XzpZ9A9CG2"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_007",
-      "title": "Plant Growth and Mineral Nutrition",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IcgTKjOsGuKHUif1S9unQvmVKB7R6tBG"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_008",
-      "title": "Respiration and Circulation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PZ-r0KicSqhBaHSnhxNubAzpJ1KfPZj3"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_009",
-      "title": "Control and Co-ordination",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DDha1OXH-C9Ypo8FiLqOifwjb_L6SimQ"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_010",
-      "title": "Human Health and Diseases",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1hYevyU87rJ-_e08LxthP07ag5W3_a7PG"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_011",
-      "title": "Enhancement of Food Production",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SVU2-FTvLP5oCUc5EbieIa-IVQanQ4Qu"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_012",
-      "title": "Biotechnology",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vZxgkzho8nH6NFdeWJ0Dq4Bxl7W5nlwE"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_013",
-      "title": "Organisms and Population",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1M_y-ie5gXnTsuTWrF-RAe7WLdWgjXoO4"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_014",
-      "title": "Ecosystems and Energy Flow",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Apd5YQf9Hb_cKzFKJTiaELVACDe4OLO8"
-    },
-    {
-      "bookUid": "ebio",
-      "uid": "bio_sol_015",
-      "title": "Biodiversity, Conservation and Environmental Issues",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1C3LqvOZZvyvf4tA8kD_viB1dq8hWeaMA"
-    },
-
-
-    {
-      "bookUid": "msoc",
-      "uid": "soc_sol_001",
-      "title": "प्रकरण १ - भारतीय समाजाचा परिचय",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vU9yh0KpvrLT9N-utMmA4gf7G2GRMxS5"
-    },
-    {
-      "bookUid": "msoc",
-      "uid": "soc_sol_002",
-      "title": "प्रकरण २ - भारतीय समाजाचे वर्गीकरण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1rRyWKNdplzGMoBL4R1_qEA6hQY9XPQHU"
-    },
+      "uid": "eenvw",
+      "name": "Environment Education & Water Security",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Fft4gUIfQ-rQGbYNfHmI74R2zc7pDxun"
+    }
+  ],
+  "marathi": [
     {
-      "bookUid": "msoc",
-      "uid": "soc_sol_003",
-      "title": "प्रकरण ३_ भारतीय समाजातील विविधता आणि एकता",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BjhCQwF3P18OjopNlcHfPefpMRaFHd65"
+      "uid": "account",
+      "name": "पुस्तपालन आणि लेखाकर्म",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1I4n0qBaNvfY3Pday_ssucgQEKWOOG2H8"
     },
     {
-      "bookUid": "msoc",
-      "uid": "soc_sol_004",
-      "title": "प्रकरण ४_ भारतातील समाज परिवर्तनाच्या प्रक्रिया",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1hmAo6JV3CKq9IgAMZmt8wWo2wJFi-0-Y"
+      "uid": "myuvk",
+      "name": "युवकभारती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=12_Fe8S-HJ-zLm7KTfkI-W4DxPTfOlObb"
     },
     {
-      "bookUid": "msoc",
-      "uid": "soc_sol_005",
-      "title": "प्रकरण ५_ भारतातील सामाजिक चळवळी",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1yoehBRO-haEWd5xMgNLnXCEzkqzRlBzb"
+      "uid": "mhist",
+      "name": "इतिहास",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HH3u931uNrQgXPz2Okt3Gg2aSBdRX7gr"
     },
     {
-      "bookUid": "msoc",
-      "uid": "soc_sol_006",
-      "title": "प्रकरण ६_ भारतातील सामाजिक समस्या",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1F8AYsJdkLX2axo620uJPcqgAYWLDX84K"
+      "uid": "mecon",
+      "name": "अर्थशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1hvu_bcl-iT4QtO0hFFoHE1yj9jcrY14R"
     },
-
-
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_001",
-      "title": "Some Basic Concepts of Chemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iKDHZy9JzB5sUsSlWfpR7eRSp7w9y2wU"
+      "uid": "mgeo",
+      "name": "भूगोल",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1qgu2Hl4mFQtZvEv-JnqNglYABo47xfj1"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_002",
-      "title": "Introduction to Analytical Chemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1G-rzjKmUkuaWd1yzJZe3ig_kjjJ4biVD"
+      "uid": "mpol",
+      "name": "राज्यशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1uZIFWL8znXunpDBTacOnEc4tzrapnH4F"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_003",
-      "title": "Some Analytical Techniques",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gyT_rAGN33EoS3ofz34ZvSiJf2IsBSVl"
+      "uid": "msoc",
+      "name": "समाजशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1A4ag3yd8W2SFT7fYwX1gEMUd5EPFRiXH"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_004",
-      "title": "Structure of Atom",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=12CBgdneDAvwpHb5bATGZA2EVnu8-Wt5G"
+      "uid": "com_finproc",
+      "name": "चिटणीसाची कार्यपद्धती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1KOAiXY16Wx054gR7f6ICZAukZ9TbrOHG"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_005",
-      "title": "Chemical Bonding",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=15GySSpqrjHRymQqrIMdb4WKN2Vanhl8j"
+      "uid": "mocmg",
+      "name": "वाणिज्य संघटन व व्यवस्थापन",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1xGJbkBEddjmmPuLMqTanM3FCgxm4LC8B"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_006",
-      "title": "Redox Reactions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1RhZLjSTHrU2OdJTw2KJAbxDMYE7yuaWV"
+      "uid": "mmpak",
+      "name": "महाराष्ट्र पाकृत",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1s5BwZmXO5U20c_2YnhXA2NmJ97Qh6GgG"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_007",
-      "title": "Modern Periodic Table",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xe9_lWJ4GVQNb88kC7TsMBq203YD_cHU"
+      "uid": "menvw",
+      "name": "पर्यावरण शिक्षण व जलसुरक्षा",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1lfVh-d_eA-2LOK5UY9gFv6c6C1uv3_q7"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_008",
-      "title": "Elements of Group 1 and 2",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1aiI_RwEn6lJwz-ivta8OJu1h6ikNtT3C"
+      "uid": "mpsyc",
+      "name": "मानसशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TP8J2nEBTKDCVJ2zmo3tHxZ8T8tw0Vnv"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_009",
-      "title": "Elements of Group 13, 14, and 15",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LM24zpZYksXmiH2oFakzvLTgogiKnIIZ"
+      "uid": "mphil",
+      "name": "तत्त्वज्ञान",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=14NbnumEFwoltGfol8UbYlQT2STVc27mY"
     },
     {
-      "bookUid": "echem",
-      "uid": "chem_sol_010",
-      "title": "Elements of Groups 16, 17 and 18",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjsdEp_SjqcHYs7sWsaPRUh5TmojA45o"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_011",
-      "title": "Transition and Inner Transition Elements",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ak3XNE5BB6z41TrSeyFGZ0fGuQeTcY6i"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_012",
-      "title": "States of Matter",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gilGu_SaCxYR1_tA6hokKMN19Y-p5GjQ"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_013",
-      "title": "Solid State",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1X9YzF5HSPbIGnzyX3pwtZUPIAn1GFJq4"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_014",
-      "title": "Foundational Principles of Chemical Equilibrium",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fuOwYbpJZ_W-EeNhzMpXsiq8fcEUUwVb"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_015",
-      "title": "Ionic Equilibria",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dNAflIGlGBNvBUeqWiKy3BeyceTNSNL9"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_016",
-      "title": "Chemical Themodynamics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1t3U2pHJzK4naklRmK_-a3NPXafFB0T7X"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_017",
-      "title": "Electrochemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Xx_paOXhXlTNYRUJOatjK5AWA5qKPTbM"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_018",
-      "title": "Chemical Kinetics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GtmbRhoPO97JT0kkg4npX79bmIx5VO7u"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_019",
-      "title": "Coordination Compounds",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ncSf0u3pmup9c2FSh-UvE3yK5whpbt4-"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_020",
-      "title": "Halogen Derivatives",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1oG7yP_-dmmDj3zvbqpW6vp5iVKbGJL42"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_021",
-      "title": "Alcohols, Phenols and Ethers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=176Jns0_OTTJBVC5YfcBDlLceiFQbGRKY"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_022",
-      "title": "Aldehydes, Ketones and Carboxylic acids",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=19KpiJnpiwXXWjQ34W1nyqlxMOjgv7_v6"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_023",
-      "title": "Amines",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1I_sRFVSBWebqPJOZtZPJqHTsyOe_dR6H"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_024",
-      "title": "Biomolecules",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JxbqxKDW5piD5n6FludnbKrmAy_cFPjr"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_025",
-      "title": "Introduction to Polymer Chemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BHyBgHsulOytjIF37dsb09X_jwCS8eFI"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_026",
-      "title": "Green Chemistry and Nanochemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ySzFdeVDVSkQpmaZ1ULGxA4BxhPQisNj"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_027",
-      "title": "Solutions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AU7vHNTU2IpyOVwHcAkaoneN2Gh_e91Q"
-    },
-    {
-      "bookUid": "echem",
-      "uid": "chem_sol_028",
-      "title": "Chemistry in Everyday Life",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uo4SsYOai4u7KkA7SzkIhPjoaxzIpOBx"
-    },
-
-
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_001",
-      "title": "Units and Measurements",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vrVKhaRke63qRedLJfJDQy2fb5fH5jds"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_002",
-      "title": "Mathematical Methods",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1h4yJJlD3iYjrt7QryvKwzX9sRteuj7sf"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_003",
-      "title": "Motion in a Plane",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14E8YE4ZXrw46EK74RndD8ysaJVTJoRdo"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_004",
-      "title": "Laws of Motion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HhBD-Bv7hnvzGaZk1D7fgwOxkVpDtkI-"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_005",
-      "title": "Gravitation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OQVfc8f15IVuWdr3mJdxTFr0AjhabJoN"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_006",
-      "title": "Mechanical Properties of Solids",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IXrj2NKb4iWl-KFs-pVBe1QWCgKGhPA6"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_007",
-      "title": "Rotational Dynamics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1hULpgfs4-gfYcvPTootFvkBQRxXffm8u"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_008",
-      "title": "Mechanical Properties of Fluids",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LmIsFSfAS1-398OXUrPZRy-vA0yhNrQU"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_009",
-      "title": "Kinetic Theory of Gases and Radiation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1PqvGhs_1L2NSj0UX7D3WlJyCBQCZxiMy"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_010",
-      "title": "Thermodynamics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1bysA06HNLKM3W2iaBIX2cWx4giIrT0Ju"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_011",
-      "title": "Oscillations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13QOjNHhj6tdOKn3AceOSxcn8g-fDQCS0"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_012",
-      "title": "Superposition of Waves",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kgAHNLE-CRbrmKpEzD0PrBlypLYdIBm3"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_013",
-      "title": "Wave Optics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JPnHKyz3nc3QujQb_OFUhuIis1zp7yQ_"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_014",
-      "title": "Optics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1apwSVofH083WeaEswtRRjICKFZYWcgMg"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_015",
-      "title": "Electrostatics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AmPwp5JROSXf-8T8M8t5HHE9KVMP0EpY"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_016",
-      "title": "Current Electricity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1oNg1jeo9GZgOFoTA6OHGFYHJUaLXSZbD"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_017",
-      "title": "Magnetic Fields due to Electric Current",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GgebRL9e464ZG9kg8oVDGM99V5eeoc5h"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_018",
-      "title": "Magnetic Materials",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-TwVjqWoYqYM0sytz03EsTYt1upNXZru"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_019",
-      "title": "Electromagnetic Induction",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=19fFyLoK4npjeTZUCDCQxy9lby2pzTQ_W"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_020",
-      "title": "AC Circuits",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-qEsm85iccyDVcYPwqdrC5bCfMZmDlE9"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_021",
-      "title": "Dual Nature of Radiation and Matter",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MKJeNIHKT2C5EA_EHc-cAp5PV1AjzMTa"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_022",
-      "title": "Structure of Atoms and Nuclei",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14Da4qmkpe2qsaE_NnI-LZSr-MaGXS7CW"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_023",
-      "title": "Semiconductor Devices",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1dVDK9dMZN9xsdiRP7vkKHniu1CLjfBrF"
-    },
-
-
-    {
-      "bookUid": "mpol",
-      "uid": "pol_sol_001",
-      "title": "प्रकरण १ - १९९१ नंतरचे जग (1)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1covBNUtxn5xaPbI94ipbnugmpNCo_1lw"
-    },
-    {
-      "bookUid": "mpol",
-      "uid": "pol_sol_002",
-      "title": "प्रकरण २ - १९९१ नंतरच्या महत्त्वाच्या संकल्पना आणि समस्या _ जागतिकीकरण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1yyqruLpGLtKp_DXgQOTfmEC5wsVl9Mzo"
-    },
-    {
-      "bookUid": "mpol",
-      "uid": "pol_sol_003",
-      "title": "प्रकरण ३- १९९१ नंतरच्या महत्त्वाच्या संकल्पना आणि समस्या_ मानवतावादी प्रश्न",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vNdodIoK8dHOa7-WGFYaB2XPJpAKvM1Y"
-    },
-    {
-      "bookUid": "mpol",
-      "uid": "pol_sol_004",
-      "title": "प्रकरण ४- समकालीन भारत _ शांतता, स्थैर्य आणि राष्ट्रीय एकात्मतेसमोरील आव्हाने",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kz3C4Sql2Q-MY8Nji86YkPTqlZ_-dWeU"
-    },
-    {
-      "bookUid": "mpol",
-      "uid": "pol_sol_005",
-      "title": "प्रकरण ५- समकालीन भारत _ सुशासन",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17TuFRNR0Q7WBLpjho8_-US2Ho8--rMvq"
-    },
-    {
-      "bookUid": "mpol",
-      "uid": "pol_sol_006",
-      "title": "प्रकरण ६- भारत आणि जग",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AxGyiIB7eQMfhZmdnItdwB10v5ZAXo1u"
-    },
-
-
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_001",
-      "title": "Partition Values",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WamEPhNtcWsfS-gr9oiCu_44Bbsk18Vj"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_002",
-      "title": "Measures of Dispersion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BGCIHDCm2JYb3VrL41wiy2XlUYCoP0wb"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_003",
-      "title": "Skewness",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BYe2JuPmziKw4QQNDDNfwWxzVdNUD8Bx"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_004",
-      "title": "Bivariate Frequency Distribution & Chi Square Statistic",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=15NAB4ho0VvaHXmDv0-mGHwJcr9YZKDbp"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_005",
-      "title": "Correlation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XFTUyab7bFZuJm5q4tT_yfsHel7Gqw0A"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_006",
-      "title": "Permutations and Combinations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kn5vVo1IrfsnGUC-pTQJitdyk2dg4dYz"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_007",
-      "title": "Probability",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-aLiXLIwxhcJAlmk08Fmz5GQGOfW-PGL"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_008",
-      "title": "Linear Inequations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1V6wpdh358OKKViW_pXugBDRJzTUjm856"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_009",
-      "title": "Commercial Mathematics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=18omBicdXziMCPTLxQwQZu-V8AFYsBt7I"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_010",
-      "title": "Commission, Brokerage and Discount",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=120yxOKcPYrN3fKXuDATW7QwhABB7fwDh"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_011",
-      "title": "Insurance and Annuity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DFu0_04umQQcErrakrobt4nCT0pyN6Ze"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_012",
-      "title": "Linear Regression",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1e5Fe09JmHO0XLYTkz8-PXIDnr-GOzID2"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_013",
-      "title": "Time Series",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xuKXRDYKMGbwmUByTcVE_gplql7fPw6X"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_014",
-      "title": "Index Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=134mR4CJRdEPZJrqRipfobGIyDcYeEKR0"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_015",
-      "title": "Linear Programming",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=16aErTHfA4aVfDWqKYn7D6mnwEXIOyIRq"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_016",
-      "title": "Assignment Problem and Sequencing",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fjhweZcnrNSCAdJvp8Jm_V4Yytjf28kj"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_017",
-      "title": "Probability Distributions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13T_4gMG3JrrO0OZOcxrHoI8bLN_trM0q"
-    },
-
-
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_001",
-      "title": "प्रकरण १_ संस्थात्मक वित्त व्यवस्थापनाची ओळख",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zWGsg3I6xeTW-KzEu1okWmb7e-W69SlS"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_002",
-      "title": "प्रकरण २_ संस्थात्मक वित्त व्यवस्थेचे स्रोत",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZtSkq6KydOYxB507zHz7GEKNLvenA3Lx"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_003",
-      "title": "प्रकरण ३_ भाग विक्री",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TfMtbjt6s5ZuTkEyuFBQlaOVfuq64jo8"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_004",
-      "title": "प्रकरण ४_ कर्जरोखे विक्री",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1TQ47bedA2puQsrVF0NllFvrl1FwHTHsX"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_005",
-      "title": "प्रकरण ५_ ठेवी",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AFwOsMUjzzs3yt0VPymYPvhXqmTKquUV"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_006",
-      "title": "प्रकरण ६_ सभासदांशी पत्रव्यवहार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1SPN25uPrHOzkm1-JcdNUnGzUvcban1e4"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_007",
-      "title": "प्रकरण ७ - कर्जरोखेधारकांशी पत्रव्यवहार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13NvQKTD8JY4lVdENSHraxDjxvx6w37Tf"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_008",
-      "title": "प्रकरण ८_ ठेवीदारांशी पत्रव्यवहार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=18fobp43E76ag4EdhjHIM5K3KpKKNzQx-"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_009",
-      "title": "प्रकरण ९_ भागपेढी पद्धती",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GnO_z_cWulommNmDlDgorJVLr7GBEdFj"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_010",
-      "title": "प्रकरण १०_ लाभांश आणि व्याज",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Opb6yM02n_1Wk7ye2U3BFK0T6rwg2LV4"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_011",
-      "title": "प्रकरण ११_ वित्तीय बाजार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=16kZveu2gv1ihF0LgFqq7AFI6yyJKnkSs"
-    },
-    {
-      "bookUid": "com_finproc",
-      "uid": "finproc_sol_012",
-      "title": "प्रकरण १२_ भाग बाजार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DOdHcAYNWI-L41CE0s1yKV7CzQprCK3S"
-    },
-
-
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_001",
-      "title": "Sets and Relations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XyDD_mP3O60UH5L4D9FgGtyuowz6z_pT"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_002",
-      "title": "Functions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Xm7IZd_VP0Bxf8iNEyQ9ljA8u203CFrG"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_003",
-      "title": "Complex Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1oMJxNvGmfKprk1xWeAgC1VR7FA1bo9DG"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_004",
-      "title": "Sequences and Series",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1EDvJQaYC2mE1y0hkU7OK9g9HM9bLbn9w"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_005",
-      "title": "Locus and Straight Line",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13vDp9DnGdRCT6hA1OG6kbM6SyvNRvQPi"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_006",
-      "title": "Determinants",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZmpnEGib98X1ux7vxfUSZmdUy5uVC7rB"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_007",
-      "title": "Limits",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjRuQpTJjErR6yb0OKWfF2PVKtc3CJcs"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_008",
-      "title": "Continuity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17I-wTi02Il97y7cMUgnlHDQ8Awuuono8"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_009",
-      "title": "Differentiation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17IzjdGuDKvUkiGvRcmscesrrclN1e2O7"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_010",
-      "title": "Mathematical Logic",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1e8Ji8VZLQAopnvXGpopLxbTIzeZO9yal"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_011",
-      "title": "Matrices",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kFNliLaJGQFFJkL5_zKvbt2LddpzQsCy"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_012",
-      "title": "Differentiation (New)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kwY76rAghnaW_Elzpp5mg0Shd9rYRHA1"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_013",
-      "title": "Applications of Derivatives",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IKAEPW24NFg6mEJvqDbtuGg2oNI7huX3"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_014",
-      "title": "Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1v-MwfqDvnFIV5dcTu01KixjftDVavY6Q"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_015",
-      "title": "Definite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1R_oagSHvrbQnQf81MTDwYWJWqe_OZeJE"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_016",
-      "title": "Applications of Definite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ougiGwEbFgDSrrbNwHikO7BQnOSQ9K03"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_017",
-      "title": "Differential Equation and Applications",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NH1V3HTlzJLHnxGaaIavmXVqf_6Tb8AL"
-    },
-
-
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_001",
-      "title": "प्रकरण १_ सूक्ष्म आणि स्थूल अर्थशास्त्राचा परिचय",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mNGTpo9uM4cWZc1LO1o4BLHhlW4yDMHx"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_002",
-      "title": "प्रकरण २_ उपयोगिता विश्लेषण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uZCoW3Y1pyofcnPH8FtixoOjWzLOvp0o"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_003",
-      "title": "प्रकरण ३(अ) - मागणीचे विश्लेषण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BpUrHvbzjfQAQMmsHSKPpD6RQgx6uTNT"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_004",
-      "title": "प्रकरण ३(ब) - मागणीची लवचिकता",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H_1cgRRTm10z2cqdSw7TTUPmlMUs_rdy"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_005",
-      "title": "प्रकरण ४_ पुरवठा विश्लेषण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KKOAS1mRRvBYrTvZBDW1KtZJtrg4jo6w"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_006",
-      "title": "प्रकरण ५_ बाजाराचे प्रकार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NAjWeMZp_IrmnyAvqChUp6b40KnrF3t-"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_007",
-      "title": "प्रकरण ६_ निर्देशांक",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1f_sChzd8ryVdeYoaaQ-fc4r4g8knc3cf"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_008",
-      "title": "प्रकरण ७ _ राष्ट्रीय उत्पन्न",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mM8m_480_rQsBj7I0GEcMl_ICIrGhg8X"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_009",
-      "title": "प्रकरण ८_ भारतातील सार्वजनिक वित्तव्यवहार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=18X_-zAiovAeBs6yPq2522qVgMBxumyIi"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_010",
-      "title": "प्रकरण ९_ भारतातील नाणेबाजार आणि भांडवलबाजार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14R3d68WrBLNZGeI4GOrh84DgBnY3K7gj"
-    },
-    {
-      "bookUid": "mecon",
-      "uid": "econm_sol_011",
-      "title": "प्रकरण १०_ भारताचा विदेशी व्यापार",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JOQoXsO9Hu0FQYTU5w4dvz5RRcKO7nC2"
-    },
-
-
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_001",
-      "title": "Complex Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UDDkwUCpHemRqbFGqQo4hF6PsbJeCRmB"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_002",
-      "title": "Sequences and Series",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1B895gqVNp0vuX6R7fRJgKYSEzb2h_qM_"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_003",
-      "title": "Permutations and Combinations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kJTcNqYCPsdkXz8GmIyJLTjVnbPK1UAU"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_004",
-      "title": "Methods of Induction and Binomial Theorem",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=10ZJA-yMQ3Ze32wuy1nUJX5aI9WfpbcSv"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_005",
-      "title": "Sets and Relations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BhXZcu4t4WmF1zg6rn1aHYYr_xTekzxC"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_006",
-      "title": "Functions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wwCcst2biAK3rJ7D8x03txjOmjMraUbR"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_007",
-      "title": "Limits",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZSgeBM9B5nWCc2c5_C-IdL2pGcS6hJ9d"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_008",
-      "title": "Continuity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1c6zIOowtu-kmYoyhSUFSbbK8keKmRvvA"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_009",
-      "title": "Differentiation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DwZhd9ub7U3nh9gkPnU-umJF8rZa8PvZ"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_010",
-      "title": "Applications of Derivatives",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iMPhWjlJGIAQyL7q1MdpXwXZKXMReltY"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_011",
-      "title": "Indefinite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LriogxcIqneeaK6F24vz4LILAjzYN4gv"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_012",
-      "title": "Definite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Cpjq5VX2IAVPMwcQlGD4he2I5cDKXwR3"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_013",
-      "title": "Application of Definite Integration",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GOBq5eiW6wlq92HSak8MYR0K3gXp-zjf"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_014",
-      "title": "Differential Equations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=165hQEmCjAxWHzhvQ5lk4pSyIWM1n4_yh"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_015",
-      "title": "Probability Distributions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1q7SpDaZ8JKJg5MJH4F19pIn3vvAoyrhI"
-    },
-    {
-      "bookUid": "math2",
-      "uid": "math2_sol_016",
-      "title": "Binomial Distribution",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CrBent9fPMOGpAY7sJkjNzzj_x6zXdwF"
-    },
-
-
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_001",
-      "title": "प्रकरण १_ भागीदारीची ओळख व भागीदारीची अंतिम खाती",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1rCOVgexIuFomerSj54ztbGVf9WRWjhrm"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_002",
-      "title": "प्रकरण २_ नफा न कमविणाऱ्या संस्थांची खाती",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pGFLHlax58PHF5Hg3_x_iGrldntIdaW6"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_003",
-      "title": "प्रकरण ३_ भागीदारीची पुनर्रचना - भागीदाराचा प्रवेश",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gQ7pAOREiCmNuMvr_eX8gUIdYLbMxCBQ"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_004",
-      "title": "प्रकरण ४_ भागीदाराची पुनर्रचना",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1CusoJjqoFxN_ZQwOcXt-5_h-1vRWOr4K"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_005",
-      "title": "प्रकरण ५_ भागीदाराची पुनर्रचना (भागीदाराचा मृत्यू)",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-XgGfzziSf6KztB06VY88aTMG9zRrT_k"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_006",
-      "title": "प्रकरण ६_ भागीदारीचे विसर्जन",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1l22G9B7N605lMi4S--EEUn20ecANefn4"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_007",
-      "title": "प्रकरण ७_ विनिमय विपत्र किंवा हुंडी",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1thZMeZTHSs9flQkWi36eJsoR-BGf1ljN"
-    },
-    {
-      "bookUid": "account",
-      "uid": "acc_sol_008",
-      "title": "प्रकरण ८_ प्रमंडळ खाती - भागांचे लेखांकन",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1cmF6dBx4HBqa0yLx7_3Scw5lIriPDaBE"
-    },
+      "uid": "mlogi",
+      "name": "तर्कशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1hcUZXzSo3g1p7Lukjjzp2grUWaMnEFf7"
+    }
+  ],
+  "hindi": [
     {
-      "bookUid": "account",
-      "uid": "acc_sol_009",
-      "title": "प्रकरण ९_ वित्तीय विवरणांचे विश्लेषण",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1zfpfXBjAJCChPad3an5EwzKd1VPBZ4xo"
+      "uid": "hindi_literature",
+      "name": "युवकभारती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1J1Ltq1gqrGVECQ1Nsves1oAYzWKq8jeF"
     },
     {
-      "bookUid": "account",
-      "uid": "acc_sol_010",
-      "title": "प्रकरण १०_ लेखांकनात संगणकाचा उपयोग",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=145kkUJ6ZD8DIbVtWsyEFlPkr0380k4NL"
+      "uid": "hsans",
+      "name": "संस्कृतम आहाद",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=17VH-ywOHoVzNbeaOzYdWP7k6MAyuLLrp",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rVqjJDcilX6osjvjFB2pAyvUwVUZQZVx"
     }
   ]
 }
