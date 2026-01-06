@@ -1,1 +1,183 @@
 
+{
+  "english": [
+    {
+      "uid": "ems1a",
+      "name": "Math & Stat 1 (Arts Science)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1Yyve0UrdSMOSuCHYw9gyyV_TkGVp3ZLu",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18LOz2iNIri2rIf0rlGqHOO0wTdXTx8h6"
+    },
+    {
+      "uid": "ems2a",
+      "name": "Math & Stat 2 (Arts Science)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1hPAXGUbermd8NoTJVcU2kInjQO0QGkOE",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1u7fFsLFmUv0XWlEYRcfRiubDDHOg1FNm"
+    },
+    {
+      "uid": "eengl",
+      "name": "English Yuvakbharti",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1BRG2X4GPddVBTkY__szHD1stwVRFYcr1",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1NIzarRqcgEvXAw5eBJpYfy4S0TXlYbhu"
+    },
+    {
+      "uid": "economics",
+      "name": "Economics",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1jGGV8Yy7XD6Uxl1mvlrGYnBduBPDj-lG",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=18YN1tXriVg74CVhCNl-fmLelRxKNatq8"
+    },
+    {
+      "uid": "ehis",
+      "name": "History",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1OYFHmjvKWS9fnVSnQ327MyPspqc2CzRO",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rQc_jAWR_lby8B2UD9zLUbaNK-E6sqZM"
+    },
+    {
+      "uid": "geography",
+      "name": "Geography",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1u6FL1s5pbcu1c4tV0frwnJEEW5FLo8Eg",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1BOVeJvoKtOtjpx9OX5zGKKZSxgWvydWF"
+    },
+    {
+      "uid": "political_science",
+      "name": "Political Science",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1sUOGdd5nO9U2OObDO-N5fDdGN3ZbOVKB",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1MttclqjNr0h0MngIRyNd1AAHvLagHM6b"
+    },
+    {
+      "uid": "efood",
+      "name": "Food Science and Technology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1qHJ6_HfR1qN2WqFdBS02mBQnVaaKstoa",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1geFjLWWve9wKjY7Q8Blx2_x-Zdw95F79"
+    },
+    {
+      "uid": "eita",
+      "name": "Information Technology (Arts)",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1_eWVESY1fizHJZrB7HhmWLZF9teoDnoD",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1m5WgVnerk0wWD8nDaG98e6ON1egHkGR9"
+    },
+    {
+      "uid": "esoci",
+      "name": "Sociology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1JnIsc5Hk8AjVcdbCRmj3-U8VZmnbQRL_",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=17Ac2_kMLapIVOx1GpAyXwXWQUlLppGg_"
+    },
+    {
+      "uid": "epsyc",
+      "name": "Psychology",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1PuEKZps_HPDIKos0jodL1ceE6opCmOQ1",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1m6gyHwFDl2PFjBP2QqMmcXYLm-Q7I3UR"
+    },
+    {
+      "uid": "ephil",
+      "name": "Philosophy",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1ZN5oic47Xel1BozB-hQNdWbQ9tr5cTa0",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1xbr7gjseTQuSC7rX_YTH9TLoL7yojIoP"
+    },
+    {
+      "uid": "elogi",
+      "name": "Logic",
+      "imageUrl": "https://ebooks.ebalbharati.in/BookCovers/1203010508.jpg",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=10WVUQkk24ne4y27fRBg8zDe5nh-VFfBn"
+    },
+    {
+      "uid": "eagri",
+      "name": "Agriculture Science and Technology",
+      "imageUrl": "https://ebooks.ebalbharati.in/BookCovers/1203020427.jpg",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=13zYnj5LRPufaKrs1p-oqfEMHdvKQiHdJ"
+    },
+    {
+      "uid": "echld",
+      "name": "Child Development",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1wQPoo4FXMkCxpOe2Uy2LIkqWoPUiySVY",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TIb5NdUJdcokN-X9BfABYE3zokrdH1P_"
+    },
+    {
+      "uid": "eedu",
+      "name": "Education",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=15i3u6noqS78vwRvmo20niroHSKB84OlG",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=131w8aovpHW4JPSa6jlQjzLGBiYIQWqZR"
+    },
+    {
+      "uid": "eenvw",
+      "name": "Environment Education & Water Security",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1bdCC4zV_mFftF6JoQQeE-gC85IWeIIik",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1Fft4gUIfQ-rQGbYNfHmI74R2zc7pDxun"
+    }
+  ],
+  "marathi": [
+    {
+      "uid": "myuvk",
+      "name": "मराठी युवकभारती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1itS7u8kOK77Vth1Bit8dtRWmytjpiNw9",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=12_Fe8S-HJ-zLm7KTfkI-W4DxPTfOlObb"
+    },
+    {
+      "uid": "mhist",
+      "name": "इतिहास",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1NO6Indp_L0D0JIyilPHx0qJYbC9l6hbW",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HH3u931uNrQgXPz2Okt3Gg2aSBdRX7gr"
+    },
+    {
+      "uid": "mecon",
+      "name": "अर्थशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1nkVgauQGqdwqtSsEhH4mFRGxR5OiVkFE",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1hvu_bcl-iT4QtO0hFFoHE1yj9jcrY14R"
+    },
+    {
+      "uid": "mgeo",
+      "name": "भूगोल",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=12AJIQnyZJv4l2-50crt9VIh64mpc363o",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1qgu2Hl4mFQtZvEv-JnqNglYABo47xfj1"
+    },
+    {
+      "uid": "mpol",
+      "name": "राज्यशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1Ocwa3l1yfr6053PSG3S9QQ54qd9Z-fNY",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1uZIFWL8znXunpDBTacOnEc4tzrapnH4F"
+    },
+    {
+      "uid": "msoc",
+      "name": "समाजशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=16Mo3KP3SsXxvoNs3a-7jdB_nqU3spQ6i",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1A4ag3yd8W2SFT7fYwX1gEMUd5EPFRiXH"
+    },
+    {
+      "uid": "menvw",
+      "name": "पर्यावरण शिक्षण व जलसुरक्षा",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1_yKD5hkT4ApfJcT0oh0lIAGhoweoHEXC",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1lfVh-d_eA-2LOK5UY9gFv6c6C1uv3_q7"
+    },
+    {
+      "uid": "mpsyc",
+      "name": "मानसशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1xtJqFrPQsTxZTRN2XA4tVZ6cFGFtvNyc",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1TP8J2nEBTKDCVJ2zmo3tHxZ8T8tw0Vnv"
+    },
+    {
+      "uid": "mphil",
+      "name": "तत्त्वज्ञान",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1zey_7gWSCpUA8Ba_vvdrBg_ul1P6yiMu",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=14NbnumEFwoltGfol8UbYlQT2STVc27mY"
+    },
+    {
+      "uid": "mlogi",
+      "name": "तर्कशास्त्र",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1ohkaULNsUMXf83frCwrhavVQTEw7I0Km",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1hcUZXzSo3g1p7Lukjjzp2grUWaMnEFf7"
+    }
+  ],
+  "hindi": [
+    {
+      "uid": "hindi_literature",
+      "name": "युवकभारती",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=1nLzgtquqvFfnIyIBb5oko5jgu0hVizQ6",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1J1Ltq1gqrGVECQ1Nsves1oAYzWKq8jeF"
+    },
+    {
+      "uid": "hsans",
+      "name": "संस्कृतम आहाद",
+      "imageUrl": "https://drive.google.com/uc?export=download&id=11kSwm95lJZHpRF1CXdT4uyvvq5JPeYA6",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1rVqjJDcilX6osjvjFB2pAyvUwVUZQZVx"
+    }
+  ]
+}
