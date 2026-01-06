@@ -1,65 +1,6 @@
 {
   "solutions": [
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_001",
-      "title": "Introduction to Book - Keeping and Accountancy",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OYP0aoZEk1i3I4oxv9xWn_lk79GGQGIY"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_002",
-      "title": "Meaning & Fundamentals of Double Entry Book-Keeping",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14q1NrzpenX5ShXFgWrrT3j6UmuOlX7TM"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_003",
-      "title": "Journal",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1qtl20s-Qy9I5sHOCxDuDUxG8rOaDnGH7"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_004",
-      "title": "Ledger",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1NsE82a2-U9MybnsFngjzWljy6Uwu7ZIo"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_005",
-      "title": "Subsidiary Books",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1o9BHulQWPpwK2f9JMQWpmpteQoihuz8l"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_006",
-      "title": "Bank Reconciliation Statement",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vMHqP6aOIPk-KVQEC5BY8OC5HiSfo3hB"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_007",
-      "title": "Depreciation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OaZKdijmiC4YXQKsgf0eoOd2Z7C_x_im"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_008",
-      "title": "Rectification of Errors",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IiuPIGa9vR_kScEuZOBNa6_X6xhY3jTz"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_009",
-      "title": "Final Accounts of a Proprietary Concern",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1nRNHdg3ufqAroLaX7hSgCWipzR9Rr5h0"
-    },
-    {
-      "bookUid": "ebkac",
-      "uid": "sol_bka_010",
-      "title": "Single Entry System",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1w8Ll2PhF0QvRc33_dIpB2_Vc_tb-8OUn"
-    },
+
     {
       "bookUid": "ebkac",
       "uid": "sol_bka_011",
@@ -124,69 +65,15 @@
 
     {
       "bookUid": "ems1a",
-      "uid": "sol_ms1a_001",
-      "title": "Angle and its Measurement",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1j0Wu4VeosPYxR3azZbJej_AQOKTjSGU8"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_002",
-      "title": "Trigonometry - I",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1edBgwhUfUPWBAxtMLt9jwjlF6IjA19-3"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_003",
-      "title": "Trigonometry II",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GXlshV8b5FZv_-uuN-QM8U2Os4ENYcYi"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_004",
-      "title": "Determinants and Matrices",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KCGerrchDz9MefxyyiifbD3H99vxA09Q"
-    },
-    {
-      "bookUid": "ems1a",
       "uid": "sol_ms1a_005",
       "title": "Mathematical Logic",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1sSRHBAx3UNACtbjbTzA5N-BWNx7PN7K2"
     },
     {
       "bookUid": "ems1a",
-      "uid": "sol_ms1a_006",
-      "title": "Straight Line",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1H_wqc6Z-X7nS2Ka3p2HDaad2Yse_vt1r"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_007",
-      "title": "Pair of Straight Lines",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1VjNPUdJBbmRJ1hBd95t-XJqttn7DzPDI"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_008",
-      "title": "Circle",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IP7CnvXUa6MXOv1iZjGJirEzsHC6n1KT"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_009",
-      "title": "Conic Sections",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=16Bz7oUwdg3VzAKC5AEo508dYCidQSB08"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_010",
-      "title": "Line and Plane",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IM9rzcI8nLTIXs9xwzAm6lY-klJKxD69"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_011",
-      "title": "Vectors",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=11Rhc40RZT5LsMa_rL6fS4p5GZe9aFHpl"
+      "uid": "sol_ms1a_016",
+      "title": "Matrics",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1N9sWHcow7rA0yoimgPP49Owrpl8SpA1T"
     },
     {
       "bookUid": "ems1a",
@@ -196,27 +83,27 @@
     },
     {
       "bookUid": "ems1a",
-      "uid": "sol_ms1a_013",
-      "title": "Measures of Dispersion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1YAVOE5TEGvpnqV9jfh6G8FW2zSeIIP4Y"
+      "uid": "sol_ms1a_007",
+      "title": "Pair of Straight Lines",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1VjNPUdJBbmRJ1hBd95t-XJqttn7DzPDI"
     },
     {
       "bookUid": "ems1a",
-      "uid": "sol_ms1a_014",
-      "title": "Probability",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1x2s1iVRDuDOn3YP1tNJU6gM_CnsxJzud"
+      "uid": "sol_ms1a_011",
+      "title": "Vectors",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11Rhc40RZT5LsMa_rL6fS4p5GZe9aFHpl"
+    },
+    {
+      "bookUid": "ems1a",
+      "uid": "sol_ms1a_010",
+      "title": "Line and Plane",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IM9rzcI8nLTIXs9xwzAm6lY-klJKxD69"
     },
     {
       "bookUid": "ems1a",
       "uid": "sol_ms1a_015",
       "title": "Linear Programming",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1_7992rNuW8IA0zJMwzSgQqDX-pofmK9j"
-    },
-    {
-      "bookUid": "ems1a",
-      "uid": "sol_ms1a_016",
-      "title": "Matrics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1N9sWHcow7rA0yoimgPP49Owrpl8SpA1T"
     },
 
 
@@ -294,54 +181,6 @@
     },
 
 
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_001",
-      "title": "Complex Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1UDDkwUCpHemRqbFGqQo4hF6PsbJeCRmB"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_002",
-      "title": "Sequences and Series",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1B895gqVNp0vuX6R7fRJgKYSEzb2h_qM_"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_003",
-      "title": "Permutations and Combinations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kJTcNqYCPsdkXz8GmIyJLTjVnbPK1UAU"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_004",
-      "title": "Methods of Induction and Binomial Theorem",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=10ZJA-yMQ3Ze32wuy1nUJX5aI9WfpbcSv"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_005",
-      "title": "Sets and Relations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BhXZcu4t4WmF1zg6rn1aHYYr_xTekzxC"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_006",
-      "title": "Functions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wwCcst2biAK3rJ7D8x03txjOmjMraUbR"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_007",
-      "title": "Limits",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZSgeBM9B5nWCc2c5_C-IdL2pGcS6hJ9d"
-    },
-    {
-      "bookUid": "ems2a",
-      "uid": "sol_ms2a_008",
-      "title": "Continuity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1c6zIOowtu-kmYoyhSUFSbbK8keKmRvvA"
-    },
     {
       "bookUid": "ems2a",
       "uid": "sol_ms2a_009",
@@ -756,6 +595,8 @@
       "title": "Foreign Trade of India",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1ejh1KmlddH-aJeTAv1sGnlecm9ucdJuY"
     },
+
+
     {
       "bookUid": "geography",
       "uid": "geo_001",
@@ -804,6 +645,7 @@
       "title": "Region and Regional Development",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1PWIoKJI9X6NMtiJH5aGK4btv7_3nOhhz"
     },
+
     {
       "bookUid": "political_science",
       "uid": "ps_001",
@@ -840,6 +682,7 @@
       "title": "India and the World",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1tIspix5eS3BmloBbfzalSI1c2BxQ2Nxs"
     },
+
     {
       "bookUid": "hindi_literature",
       "uid": "hl_001",
@@ -1208,78 +1051,7 @@
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1F8AYsJdkLX2axo620uJPcqgAYWLDX84K"
     },
 
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_001",
-      "title": "Some Basic Concepts of Chemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iKDHZy9JzB5sUsSlWfpR7eRSp7w9y2wU"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_002",
-      "title": "Introduction to Analytical Chemistry",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1G-rzjKmUkuaWd1yzJZe3ig_kjjJ4biVD"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_003",
-      "title": "Some Analytical Techniques",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gyT_rAGN33EoS3ofz34ZvSiJf2IsBSVl"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_004",
-      "title": "Structure of Atom",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=12CBgdneDAvwpHb5bATGZA2EVnu8-Wt5G"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_005",
-      "title": "Chemical Bonding",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=15GySSpqrjHRymQqrIMdb4WKN2Vanhl8j"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_006",
-      "title": "Redox Reactions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1RhZLjSTHrU2OdJTw2KJAbxDMYE7yuaWV"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_007",
-      "title": "Modern Periodic Table",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1xe9_lWJ4GVQNb88kC7TsMBq203YD_cHU"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_008",
-      "title": "Elements of Group 1 and 2",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1aiI_RwEn6lJwz-ivta8OJu1h6ikNtT3C"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_009",
-      "title": "Elements of Group 13, 14, and 15",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LM24zpZYksXmiH2oFakzvLTgogiKnIIZ"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_010",
-      "title": "Elements of Groups 16, 17 and 18",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjsdEp_SjqcHYs7sWsaPRUh5TmojA45o"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_011",
-      "title": "Transition and Inner Transition Elements",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ak3XNE5BB6z41TrSeyFGZ0fGuQeTcY6i"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_012",
-      "title": "States of Matter",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gilGu_SaCxYR1_tA6hokKMN19Y-p5GjQ"
-    },
+
     {
       "bookUid": "chemistry",
       "uid": "chem_013",
@@ -1288,9 +1060,9 @@
     },
     {
       "bookUid": "chemistry",
-      "uid": "chem_014",
-      "title": "Foundational Principles of Chemical Equilibrium",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1fuOwYbpJZ_W-EeNhzMpXsiq8fcEUUwVb"
+      "uid": "chem_027",
+      "title": "Solutions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AU7vHNTU2IpyOVwHcAkaoneN2Gh_e91Q"
     },
     {
       "bookUid": "chemistry",
@@ -1315,6 +1087,18 @@
       "uid": "chem_018",
       "title": "Chemical Kinetics",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1GtmbRhoPO97JT0kkg4npX79bmIx5VO7u"
+    },
+    {
+      "bookUid": "chemistry",
+      "uid": "chem_010",
+      "title": "Elements of Groups 16, 17 and 18",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjsdEp_SjqcHYs7sWsaPRUh5TmojA45o"
+    },
+    {
+      "bookUid": "chemistry",
+      "uid": "chem_011",
+      "title": "Transition and Inner Transition Elements",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ak3XNE5BB6z41TrSeyFGZ0fGuQeTcY6i"
     },
     {
       "bookUid": "chemistry",
@@ -1364,55 +1148,9 @@
       "title": "Green Chemistry and Nanochemistry",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1ySzFdeVDVSkQpmaZ1ULGxA4BxhPQisNj"
     },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_027",
-      "title": "Solutions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1AU7vHNTU2IpyOVwHcAkaoneN2Gh_e91Q"
-    },
-    {
-      "bookUid": "chemistry",
-      "uid": "chem_028",
-      "title": "Chemistry in Everyday Life",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uo4SsYOai4u7KkA7SzkIhPjoaxzIpOBx"
-    },
 
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_001",
-      "title": "Units and Measurements",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1vrVKhaRke63qRedLJfJDQy2fb5fH5jds"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_002",
-      "title": "Mathematical Methods",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1h4yJJlD3iYjrt7QryvKwzX9sRteuj7sf"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_003",
-      "title": "Motion in a Plane",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=14E8YE4ZXrw46EK74RndD8ysaJVTJoRdo"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_004",
-      "title": "Laws of Motion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HhBD-Bv7hnvzGaZk1D7fgwOxkVpDtkI-"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_005",
-      "title": "Gravitation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OQVfc8f15IVuWdr3mJdxTFr0AjhabJoN"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_006",
-      "title": "Mechanical Properties of Solids",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1IXrj2NKb4iWl-KFs-pVBe1QWCgKGhPA6"
-    },
+
+
     {
       "bookUid": "ephy",
       "uid": "phy_sol_007",
@@ -1454,12 +1192,6 @@
       "uid": "phy_sol_013",
       "title": "Wave Optics",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1JPnHKyz3nc3QujQb_OFUhuIis1zp7yQ_"
-    },
-    {
-      "bookUid": "ephy",
-      "uid": "phy_sol_014",
-      "title": "Optics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1apwSVofH083WeaEswtRRjICKFZYWcgMg"
     },
     {
       "bookUid": "ephy",
@@ -1555,60 +1287,7 @@
     },
 
 
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_001",
-      "title": "Partition Values",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WamEPhNtcWsfS-gr9oiCu_44Bbsk18Vj"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_002",
-      "title": "Measures of Dispersion",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BGCIHDCm2JYb3VrL41wiy2XlUYCoP0wb"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_003",
-      "title": "Skewness",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BYe2JuPmziKw4QQNDDNfwWxzVdNUD8Bx"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_004",
-      "title": "Bivariate Frequency Distribution & Chi Square Statistic",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=15NAB4ho0VvaHXmDv0-mGHwJcr9YZKDbp"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_005",
-      "title": "Correlation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XFTUyab7bFZuJm5q4tT_yfsHel7Gqw0A"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_006",
-      "title": "Permutations and Combinations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Kn5vVo1IrfsnGUC-pTQJitdyk2dg4dYz"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_007",
-      "title": "Probability",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-aLiXLIwxhcJAlmk08Fmz5GQGOfW-PGL"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_008",
-      "title": "Linear Inequations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1V6wpdh358OKKViW_pXugBDRJzTUjm856"
-    },
-    {
-      "bookUid": "com_maths2",
-      "uid": "math2_sol_009",
-      "title": "Commercial Mathematics",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=18omBicdXziMCPTLxQwQZu-V8AFYsBt7I"
-    },
+
     {
       "bookUid": "com_maths2",
       "uid": "math2_sol_010",
@@ -1733,60 +1412,7 @@
     },
 
 
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_001",
-      "title": "Sets and Relations",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XyDD_mP3O60UH5L4D9FgGtyuowz6z_pT"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_002",
-      "title": "Functions",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Xm7IZd_VP0Bxf8iNEyQ9ljA8u203CFrG"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_003",
-      "title": "Complex Numbers",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1oMJxNvGmfKprk1xWeAgC1VR7FA1bo9DG"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_004",
-      "title": "Sequences and Series",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1EDvJQaYC2mE1y0hkU7OK9g9HM9bLbn9w"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_005",
-      "title": "Locus and Straight Line",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=13vDp9DnGdRCT6hA1OG6kbM6SyvNRvQPi"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_006",
-      "title": "Determinants",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZmpnEGib98X1ux7vxfUSZmdUy5uVC7rB"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_007",
-      "title": "Limits",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HjRuQpTJjErR6yb0OKWfF2PVKtc3CJcs"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_008",
-      "title": "Continuity",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17I-wTi02Il97y7cMUgnlHDQ8Awuuono8"
-    },
-    {
-      "bookUid": "mmaths",
-      "uid": "maths_sol_009",
-      "title": "Differentiation",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=17IzjdGuDKvUkiGvRcmscesrrclN1e2O7"
-    },
+
     {
       "bookUid": "mmaths",
       "uid": "maths_sol_010",
@@ -2062,6 +1688,318 @@
       "uid": "acc_sol_010",
       "title": "प्रकरण १०_ लेखांकनात संगणकाचा उपयोग",
       "pdfUrl": "https://drive.google.com/uc?export=download&id=145kkUJ6ZD8DIbVtWsyEFlPkr0380k4NL"
+    },
+
+    {
+      "bookUid": "esoci",
+      "uid": "sol_esoci_001",
+      "title": "Introduction to Indian Society",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1huBcovh0Fsb03VFgsBRpcAkluyGEVjiU"
+    },
+    {
+      "bookUid": "esoci",
+      "uid": "sol_esoci_002",
+      "title": "Segments of Indian Society",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mKfrvPpT7rB56L9hR99RUbaF4IrRx2Ik"
+    },
+    {
+      "bookUid": "esoci",
+      "uid": "sol_esoci_003",
+      "title": "Diversity and Unity in Indian Society",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1lRabWWNjyy1PjY_hTn78E0X-leXVvk3k"
+    },
+    {
+      "bookUid": "esoci",
+      "uid": "sol_esoci_004",
+      "title": "Processes of Social Change in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MqC8GbhX7hIrZTHaSFG7yeAbEK5YcZ9Q"
+    },
+    {
+      "bookUid": "esoci",
+      "uid": "sol_esoci_005",
+      "title": "Social Movements in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1f7aNIi1DrpgTaTRuqENp4MCDU4y3uFgV"
+    },
+    {
+      "bookUid": "esoci",
+      "uid": "sol_esoci_006",
+      "title": "Social Problems in India",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1XGpgQsylTxERK9juZfqzJGsWUOeugX2n"
+    },
+
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_001",
+      "title": "Organisation of a Co-operative Society",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1GCNg7FuLNYo0XcBXnyDc_mpKij68Hy9X"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_002",
+      "title": "Correspondence of the Secretary of Co-operative Society",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wrZYeLJk75q7EhNS-6dPbqGcDNdfB7XH"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_003",
+      "title": "Commissioner and Registrar of Co-operative Societies",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1sTX9JVEG05IMRnBYAGiPBSUds5vN5Hcv"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_004",
+      "title": "Maharashtra Co-operative Societies Act, 1960",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1KPKzVc_VOdEhV-p2KFLf6MckgoDjmAC9"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_005",
+      "title": "Accounts and Audit of Co-operative Societies",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1tVwMgJJSi_qvho0mdggA-8c8EeFuX5Zp"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_006",
+      "title": "Urban Co-operative Bank",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iN-Br3Fxq289vEVsd7aSpb-jkbqZZnUk"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_007",
+      "title": "District Central Co-operative Bank (DCCB)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1HCYa4TRkl6CY_be-qOn8FODHAn33bIeg"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_008",
+      "title": "Maharashtra State Co-operative Bank (SCB)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=15OsMC4OLyVHzLfSqZ8z3SxM1f0Swt0eb"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_009",
+      "title": "Co-operative Education and Training",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1jXfK5wSOiQ_oXafY0OPzQTNYqovfVqzZ"
+    },
+    {
+      "bookUid": "ecoop",
+      "uid": "sol_ecoop_010",
+      "title": "Challenges Before Co-operative Sector",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1uCpFJrq_aYucmYy2Iz7g3Tdl_U4HP4qN"
+    },
+
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_001",
+      "title": "Principles of Management",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=18zVKGXKhpnHVzd0FR5eGiG1Cj1KNkH9Y"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_002",
+      "title": "Functions of Management",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BqEIeY5r_voQU3fH2WWAKlbUsN0j-yyO"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_003",
+      "title": "Entrepreneurship Development",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Dy6fQxlZiyHjEQOaDTnAd8zLGZn_upwr"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_004",
+      "title": "Business Services",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1o_cMMF5f67kPhaWKxdqA2_JNCo6l0Cmg"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_005",
+      "title": "Emerging Modes of Business",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gNUQoihwx-QRVa6Q0u3va-k5-IkhMne-"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_006",
+      "title": "Social Responsibilities of Business",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1In-ix8V7l8AgqORIHDPs9dW1iF3wFL4f"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_007",
+      "title": "Consumer Protection",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1J0xEH1PjqaHKQqm5hwzONYrRk5G5ChSO"
+    },
+    {
+      "bookUid": "eocmg",
+      "uid": "sol_eocmg_008",
+      "title": "Marketing",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FI_Tr7XEm0tA89QVfwcm75xxaaiX1-56"
+    },
+
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_001",
+      "title": "There is something, but what it is",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11g2Kw-JuBD1RZKK6S9MrfNSJTHVXZaTk"
+    },
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_002",
+      "title": "What is Cause?",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=19L4y9SlD7zI1mDRk4D5MR-l_-izFTWeV"
+    },
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_003",
+      "title": "Who am I? What am I?",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZeJcvXebSPpYWPCO-L8FdGZJP8gx6D8t"
+    },
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_004",
+      "title": "How do we know?",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1oOgUCN0fdr15HpN88Po5G75OAdmIFm3O"
+    },
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_005",
+      "title": "What to do and why? (Ethics)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-Fvazo6_Xn8E1HgImMxKY6teuoUI_x_0"
+    },
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_006",
+      "title": "Following the path of art (Aesthetics)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1t6yhJNP61e-2Vx--ISYfFzwBwb-rwF8l"
+    },
+    {
+      "bookUid": "ephil",
+      "uid": "sol_ephil_007",
+      "title": "Science, Technology and Philosophy",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1WjnIJNv737Kh_psKvZbfk6oVYnTa8sa-"
+    },
+
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_001",
+      "title": "Psychology: A Scientific Discipline",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JgWq9x7SfbztGgfQV6Ns9Hu2vItId3iC"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_002",
+      "title": "Intelligence",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12oKV6dphJrChxg-dKHoOofwfVsXGShAc"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_003",
+      "title": "Personality",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1-9Vbozih09aDwuaIcP8_eV9_zoEwqvRX"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_004",
+      "title": "Cognitive Processes",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1pvGHMd8zpvcB2mhTSXvYKZYgu8-VrZpz"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_005",
+      "title": "Emotions – Analysis, Concepts, and Solutions",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kNOcig7G_iOi4g4XqeUEefAK2tM0NZGh"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_006",
+      "title": "Psychological Disorders – Frameworks, Criteria, and Syndromes",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1iR5JdPrTlhHaAkpjLVaVd6Tf9maKiaGS"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_007",
+      "title": "First Aid in Mental Health – The ALGEE Protocol",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1Wwd1hYS-IxxQoVK2tv61pszWUS-4iKiA"
+    },
+    {
+      "bookUid": "epsyc",
+      "uid": "sol_epsyc_008",
+      "title": "Positive Psychology – Foundations and Applications",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=12kpA3g-LVrzyEp1BbWTpjTMlpyl59wEv"
+    },
+
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_001",
+      "title": "Introduction to Corporate Finance",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1MQCOVBDpReqM2gR66EpVbf8YnMsBZgLB"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_002",
+      "title": "Sources of Corporate Finance",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1gtHBbbIWS4CsjS-HVexkN30JI44OIaX6"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_003",
+      "title": "Issue of Shares",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1tAFr7HWjuMSD_APXIKrWUxRQiuXyaDbG"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_004",
+      "title": "Issue of Debentures",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=10BwkUt4lHCaNMN7b9ugnTNmO3AArFr-8"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_005",
+      "title": "Deposits: Statutory Compliance and Procedures",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1mlsxqPjtP3NM58rS1UebfVx3MUbEL3z6"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_006",
+      "title": "Correspondence with Members: Owner Communication",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1JgSSgu-bxmWkoYUYT13BofEA2gYu4G-J"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_007",
+      "title": "Correspondence with Debentureholders: Creditor Communication (Long-Term Debt)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1kGbHg5kRpfh88ciWdCC9iG0ZTqp38UtP"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_008",
+      "title": "Correspondence with Depositors: Creditor Communication (Short-Term Debt)",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1eVaUBLp3Rgi1xmCWvgMvz6Sbx_3ZFaER"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_009",
+      "title": "The Depository System",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1g1I5kQwlLF6eQMscEjU-h6mHNuIqKmDc"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_010",
+      "title": "Dividend and Interest",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LoZT6v-agIZikfsMudMmztQoBKyFyh-F"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_011",
+      "title": "Financial Market",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=11pPVRsqUOBt_CoVayZFMjsQSS9xImeql"
+    },
+    {
+      "bookUid": "esecp",
+      "uid": "sol_esecp_012",
+      "title": "Stock Exchange",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1wAn1qY-Ebc5X6Ilx1G0nu39ijjOIkIFc"
     }
   ]
 }
