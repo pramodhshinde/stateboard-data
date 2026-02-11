@@ -1,1 +1,152 @@
-
+{
+  "english": [
+    {
+      "uid": "history_civics_en",
+      "name": "इतिहास व राज्यशास्त्र इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=11aVmNzmgDnVWvPnySQ-2yJO4WH4nkBwJ"
+    },
+    {
+      "uid": "kumarbharati_en",
+      "name": "कुमारभारती इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1RCxEm2Qu7IQS-RPhoybHox2M08fnQc5F"
+    },
+    {
+      "uid": "math_part1_en",
+      "name": "गणित भाग - १ इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1U2zT77HSHDuty2OuA8f_Kla6rRkHH0Sg"
+    },
+    {
+      "uid": "math_part2_en",
+      "name": "गणित भाग - २ इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1g-kZXMC_KmknJjBnHfX9PqsoWsKykqjg"
+    },
+    {
+      "uid": "geography_en",
+      "name": "भूगोल इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1QMGsln3hFVnYnhpDxPLd5x0gWYpCzafT"
+    },
+    {
+      "uid": "defence_workbook_en",
+      "name": "संरक्षणशास्त्र कार्यपुस्तिका इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1zTk72Z5TLjS05K8hAAb4pqd61Jw2qpNo"
+    },
+    {
+      "uid": "science_part1_en",
+      "name": "सायन्स ऍन्ड टेक्नॉलॉजी भाग-१ इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1zdCmskK2qs2LFg-VyxPFqPCuiQzX83Cm"
+    },
+    {
+      "uid": "science_part2_en",
+      "name": "सायन्स ऍन्ड टेक्नॉलॉजी भाग-२ इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1f__Xxq-VS_7uefmKFBs4KwK3-Ct-_lGq"
+    },
+    {
+      "uid": "10th_myenglishcourse_en",
+      "name": "१० वी माय इंग्लिश कोर्स बुक इंग्रजी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1khCE4veO4C8zOU5A7s-fOGzSvUQ2fFxK"
+    }
+  ],
+  "marathi": [
+    {
+      "uid": "aksharbharti_mr",
+      "name": "अक्षरभारती मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1qVydphcubRfawn2B4ygtG3HSWLC9Kd0K"
+    },
+    {
+      "uid": "10th_history_civics_mr",
+      "name": "१० वी इतिहास व राज्यशास्त्र मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=130os_p-M7HcLGrdMdo9wXbyXDUJ_G8-x"
+    },
+    {
+      "uid": "10th_kumarbharati_mr",
+      "name": "१० वी कुमारभारती मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HiFDFzWgA1qxTLMNFSw5WAe908nGDgrI"
+    },
+    {
+      "uid": "10th_math_part1_mr",
+      "name": "१० वी गणित भाग - १ मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1IAZhQn-fM-5ONnobCDnAXFcK31YyJQns"
+    },
+    {
+      "uid": "10th_math_part2_mr",
+      "name": "१० वी गणित भाग - २ मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1wcEzE8HZVBvOUBz8mRA8t8IhzRKMzD2Y"
+    },
+    {
+      "uid": "10th_geography_mr",
+      "name": "१० वी भूगोल मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1PHqSJ3MhYX8zp0sg4jkIO4LSp25m4DFD"
+    },
+    {
+      "uid": "10th_defence_workbook_mr",
+      "name": "१० वी संरक्षणशास्त्र कार्यपुस्तिका मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1HpMhW14cJ_dGPDdjn7hnpBPoqiOtVH3g"
+    },
+    {
+      "uid": "10th_science_part1_mr",
+      "name": "१० वी सायन्स ऍन्ड टेक्नॉलॉजी भाग-१ मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1WWLN3voeTc4mSuFcf5bx6LcT1wpROn5O"
+    },
+    {
+      "uid": "10th_science_part2_mr",
+      "name": "१० वी सायन्स ऍन्ड टेक्नॉलॉजी भाग-२ मराठी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1gAoCGTVgZ_Cg_-IbqTKS_s-ObytVUpfD"
+    }
+  ],
+  "hindi": [
+    {
+      "uid": "lokbharati_hindi_en",
+      "name": "लॊकभारती हिंदी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1AuUjaGa6HrZPSVKasY2RqK3Zr5YTBPEA"
+    },
+    {
+      "uid": "10th_lokbharati_hindi",
+      "name": "१० वी लॊकभारती हिंदी",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1FacZ6MWc08DJOaN1wq51ZMpX2dmu5aHE"
+    },
+    {
+      "uid": "10th_sanskrit_anand",
+      "name": "१० वी संस्कृतम् आनन्द",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1nkv85frtS3HFLiEBJSOtbRosZmmio-1W"
+    },
+    {
+      "uid": "10th_sanskrit_amod",
+      "name": "१० वी संस्कृतम् आमोद",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1ldKgPUhEaZK6POd6Ndzx-6PiKWDhd9t2"
+    },
+    {
+      "uid": "sanskrit_anand_en",
+      "name": "संस्कृतम् आनन्द",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1jW3_df3UvZUEyUNcsEXLPckRds49ihFc"
+    },
+    {
+      "uid": "sanskrit_amod_en",
+      "name": "संस्कृतम् आमोद",
+      "imageUrl": "",
+      "bookPdfUrl": "https://drive.google.com/uc?export=download&id=1eeiKmrpnWFp-JImS861n030H2H-8pwDZ"
+    }
+  ]
+}
