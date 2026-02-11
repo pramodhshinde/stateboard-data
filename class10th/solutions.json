@@ -1,1 +1,1439 @@
+{
+  "solutions": [
+
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_001",
+        "title": "Similarity",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1JGwSvW0uUt8ZuQ3wawxTfa1cZLA55Tcl"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_002",
+        "title": "Pythagoras Theorem",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1eHmeLjkXa1K2rHP3TxD9g7PcMtUublFk"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_003",
+        "title": "Circle",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1fx8ZXxQ1dkzmKAUuUars_OZI1N6bl9XN"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_004",
+        "title": "Geometric Constructions",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1HhLVZpUEocL3lyB5D44lxtyVBLzhyLuW"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_005",
+        "title": "Co-ordinate Geometry",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1brheVAJhy3XryERQXtRoT6ZHm6Pqjc6b"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_006",
+        "title": "Trigonometry",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1y53k2KapXoq0PP96Kk4Jo4MYsFF2GX3b"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_007",
+        "title": "Mensuration",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1uk3vSstARlToMxdJqcX748yEXWApNCwD"
+      },
+
+
+
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_001",
+        "title": "Linear Equations in Two Variables",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1x2-vtaMVNBw4utAEhqo-IxhXncILTzDR"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_002",
+        "title": "Quadratic Equations",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1FoWhZhw7D1mpO1iMi9Aot70_CDpB3CxR"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_003",
+        "title": "Arithmetic Progression",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=14VcY-q7AwTkJJdA0fbPE2jxEmO6Sjpm8"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_004",
+        "title": "Financial Planning",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1G2S5PRifV_riG2Uy04iGTANEaDMhPJli"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_005",
+        "title": "Probability",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1GyS_8RBvab275D1liOOAC0kAhWemhSER"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_006",
+        "title": "Statistics",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Lu5OrldlLaTYrxzm2qPpca5VZ6QzNpsf"
+      },
+
+
+
+
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_001",
+        "title": "Gravitation",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1URZYFB_BxrCzbL3ArGopHS2rz-kYYt1j"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_002",
+        "title": "Periodic Classification of Elements",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1OVtBG64SR1NR5J4gqR4UyoT8MjEbLsIM"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_003",
+        "title": "Chemical Reactions and Equations",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1yBS6-XKELAb9R3CYZwPDI2o70mqY7XWC"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_004",
+        "title": "Effects of Electric Current",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1WB4nCmgg3nA0wmsEvUYxwUjhFcp9HVO_"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_005",
+        "title": "Heat",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1rsxrmYVmKlWK9DxEUu24-w7J__iQiaWC"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_006",
+        "title": "Refraction of Light",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=193uLBXNiGUqenL76ShlUxpg5Ffsgl_Gq"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_007",
+        "title": "Lenses",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1BfTZkP6EKbtxJd2meojU6JlcaKRWr73M"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_008",
+        "title": "Metallurgy",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1yBJFOA6TgbC_o3n8IZF5JFAayTuEyuUX"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_009",
+        "title": "Carbon Compounds",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1j1FrhNOmNV5o6BCNBVhBZA-PmKgrwp6g"
+      },
+      {
+        "bookUid": "science_part1_eng_10",
+        "uid": "sol_science_part1_eng_10_010",
+        "title": "Space Missions",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1A2e2UDaqe8Dk_AiXrqE68nmFo7QQR9-9"
+      },
+
+
+
+
+
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_001",
+        "title": "Heredity and Evolution",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1UNyrjuWWQ6H7shl1EjGRxLGSEbtsavIY"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_002",
+        "title": "Life Processes in Living Organisms – Part 1",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1CYwpIGpIOJGONki9hB8Zc8UGYLti9ZAK"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_003",
+        "title": "Life Processes in Living Organisms – Part 2",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1hDD5SaWkbg_ouM-CXOMuPuZ6vgxwch4v"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_004",
+        "title": "Environmental Management",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1KKwTCEDKlmByCFHl9AHXDnzu7XLAntxM"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_005",
+        "title": "Towards Green Energy",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1fr_mL-ouwxOauJ1En_dgET8yEYl1pKJe"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_006",
+        "title": "Animal Classification",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1znTSU88eK2MDRFBDpRDfdz3keA3W5bi6"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_007",
+        "title": "Introduction to Microbiology",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1R35D3JIHF2qGZ9CmgCxcL1TWFfp9_qen"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_008",
+        "title": "Cell Biology and Biotechnology",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Bd58T_kcclBhiVXcBTqhYxJHQV9hpTbB"
+      },
+      {
+        "bookUid": "science_part2_eng_10",
+        "uid": "sol_science_part2_eng_10_009",
+        "title": "Social Health",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=14yviua1vtujmQfKsrbB2ycX80yFA2IeQ"
+      },
+
+
+
+
+
+      {
+        "bookUid": "political_science_eng_10",
+        "uid": "sol_political_science_eng_10_001",
+        "title": "Working of the Constitution",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=12p76Fgr02BYkZjfzY96TEsGqlzDSDQv5"
+      },
+      {
+        "bookUid": "political_science_eng_10",
+        "uid": "sol_political_science_eng_10_002",
+        "title": "The Electoral Process",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1jN_Hn8-MNGE5dOhwsv8_LyhZpt6xEz1D"
+      },
+      {
+        "bookUid": "political_science_eng_10",
+        "uid": "sol_political_science_eng_10_003",
+        "title": "Political Parties",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1PU3ToLMue_37mKYaW2bl36bllCjZsoTC"
+      },
+      {
+        "bookUid": "political_science_eng_10",
+        "uid": "sol_political_science_eng_10_004",
+        "title": "Social and Political Movements",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1v4ijfrX5xDbrKWdph_SctfVYYMu_xHNV"
+      },
+      {
+        "bookUid": "political_science_eng_10",
+        "uid": "sol_political_science_eng_10_005",
+        "title": "Challenges Faced by Indian Democracy",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=185T34wzKabFsFD_HA3cxsvOcz3-jIXeM"
+      },
+
+
+
+
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_001",
+        "title": "Field Visit",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1pXkKES3tbhFOr_DS6xOj_SPAmhNXZ1D-"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_002",
+        "title": "Location and Extent",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1qXQLhlN4pHufFN9XMwoV1nI6vpaD-92k"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_003",
+        "title": "Physiography and Drainage",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YfC0WMkbeYUFjYFjg51InQDb4JFSjmT8"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_004",
+        "title": "Climate",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1b7GrPuwcMmQGO24qO2y0u9p5_WLi6DIp"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_005",
+        "title": "Natural Vegetation and Wildlife",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Ng5CVyYUm7yxGJEkixuJrmjuRpqujBRS"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_006",
+        "title": "Population",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1mRFIN2fGLc24AY9mu1BidSQpFQuTLlaT"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_007",
+        "title": "Human Settlements",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=18llAPahIIZsbC9ysnTusxe5_hgZOgHlT"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_008",
+        "title": "Economy and Occupations",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1gWJeA8NeMYFT3KpMCy0kH8FCP_p8tKZg"
+      },
+      {
+        "bookUid": "geography_eng_10",
+        "uid": "sol_geography_eng_10_009",
+        "title": "Tourism, Transport and Communication",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ubzCkKVcgJL0w5L36U5TLN-4F73ZkdGi"
+      },
+
+
+
+
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_001",
+        "title": "Where the Mind Is Without Fear",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=113jrUuzLfgPnWCLjFeaXCpxBMdyUdq0O"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_002",
+        "title": "The Thief’s Story",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1y76DYHuubvPLn7lJgzYIy3mvlrO9cxMW"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_003",
+        "title": "On Wings of Courage",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1jlmbQC1lTEbFfVCLbL7ar0wpw3pcGZg2"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_004",
+        "title": "All the World’s a Stage",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YBAUq9eD8p8lyVTtPInjRczaMsSqMg2c"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_005",
+        "title": "Joan of Arc",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1fCCpYSpEtjVYR_JFycj99P8yhAJbMNeK"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_006",
+        "title": "The Alchemy of Nature",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1P-RGSbAEIRmGzLEmDEY06JNb5N5WTiBf"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_007",
+        "title": "Animals",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZFZShOwNfHankbWZBRs5WCbaHzDrnCIo"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_008",
+        "title": "Three Questions",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1nYCdjjhYB9nEgLvIeVMdPYvTtkhSo1bb"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_009",
+        "title": "Connecting the Dots",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1WMmS0ErKhB7rSOdaJv1IT0iEr9Otpdp5"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_010",
+        "title": "The Pulley",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ClyxN2ej4QTKs7lobBwJzhi1enfjuOH5"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_011",
+        "title": "Let’s March",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1jR2g4mtp8aOtdmOYQkE-ckCPlVFyMexd"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_012",
+        "title": "Night of the Scorpion",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Lrb3SKByEDz356coUmur8wcAgsB_OrqL"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_013",
+        "title": "Science and Spirituality",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YY00ji9QOIijAs5EF5ygNedkFGm1UPEb"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_014",
+        "title": "The Night I Met Einstein",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1to8PyXaOBa30uF5rrNdcgJTGX1hw2MXB"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_015",
+        "title": "Stephen Hawking",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1kLl_Bv-PeZP_d1qr27bsshGrvjwbhqpy"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_016",
+        "title": "The Will to Win",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Vu3Oj00WuO4M0Vet1iTo_6LTrnD8VpGH"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_017",
+        "title": "Unbeatable Super Mom – Mary Kom",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1x1M_fzKWrR__R26_4dJNltv6qicae_T6"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_018",
+        "title": "The Concert",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1RlFSNRc6F1FQ92uLgp4xY1R2TpQGGQdY"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_019",
+        "title": "A Thing of Beauty Is a Joy Forever",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1MBM-gEZFCA5kpiXoZ3HF3JvGbf_tRO5E"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_020",
+        "title": "The Luncheon",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1qew9Qeau4q9OgXyuM6a0B9tc0_-u-64M"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_021",
+        "title": "World Heritage",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1kRpZgkMSiBqpXTCmjUBhqfiR3TO3fZpI"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_022",
+        "title": "The Height of the Ridiculous",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1rxY5IzKad4TTBi-zVD6or6uZxHUtwRad"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_023",
+        "title": "The Old Man and the Sea – Book Review",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1cFB_xAJ5fW5xguSLieUtam4YHMb6TgNs"
+      },
+      {
+        "bookUid": "english_eng_10",
+        "uid": "sol_english_eng_10_024",
+        "title": "The Gift of the Magi",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1lrEXAQMYuAEQqCaRY92Nr6WFTPzt2But"
+      },
+
+
+
+
+
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_001",
+        "title": "Turn Off the T.V.",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1gR9UbO662GMifR3zc8mH2XBM8-VnEsDm"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_002",
+        "title": "The Rats’ Feast",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1S_aBPPiLYMxzCfdWyoT52NeYO0uV1lms"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_003",
+        "title": "An Eye Opener",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=13KKEfakM7wpG-xHstqSlMDsA0hlD3RZm"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_004",
+        "title": "The Kingfisher",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ci-pXKEQF2ylK6yY5MqZyjwSzAyW3X0f"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_005",
+        "title": "Sorrows of Sparrows",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Q6iU_kBFaQPhIdwsfqk8FE-ZmB9K83ug"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_006",
+        "title": "Leopard That Strayed into School Trapped",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1wHK3dhYd5oP-GNGrmuhqe6H-Xl6B8--C"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_007",
+        "title": "Relishing Excellence",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1yHQrPtm82zf2MhZzR9hzJVnuWPtTdlhD"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_008",
+        "title": "Courage Takes Strange Forms",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1PL1Ym_u-hT77D4p5Q53C7mo9t_3Fs7Ab"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_009",
+        "title": "Climb ‘Til Your Dream Comes True",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1-5fOeVm2VFHClOQ_Eq-KFm-rQ9bUk2P5"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_010",
+        "title": "What’s Gravity",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1xe6Kxll9FWRkGZnM-u4rkbyihAvnfLN1"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_011",
+        "title": "With iPad and Notebook Around",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=16zDRmq-Gu80PRcm4GWDNi46oLGyjaJHO"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_012",
+        "title": "Robot the Curious",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1JWlm63aGEw0oxj1qx58Ps4Xbkv9a6MdL"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_013",
+        "title": "Food and Health",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1uyKkXwdAVQbp0iaFLbACw10SY0LBdahL"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_014",
+        "title": "Food as Love",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1UBLfw2GLvJsqYavNQqIGDF_oEp84L1SC"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_015",
+        "title": "Quick Fix Food",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1bEYUyGCWT0BKfQInjSgjcWy6B6HCV0Cv"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_016",
+        "title": "Nehru’s Letter to Children",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1p8GOOH8RNEp9j453G1cuL2XGczX4DzgO"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_017",
+        "title": "Saving the Environment",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=17mmuXU2_C_s2vh3DLagr1KdZ9yKnDj9o"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_018",
+        "title": "Mother Nature",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1px32P2w5pyI5Nx7QdA2YS8e87RP7zgkS"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_019",
+        "title": "On Another’s Sorrow",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1vdem9NMq8Mwpo_m-D5wj9AqcH2pfEOhO"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_020",
+        "title": "Speaking to Virdhawal Khade",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YexnexJ94nHL04mLuowaJ10_-3ItXQG7"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_021",
+        "title": "Mai",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1w7vgIOzEk49MdB5m9XhvVkyx_iu2ODzb"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_022",
+        "title": "Unexplored Beauty",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1-1ZQ5ml9ygpBWT6i0A3cFpZyfql054SD"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_023",
+        "title": "Help Me Go Home",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YKM0rDWN4Acns00UO2qZzOV2Ss31omOK"
+      },
+      {
+        "bookUid": "english_mar_10",
+        "uid": "sol_english_mar_10_024",
+        "title": "To My Beloved Motherland, India",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=15-pVOyGChD9ah8IqEkKc6LHCsKqA8905"
+      }
+
+
+
+
+
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_001",
+        "title": "Arithmetic Progression",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=137MjUuHLwzEJ3uwWzlK7ysedfaJ2cFQb"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_002",
+        "title": "Quadratic Equations",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=13umShteTDbJo_kP9Weop5M2CWqAt4rsZ"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_003",
+        "title": "Linear Equations in Two Variables",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YDvu1wOzzEvxoisIYxRh1dFpz-qoOzWQ"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_004",
+        "title": "Probability",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1QtVfFGV-Y8S8TbZ9ABEhfq2VaFTaJG8a"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_005",
+        "title": "Statistics I",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=12Y1bE_toHJBrzdAL-OgBQ6t587AerFlp"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_006",
+        "title": "Statistics II",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ivt8DiiAmFFo2LF9G2m8V-OYNuc-2tkB"
+      },
+
+
+
+      {
+        "bookUid": "national_security_eng_11",
+        "uid": "sol_national_security_eng_11_001",
+        "title": "The Changing Nature of the Concept of National Security",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1cWcgvtIOQHseg9y-LBO_LlRWBP_8qoFs"
+      },
+      {
+        "bookUid": "national_security_eng_11",
+        "uid": "sol_national_security_eng_11_002",
+        "title": "Internal Security",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1tyyLRIW2NyLn0n2t2kiuJnMGy-ku0wqO"
+      },
+      {
+        "bookUid": "national_security_eng_11",
+        "uid": "sol_national_security_eng_11_003",
+        "title": "Disaster Management",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1GPx-vqaad9qXAIlSdjbSmaxf_go4cga4"
+      },
+      {
+        "bookUid": "national_security_eng_11",
+        "uid": "sol_national_security_eng_11_004",
+        "title": "The Role of Armed Forces in Disaster Management",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1N1LQTOScIZ62SS0PjoBB68zQ8cPQLbly"
+      },
+      {
+        "bookUid": "national_security_eng_11",
+        "uid": "sol_national_security_eng_11_005",
+        "title": "Science, Technology, and National Security",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1WEwOSRCb4CoYBZ2nMnLX1f0OssnTOPwE"
+      },
+      {
+        "bookUid": "national_security_eng_11",
+        "uid": "sol_national_security_eng_11_006",
+        "title": "Career Opportunities in the Armed Forces",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=13wLVHEK4dH1wUxLueHMVto4bLaHYtPQq"
+      },
+
+
+
+
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_001",
+        "title": "Historiography: Development in the West",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1xyiuyRiLB2MMbzzBjD_WCHXY6abqs9Uu"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_002",
+        "title": "Historiography: Indian Tradition",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1i5MA8dfBE1vlNamF97gNHN-dEMkiXlfA"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_003",
+        "title": "Applied History",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1TUJKjJUR-6pHmWFV-CT1OjfQGjs1DMtT"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_004",
+        "title": "History of Indian Arts",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1A15ZhUuaASiVJju7EjOO3Cy2THgxZUGt"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_005",
+        "title": "Mass Media and History",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1L899N0SpkfZteyNBuuIV3cBh4X2Dq51u"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_006",
+        "title": "Entertainment and History",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Rh69tGNf2uQ0l_vRTHQJzGrI-IrWQYZl"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_007",
+        "title": "Sports and History",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1GxwyBdBdBfY_7NpKiWe3w3EWfAp8PqxS"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_008",
+        "title": "Tourism and History",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1P5xaykoQPjDe5r1JYR9sAaF70prPI0g4"
+      },
+      {
+        "bookUid": "history_eng_11",
+        "uid": "sol_history_eng_11_009",
+        "title": "Heritage Management",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1vw0yWj5D5_7Iv7XExMgMX0xOk2hNuedY"
+      },
+
+
+
+
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_001",
+        "title": "जय जय हे भारत देशा (गीत)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1XXXoQZ8KKB8RBbmiLfFWd5QEOelzpn9w"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_002",
+        "title": "बोलतो मराठी",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1f9aUN2ewS04y_sYW24a868yYxTocAae5"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_003",
+        "title": "आजी – कुटुंबाचं आगळ",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1tunQW6hDUt6cZL2fWaDybsOARwzblszU"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_004",
+        "title": "उत्तमलक्षण (संतकाव्य)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1C70uXBCczgC_HDu4HW0ECeJE2sQd5s7Z"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_005",
+        "title": "वसंतहृदय चैत्र",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1QiNM1PxyS-OCUU8kYJJoobuY4Scvn_i6"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_006",
+        "title": "वस्तू (कविता)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ME8Unx8xHDh2OFkBMU8JC2r-pckj-kFN"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_007",
+        "title": "गवताचे पाते",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1U36VsDaXSOqqOfTctrinckZfyruTL5t1"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_008",
+        "title": "वाट पाहताना",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZXv6KINVKav18TH7OERsOZcCLiq8P2oc"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_009",
+        "title": "आश्वासक चित्र (कविता)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1IzuzAlEFHZcp0-nDnsWx1IupQOKR8XO9"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_010",
+        "title": "आप्पांचे पत्र",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1kR9PJ6rFVBC6u51BbHECSNbkQdfxyI97"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_011",
+        "title": "गोष्ट अरुणिमाची",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1qg7X1Y5cZJDv3WrZH75lWZurtunjdaN_"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_012",
+        "title": "भरतवाक्य",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1E1KGVZZmwEfUgDpfTE8UCibrUmghOgKY"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_013",
+        "title": "कर्ते सुधारक कर्वे",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1jrVLhX42G9lKZtldQWpqlq0pqAcetjNc"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_014",
+        "title": "काळे केस",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1aIY5klu9JDx-9ebtTdXOPHQ001PFeeeh"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_015",
+        "title": "खोद आणखी थोडेसे",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1gKQuQRRExDdyQV057d2Zl4YbDG1mN7VR"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_016",
+        "title": "आकाशी झेप घे रे (कविता)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Wo_K0Sz_LKHYMKvW989xvtijNqytrhJb"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_017",
+        "title": "सोनाली (पाठ)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1p2oCuL1FTNlgHtJsx8s7mb0t8tkm6Lrz"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_018",
+        "title": "निर्णय (पाठ)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=131B0upPSv96peFWCyYEQE5okoleWPvgH"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_019",
+        "title": "तू झालास मूक समाजाचा नायक (कविता)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1tm6_6X-6B5UQuOZ8aZZGE4-d7esja-Zv"
+      },
+      {
+        "bookUid": "marathi_mar_10",
+        "uid": "sol_marathi_mar_10_020",
+        "title": "सर्व विश्वचि व्हावे सुखी (पाठ)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1oklkTEBtfdLWQ3qmau2KvBiFuL0X7ik-"
+      },
+
+
+
+
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_001",
+        "title": "आद्यकृषकः पृथुवैन्यः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1RgZw2w_kpLfzMWM50eFY2MqZryvMcnIR"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_002",
+        "title": "व्यसने मित्रपरीक्षा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1qrTS8jF-9M1n0COFuLReiIkbY59m6ooK"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_003",
+        "title": "सूक्तिसुधा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1naE27Tv9WZnnQzzN4KHbAtX4e4fvBV_9"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_004",
+        "title": "स एव परमाणुः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1z2F-UV4GY5hQfksMjYJB2bzbUdoF1rjD"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_005",
+        "title": "युग्ममाला",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1iqy0k5l27U8IxV-faGsm1qs_QXMRJsYm"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_006",
+        "title": "संस्कृतनाट्ययुग्मम्",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1FHzYy5clHaO0k0nzv0oXORUefGlE5dTU"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_007",
+        "title": "वाचनप्रशंसा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1TjreOofsqPBSRr_apq_lzGtmRMLowqMm"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_008",
+        "title": "नदीसूक्तम्",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1v3EQhtPArnPbQe0IJdBiNHpylZGcQUsX"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_009",
+        "title": "आदिशङ्कराचार्यः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1YP5dj3mMRd6Dj51hC-M5VLKSQMXEIDCm"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_010",
+        "title": "चित्रकाव्यम्",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Cw-GbDCp7mwpX2Aw0fBN-XAZaR0XKiRO"
+      },
+      {
+        "bookUid": "sanskrit_mar_10",
+        "uid": "sol_sanskrit_mar_10_011",
+        "title": "मानवताधर्मः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1EpjQoLzDlKATdx_BUk5hnjd2Kh7YS2PK"
+      },
+
+
+
+
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_001",
+        "title": "आद्यकृषकः पृथुवैन्यः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1o-2Mn7tPWoGp_huvr3-oU4muPDnGp_Lu"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_002",
+        "title": "व्यसने मित्रपरीक्षा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Qoj-yjaPrwFivrFtK6BSutwDAqyZhKOS"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_003",
+        "title": "सूक्तिसुधा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1T8ovK6ug604shCIzkilHiScCeqVobG66"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_004",
+        "title": "अमूल्यं कमलम्",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1osquYNAEu8iUNeoGQmPDQ7I12AxkvrQ8"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_005",
+        "title": "स एव परमाणुः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1qwR8a0bMy2MIKa2xqgu2ulPkdKKbfPAr"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_006",
+        "title": "युग्ममाला",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1BP6v6FJC_SthCzfnezSioe1O9GNx6eVE"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_007",
+        "title": "संस्कृतनाट्यस्तबकः",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1A2I2fLqxNedrRfNT_CqFf-qAvuGNpazM"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_008",
+        "title": "वाचनप्रशंसा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1fNc2OxIePvB5KcBqlp0d3PVwAsKGmIjT"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_009",
+        "title": "धेनोर्व्याघ्रः पलायते (गद्य)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1AB7SD1JuM0jCAvjQ4Q4LFOgpdaBMqXx7"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_010",
+        "title": "नदीसूक्तम् (संवाद)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1tSPxL8mgVLkiVbhfBII9TZeEwpQbcHXc"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_011",
+        "title": "जटायुशौर्यम् (पद्य)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=11e8lnx9gBetRqj8W6hNNxogqd01LulMj"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_012",
+        "title": "आदिशङ्कराचार्यः (गद्य)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=11UbwTomfKac9IjRfjGT3X46SXB7QRBnq"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_013",
+        "title": "चित्रकाव्यम् (पद्य)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1OuutVbUJBzVWWrmZUnpK69fzbu21aUaT"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_014",
+        "title": "प्रतिपदं संस्कृतम् (संवाद)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1rcd1uNq5Q11q0O1PGukpyiKi0ZQzqwLu"
+      },
+      {
+        "bookUid": "sanskrit_hin_9",
+        "uid": "sol_sanskrit_hin_9_015",
+        "title": "मानवताधर्मः (पद्य)",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=10LNsoRhw7SJkX2biNx8BdCIo8WQUoIFG"
+      },
+
+
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_001",
+        "title": "Arithmetic Progression",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1WvOm12Vl20T6jm0dOSTL-WFTTgEu9G-k"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_002",
+        "title": "Quadratic Equations",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1yKs8oeI1z9OFLil3eSQCgjOMlHvo7r89"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_003",
+        "title": "Linear Equations in Two Variables",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1TuJhM8Bpfuw6oV88XbXUzejjuO1fbjO5"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_004",
+        "title": "Probability",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=13mQDgwenA9rfBtoOw1HkE8FTVEK59P4D"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_005",
+        "title": "Statistics I",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=17-CgIM7Xk95e1c9cEUHsIqnRdSAmJXTh"
+      },
+      {
+        "bookUid": "maths_part1_eng_10",
+        "uid": "sol_maths_part1_eng_10_006",
+        "title": "Statistics II",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1DhdxL2jezYGzuof-dyq72mDcpYnR_a-Z"
+      },
+
+
+
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_001",
+        "title": "Similarity",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Q9_pf8AaBg3kBpgUj4llbZiLp6m7ASz1"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_002",
+        "title": "Circles",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=16VtdC4_quO546m930qW3_klS_wJ1Bop8"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_003",
+        "title": "Geometric Constructions",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1_zGjk4WVVqg9aKju59MJRxFyVb_QbHEi"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_004",
+        "title": "Trigonometry",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=10MlbhHlAvk2AxCv6EDfsaHEaGY1EivKI"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_005",
+        "title": "Coordinate Geometry",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1sd-v-klvW0Rfp9PsyYcL_Tdeyk8owTFz"
+      },
+      {
+        "bookUid": "maths_part2_eng_10",
+        "uid": "sol_maths_part2_eng_10_006",
+        "title": "Mensuration",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1A8niUm5hLzNLdCmmdtzQed6KnqXYaxIK"
+      },
+
+
+
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_001",
+        "title": "इतिहास लेखन: पाश्चात्त्य परंपरा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1cUiHlh_SuyUQ_-vLVj4xxwBIbkS7Adth"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_002",
+        "title": "इतिहासलेखन: भारतीय परंपरा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Z0goomqMMe9pQlMC9WjFVieGwBswDAoG"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_003",
+        "title": "उपयोजित इतिहास",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1lOg5NpdjIRTg6CX9HZ63oEpyrWO9R6OG"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_004",
+        "title": "भारतीय कलांचा इतिहास",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=140rXklXaBdL3H3MkORySM7-J6gCa6GfI"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_005",
+        "title": "प्रसारमाध्यमे आणि इतिहास",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ErFS_kL0J6EDkMHp7ced1ZzuvKsVXHpf"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_006",
+        "title": "मनोरंजनाची माध्यमे आणि इतिहास",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ex0fAsfHrTA3mAhDjaa7JPeNchaubXNF"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_007",
+        "title": "खेळ आणि इतिहास",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1LHxDAAVzyddOz4r-PxJYYU4tF1Zct6-L"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_008",
+        "title": "पर्यटन आणि इतिहास",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1KHVm6EGTAfHMH8j13CdL8Xxg-TgTeSHp"
+      },
+      {
+        "bookUid": "history_mar_11",
+        "uid": "sol_history_mar_11_009",
+        "title": "ऐतिहासिक ठेव्यांचे जतन",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1yQqe1uQLppNXpuzNiBjrPb5ZlatWMwcV"
+      },
+
+
+
+
+      {
+        "bookUid": "political_science_mar_10",
+        "uid": "sol_political_science_mar_10_001",
+        "title": "संविधानाची वाटचाल",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1I0wgIoiJ-vX9qkYrpTrk-o9Dvs1HuPd9"
+      },
+      {
+        "bookUid": "political_science_mar_10",
+        "uid": "sol_political_science_mar_10_002",
+        "title": "निवडणूक प्रक्रिया",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1H3_UWaoRJ_lLrbDApOgfQESyZRTLwLft"
+      },
+      {
+        "bookUid": "political_science_mar_10",
+        "uid": "sol_political_science_mar_10_003",
+        "title": "राजकीय पक्ष",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1pqsW_lodVEEfv2_VNd2kUofgLzQtiN00"
+      },
+      {
+        "bookUid": "political_science_mar_10",
+        "uid": "sol_political_science_mar_10_004",
+        "title": "सामाजिक व राजकीय चळवळी",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=13PN-H2M-Y_GVMZ-USrI7aR7SAFg5J39-"
+      },
+      {
+        "bookUid": "political_science_mar_10",
+        "uid": "sol_political_science_mar_10_005",
+        "title": "भारतीय लोकशाहीसमोरील आव्हाने",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1vlNgBLlxDnRFOf0z8TEA4JIzl8gMNB7q"
+      },
+
+
+
+
+
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_001",
+        "title": "क्षेत्रभेट",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1VsnE0uUyCye6FzSbRfQ-h2R_RGd8cm_D"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_002",
+        "title": "स्थान-विस्तार",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1b_lKxojEU1OR2jV5k52IP-UjXimsLHiJ"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_003",
+        "title": "प्राकृतिक रचना व जलप्रणाली",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=11tveUl7DkZ4I_gZ9auRc9IYISNLZf92x"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_004",
+        "title": "हवामान",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1-1Eg0qf6p7O64A8jLf4WnlFgsYPYCndz"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_005",
+        "title": "नैसर्गिक वनस्पती व प्राणी",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZbQei1ZalAkapzMl0-wvC2zOvVe8vvDH"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_006",
+        "title": "लोकसंख्या",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1-7Rkmefs2_W6paKzmMWhTtNpovhtVo5F"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_007",
+        "title": "मानवी वस्ती",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1ZCsG5zWmQ_V0CcdoE10uY51hHCeEqk1t"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_008",
+        "title": "अर्थव्यवस्था आणि व्यवसाय",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=15MUUCvx85f5CjWWYUOxoaUbHX8FoZJ6N"
+      },
+      {
+        "bookUid": "geography_mar_10",
+        "uid": "sol_geography_mar_10_009",
+        "title": "पर्यटन, वाहतूक व संदेशवहन",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1G706vS-iF_hdR-b2xjH4rO4R9_B6lug5"
+      },
+
+
+
+
+      {
+        "bookUid": "national_security_mar_11",
+        "uid": "sol_national_security_mar_11_001",
+        "title": "राष्ट्रीय सुरक्षा संकल्पनेचे बदलते स्वरूप",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1yKLY_-ijcWQ8gW8ODfxFNkC1Qz-DiKT_"
+      },
+      {
+        "bookUid": "national_security_mar_11",
+        "uid": "sol_national_security_mar_11_002",
+        "title": "अंतर्गत सुरक्षा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1IQ3e7sXUKJBS6cZXsbZ9eOpUFD1P3ZfL"
+      },
+      {
+        "bookUid": "national_security_mar_11",
+        "uid": "sol_national_security_mar_11_003",
+        "title": "आपत्ती व्यवस्थापन",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1P9z7YY3FuMlZDrCUYfpuMkdaLNmnDhpA"
+      },
+      {
+        "bookUid": "national_security_mar_11",
+        "uid": "sol_national_security_mar_11_004",
+        "title": "आपत्ती व्यवस्थापनातील लष्कराचे कार्य",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=11VzvSB0qUQpxUJYkOlZqjXxZFJmmYZh2"
+      },
+      {
+        "bookUid": "national_security_mar_11",
+        "uid": "sol_national_security_mar_11_005",
+        "title": "विज्ञान, तंत्रज्ञान आणि राष्ट्रीय सुरक्षा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1kIvbdgT2GKStHqE-we5K5r82qabux0-3"
+      },
+      {
+        "bookUid": "national_security_mar_11",
+        "uid": "sol_national_security_mar_11_006",
+        "title": "भारतीय सशस्त्र दलांतील सेवा संधी",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Nk403rsjplZQ_e4UkyDd2vrzcC8Qdg08"
+      },
+
+
+
+
+
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_001",
+        "title": "आनुवंशिकता व उत्क्रांती",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1L9sDFTRcCgrp7BUHzbdCaej0PjTASYzv"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_002",
+        "title": "सजीवांतील जीवनप्रक्रिया भाग 1",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=12kpwG72izS-PCPFG5plzgv6p3njrbUgz"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_003",
+        "title": "सजीवांतील जीवनप्रक्रिया भाग 2",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=12TwdWxsTvwmqhGCiaMybi1BIKsSiC9EI"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_004",
+        "title": "पर्यावरणीय व्यवस्थापन",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1aooRATA0ZjvjfzWTFhzXSV21EH3J9-oE"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_005",
+        "title": "हरित ऊर्जेच्या दिशेने",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1r10hLZ7Nxk0Rvk3RTVMRyqfRQhKWB0on"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_006",
+        "title": "प्राण्यांचे वर्गीकरण",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1bDnmRFgH7Z2kNDAGr0JbY5VBXz8yvZ69"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_007",
+        "title": "ओळख सूक्ष्मजीवशास्त्राची",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1gUKvtq_T108vABF3Ijyhh5_zkaOTblh2"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_008",
+        "title": "पेशीविज्ञान व जैवतंत्रज्ञान",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=15xHT8dqsiOQMFshQDb9FF4zjuM7udApN"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_009",
+        "title": "सामाजिक आरोग्य",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1rgZnBrA_wW70-3sI8UeAmVywu6vvrXTx"
+      },
+      {
+        "bookUid": "science_part2_mar_10",
+        "uid": "sol_science_part2_mar_10_010",
+        "title": "आपत्ती व्यवस्थापन",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1kPTCKJkTtd0JlBuMHOacidOA17NFR2q8"
+      },
+
+
+
+
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_001",
+        "title": "गुरुत्वाकर्षण",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1RwSVz3vN4PRltGKAcVx7SBDzUtqOgCAL"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_002",
+        "title": "मूलद्रव्यांचे आवर्ती वर्गीकरण",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1i45IM_J9PnoYvQ9b8WEuO3kdgn7y2kFf"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_003",
+        "title": "रासायनिक अभिक्रिया व समीकरणे",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=17QrAkVKRwdOnMpsV3rNYjMpbDBQe0bXE"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_004",
+        "title": "विद्युतधारेचे परिणाम",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=15HT8_OkuHu7eCR-LSVhZest5r7CrnwwN"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_005",
+        "title": "उष्णता",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1CCuwdni7EpEp183NpY7SKZYajJwfzNG7"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_006",
+        "title": "प्रकाशाचे अपवर्तन",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1TOh0-tEZedCZqcCvhPg81YWQkEQBeNuJ"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_007",
+        "title": "भिंगे व त्यांचे उपयोग",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=10H_-0e_HP4HhEhbRVylOwPwX1yT2Inr2"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_008",
+        "title": "धातुविज्ञान",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1wKs3Q_f5hHVuw4moNxuQlmHtCztSOJl5"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_009",
+        "title": "कार्बनी संयुगे",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=1Y7PfE074S0p00MiEXOqqrzWlpijRTu4u"
+      },
+      {
+        "bookUid": "science_part1_mar_10",
+        "uid": "sol_science_part1_mar_10_010",
+        "title": "अवकाश मोहिमा",
+        "pdfUrl": "https://drive.google.com/uc?export=download&id=17ajPfO_BaGxAFzQlipSFSXnlnd4t8je9"
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}
 
